@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "27008",
+    "D3N": "Serrana dos Quilombos - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1801.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "27009",
+    "D3N": "Mata Alagoana - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3969.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "27010",
+    "D3N": "Litoral Norte Alagoano - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "998.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "27011",
+    "D3N": "Maceió - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1810.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "27012",
+    "D3N": "São Miguel dos Campos - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2970.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "27013",
+    "D3N": "Penedo - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1689.9"
+  }
+]

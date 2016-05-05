@@ -1,0 +1,46 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "42015",
+    "D3N": "Tijucas - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2128.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "42016",
+    "D3N": "Florianópolis - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2872.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "42017",
+    "D3N": "Tabuleiro - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2348.9"
+  }
+]

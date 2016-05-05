@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "11003",
+    "D3N": "Ariquemes - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "24333.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "11004",
+    "D3N": "Ji-Paraná - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "25090.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "11005",
+    "D3N": "Alvorada D'Oeste - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "15965.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "11006",
+    "D3N": "Cacoal - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "24526.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "11007",
+    "D3N": "Vilhena - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "26582.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "11008",
+    "D3N": "Colorado do Oeste - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "14623.8"
+  }
+]

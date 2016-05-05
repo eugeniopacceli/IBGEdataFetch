@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29008",
+    "D3N": "Senhor do Bonfim - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "16563.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29009",
+    "D3N": "Irecê - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "17646.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29010",
+    "D3N": "Jacobina - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "18660.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29011",
+    "D3N": "Itaberaba - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "16719.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29012",
+    "D3N": "Feira de Santana - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "12587.7"
+  }
+]

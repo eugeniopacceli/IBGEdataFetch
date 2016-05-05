@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "26001",
+    "D3N": "Araripina - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "11547.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "26002",
+    "D3N": "Salgueiro - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8740.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "26003",
+    "D3N": "Pajeú - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8769.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "26004",
+    "D3N": "Sertão do Moxotó - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8939.1"
+  }
+]

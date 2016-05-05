@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "33014",
+    "D3N": "Vassouras - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1555.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "33015",
+    "D3N": "Serrana - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1786.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "33016",
+    "D3N": "Macacu-Caceribu - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1410.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "33017",
+    "D3N": "Itaguaí - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "912.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "33018",
+    "D3N": "Rio de Janeiro - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4587.5"
+  }
+]

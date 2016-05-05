@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23008",
+    "D3N": "Itapipoca - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3708.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23009",
+    "D3N": "Baixo Curu - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1435.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23010",
+    "D3N": "Uruburetama - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1057.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23011",
+    "D3N": "Médio Curu - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3021.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23012",
+    "D3N": "Canindé - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5331.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23013",
+    "D3N": "Baturité - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2700.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23014",
+    "D3N": "Chorozinho - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1284.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23015",
+    "D3N": "Cascavel - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2534.2"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "32007",
+    "D3N": "Afonso Cláudio - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3822.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "32008",
+    "D3N": "Santa Teresa - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3318.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "32009",
+    "D3N": "Vitória - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1456.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "32010",
+    "D3N": "Guarapari - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2100.2"
+  }
+]

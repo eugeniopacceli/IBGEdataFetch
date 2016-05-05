@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35049",
+    "D3N": "Campos do Jordão - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1009.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35050",
+    "D3N": "São José dos Campos - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4044.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35051",
+    "D3N": "Guaratinguetá - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2702.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35052",
+    "D3N": "Bananal - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2063.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35053",
+    "D3N": "Paraibuna/Paraitinga - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4416.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35054",
+    "D3N": "Caraguatatuba - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1944.1"
+  }
+]

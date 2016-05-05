@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "51015",
+    "D3N": "Alto Paraguai - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6725.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "51016",
+    "D3N": "Rosário Oeste - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9742.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "51017",
+    "D3N": "Cuiabá - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "27528.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "51018",
+    "D3N": "Alto Pantanal - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "53359.5"
+  }
+]

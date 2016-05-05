@@ -1,0 +1,46 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29001",
+    "D3N": "Barreiras - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "53017.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29002",
+    "D3N": "Cotegipe - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "23002.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29003",
+    "D3N": "Santa Maria da Vitória - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "40658.0"
+  }
+]

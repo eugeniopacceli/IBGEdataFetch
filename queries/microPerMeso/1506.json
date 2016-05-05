@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "15016",
+    "D3N": "Tucuruí - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "32879.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "15017",
+    "D3N": "Paragominas - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "48400.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "15018",
+    "D3N": "São Félix do Xingu - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "121106.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "15019",
+    "D3N": "Parauapebas - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "22543.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "15020",
+    "D3N": "Marabá - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "20073.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "15021",
+    "D3N": "Redenção - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "21168.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "15022",
+    "D3N": "Conceição do Araguaia - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "31195.5"
+  }
+]

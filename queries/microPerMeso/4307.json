@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "43032",
+    "D3N": "Serras de Sudeste - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "16423.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "43033",
+    "D3N": "Pelotas - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "10321.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "43034",
+    "D3N": "Jaguarão - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6325.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "43035",
+    "D3N": "Litoral Lagunar - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9274.6"
+  }
+]

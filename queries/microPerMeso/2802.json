@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "28003",
+    "D3N": "Nossa Senhora das Dores - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1254.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "28004",
+    "D3N": "Agreste de Itabaiana - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1121.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "28005",
+    "D3N": "Tobias Barreto - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2026.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "28006",
+    "D3N": "Agreste de Lagarto - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1501.0"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35019",
+    "D3N": "Lins - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3877.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35020",
+    "D3N": "Bauru - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8510.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35021",
+    "D3N": "Jaú - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4034.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35022",
+    "D3N": "Avaré - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5926.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35023",
+    "D3N": "Botucatu - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4374.5"
+  }
+]

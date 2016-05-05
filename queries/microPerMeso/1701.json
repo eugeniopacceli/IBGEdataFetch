@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "17001",
+    "D3N": "Bico do Papagaio - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "15767.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "17002",
+    "D3N": "Araguaína - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "26439.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "17003",
+    "D3N": "Miracema do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "34776.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "17004",
+    "D3N": "Rio Formoso - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "51405.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "17005",
+    "D3N": "Gurupi - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "27445.4"
+  }
+]

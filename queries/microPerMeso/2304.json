@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23018",
+    "D3N": "Sertão de Cratéus - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "12877.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23019",
+    "D3N": "Sertão de Quixeramobim - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "11985.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23020",
+    "D3N": "Sertão de Inhamuns - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "11692.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23021",
+    "D3N": "Sertão de Senador Pompeu - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9729.4"
+  }
+]

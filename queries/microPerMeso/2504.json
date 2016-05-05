@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "25020",
+    "D3N": "Litoral Norte - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1959.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "25021",
+    "D3N": "Sapé - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1139.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "25022",
+    "D3N": "João Pessoa - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1264.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "25023",
+    "D3N": "Litoral Sul - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "869.7"
+  }
+]

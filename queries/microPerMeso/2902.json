@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29004",
+    "D3N": "Juazeiro - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "55361.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29005",
+    "D3N": "Paulo Afonso - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "12343.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29006",
+    "D3N": "Barra - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "32365.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29007",
+    "D3N": "Bom Jesus da Lapa - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "15564.9"
+  }
+]

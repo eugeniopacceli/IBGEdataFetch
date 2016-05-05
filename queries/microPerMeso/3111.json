@@ -1,0 +1,46 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31057",
+    "D3N": "Lavras - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3442.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31058",
+    "D3N": "São João Del Rei - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5774.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31059",
+    "D3N": "Barbacena - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3364.2"
+  }
+]

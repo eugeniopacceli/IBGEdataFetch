@@ -1,0 +1,35 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "42009",
+    "D3N": "Curitibanos - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6596.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "42010",
+    "D3N": "Campos de Lages - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "15726.0"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "52013",
+    "D3N": "Sudoeste de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "56111.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "52014",
+    "D3N": "Vale do Rio dos Bois - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "13589.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "52015",
+    "D3N": "Meia Ponte - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "21165.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "52016",
+    "D3N": "Pires do Rio - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9496.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "52017",
+    "D3N": "Catalão - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "15209.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "52018",
+    "D3N": "Quirinópolis - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "16068.3"
+  }
+]

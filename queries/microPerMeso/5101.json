@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "51001",
+    "D3N": "Aripuanã - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "123950.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "51002",
+    "D3N": "Alta Floresta - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "51399.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "51003",
+    "D3N": "Colíder - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "42912.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "51004",
+    "D3N": "Parecis - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "59864.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "51005",
+    "D3N": "Arinos - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "54925.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "51006",
+    "D3N": "Alto Teles Pires - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "54751.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "51007",
+    "D3N": "Sinop - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "49670.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "51008",
+    "D3N": "Paranatinga - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "46834.1"
+  }
+]

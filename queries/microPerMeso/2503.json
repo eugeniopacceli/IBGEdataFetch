@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "25012",
+    "D3N": "Curimataú Ocidental - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3908.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "25013",
+    "D3N": "Curimataú Oriental - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1345.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "25014",
+    "D3N": "Esperança - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "278.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "25015",
+    "D3N": "Brejo Paraibano - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1164.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "25016",
+    "D3N": "Guarabira - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1290.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "25017",
+    "D3N": "Campina Grande - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2103.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "25018",
+    "D3N": "Itabaiana - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1658.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "25019",
+    "D3N": "Umbuzeiro - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1181.3"
+  }
+]

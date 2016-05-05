@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "42001",
+    "D3N": "São Miguel do Oeste - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4242.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "42002",
+    "D3N": "Chapecó - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6045.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "42003",
+    "D3N": "Xanxerê - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4805.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "42004",
+    "D3N": "Joaçaba - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9052.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "42005",
+    "D3N": "Concórdia - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3129.2"
+  }
+]

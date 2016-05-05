@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "22003",
+    "D3N": "Teresina - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9175.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "22004",
+    "D3N": "Campo Maior - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "24335.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "22005",
+    "D3N": "Médio Parnaíba Piauiense - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8381.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "22006",
+    "D3N": "Valença do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "13361.6"
+  }
+]

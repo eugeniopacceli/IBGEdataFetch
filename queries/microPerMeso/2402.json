@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "24008",
+    "D3N": "Macau - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1867.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "24009",
+    "D3N": "Angicos - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4079.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "24010",
+    "D3N": "Serra de Santana - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3019.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "24011",
+    "D3N": "Seridó Ocidental - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3065.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "24012",
+    "D3N": "Seridó Oriental - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3777.3"
+  }
+]

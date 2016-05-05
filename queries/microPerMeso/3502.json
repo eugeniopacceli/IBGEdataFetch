@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35009",
+    "D3N": "Barretos - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2717.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35010",
+    "D3N": "São Joaquim da Barra - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5564.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35011",
+    "D3N": "Ituverava - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2005.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35012",
+    "D3N": "Franca - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3443.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35013",
+    "D3N": "Jaboticabal - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4712.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35014",
+    "D3N": "Ribeirão Preto - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6007.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35015",
+    "D3N": "Batatais - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3089.5"
+  }
+]

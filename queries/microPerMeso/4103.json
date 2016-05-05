@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "41006",
+    "D3N": "Astorga - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5117.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "41007",
+    "D3N": "Porecatu - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2368.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "41008",
+    "D3N": "Floraí - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1299.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "41009",
+    "D3N": "Maringá - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1573.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "41010",
+    "D3N": "Apucarana - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2276.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "41011",
+    "D3N": "Londrina - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3501.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "41012",
+    "D3N": "Faxinal - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2265.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "41013",
+    "D3N": "Ivaiporã - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6154.3"
+  }
+]

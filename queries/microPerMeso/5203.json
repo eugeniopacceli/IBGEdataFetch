@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "52006",
+    "D3N": "Ceres - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "13162.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "52007",
+    "D3N": "Anápolis - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8346.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "52008",
+    "D3N": "Iporá - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7074.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "52009",
+    "D3N": "Anicuns - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5486.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "52010",
+    "D3N": "Goiânia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6729.1"
+  }
+]

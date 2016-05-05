@@ -1,0 +1,46 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "17006",
+    "D3N": "Porto Nacional - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "21198.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "17007",
+    "D3N": "Jalapão - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "53408.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "17008",
+    "D3N": "Dianópolis - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "47180.9"
+  }
+]

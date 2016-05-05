@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23001",
+    "D3N": "Litoral de Camocim e Acaraú - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8674.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23002",
+    "D3N": "Ibiapaba - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5068.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23003",
+    "D3N": "Coreaú - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2069.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23004",
+    "D3N": "Meruoca - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "288.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23005",
+    "D3N": "Sobral - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8211.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23006",
+    "D3N": "Ipu - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4221.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23007",
+    "D3N": "Santa Quitéria - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5971.0"
+  }
+]

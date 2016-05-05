@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31060",
+    "D3N": "Ponte Nova - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4868.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31061",
+    "D3N": "Manhuaçu - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4857.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31062",
+    "D3N": "Viçosa - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4825.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31063",
+    "D3N": "Muriaé - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4741.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31064",
+    "D3N": "Ubá - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3586.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31065",
+    "D3N": "Juiz de Fora - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8913.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31066",
+    "D3N": "Cataguases - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3918.7"
+  }
+]

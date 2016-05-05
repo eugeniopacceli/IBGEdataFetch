@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "51019",
+    "D3N": "Primavera do Leste - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "10253.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "51020",
+    "D3N": "Tesouro - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "27073.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "51021",
+    "D3N": "Rondonópolis - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "23840.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "51022",
+    "D3N": "Alto Araguaia - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "10679.1"
+  }
+]

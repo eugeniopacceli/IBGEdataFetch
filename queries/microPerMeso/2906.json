@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29022",
+    "D3N": "Boquira - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "16734.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29023",
+    "D3N": "Seabra - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "20262.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29024",
+    "D3N": "Jequié - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "17337.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29025",
+    "D3N": "Livramento do Brumado - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5503.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29026",
+    "D3N": "Guanambi - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "22562.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29027",
+    "D3N": "Brumado - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "15059.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29028",
+    "D3N": "Vitória da Conquista - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "19210.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29029",
+    "D3N": "Itapetinga - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "11206.5"
+  }
+]

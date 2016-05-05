@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "15009",
+    "D3N": "Salgado - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5887.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "15010",
+    "D3N": "Bragantina - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8796.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "15011",
+    "D3N": "Cametá - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "16660.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "15012",
+    "D3N": "Tomé-Açu - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "23704.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "15013",
+    "D3N": "Guamá - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "28267.3"
+  }
+]

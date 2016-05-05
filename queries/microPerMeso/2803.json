@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "28007",
+    "D3N": "Propriá - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1026.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "28008",
+    "D3N": "Cotinguiba - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "768.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "28009",
+    "D3N": "Japaratuba - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1435.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "28010",
+    "D3N": "Baixo Cotinguiba - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "740.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "28011",
+    "D3N": "Aracaju - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "865.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "28012",
+    "D3N": "Boquim - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1835.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "28013",
+    "D3N": "Estância - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2027.0"
+  }
+]

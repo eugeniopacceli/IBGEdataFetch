@@ -1,0 +1,46 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "43020",
+    "D3N": "Santa Cruz do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5564.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "43021",
+    "D3N": "Lajeado-Estrela - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4055.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "43022",
+    "D3N": "Cachoeira do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7581.0"
+  }
+]

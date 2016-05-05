@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31003",
+    "D3N": "Januária - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "33202.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31004",
+    "D3N": "Janaúba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "15033.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31005",
+    "D3N": "Salinas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "17823.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31006",
+    "D3N": "Pirapora - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "23068.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31007",
+    "D3N": "Montes Claros - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "22356.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31008",
+    "D3N": "Grão Mogol - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9071.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31009",
+    "D3N": "Bocaiúva - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7894.4"
+  }
+]

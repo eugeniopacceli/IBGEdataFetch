@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35041",
+    "D3N": "Itapeva - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7658.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35042",
+    "D3N": "Itapetininga - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3728.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35043",
+    "D3N": "Tatuí - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2241.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35044",
+    "D3N": "Capão Bonito - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6536.7"
+  }
+]

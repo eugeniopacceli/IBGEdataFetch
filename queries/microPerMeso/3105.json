@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31017",
+    "D3N": "Ituiutaba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8736.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31018",
+    "D3N": "Uberlândia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "18772.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31019",
+    "D3N": "Patrocínio - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "11987.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31020",
+    "D3N": "Patos de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "10734.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31021",
+    "D3N": "Frutal - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "16840.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31022",
+    "D3N": "Uberaba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9372.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31023",
+    "D3N": "Araxá - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "14097.6"
+  }
+]

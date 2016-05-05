@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31047",
+    "D3N": "Passos - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7104.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31048",
+    "D3N": "São Sebastião do Paraíso - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5155.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31049",
+    "D3N": "Alfenas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4991.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31050",
+    "D3N": "Varginha - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7606.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31051",
+    "D3N": "Poços de Caldas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4639.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31052",
+    "D3N": "Pouso Alegre - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4920.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31053",
+    "D3N": "Santa Rita do Sapucaí - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3289.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31054",
+    "D3N": "São Lourenço - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3833.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31055",
+    "D3N": "Andrelândia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5053.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31056",
+    "D3N": "Itajubá - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2982.1"
+  }
+]

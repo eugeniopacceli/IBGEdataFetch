@@ -1,0 +1,46 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29019",
+    "D3N": "Catu - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2740.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29020",
+    "D3N": "Santo Antônio de Jesus - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5649.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29021",
+    "D3N": "Salvador - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2892.3"
+  }
+]

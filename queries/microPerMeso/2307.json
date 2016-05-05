@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23029",
+    "D3N": "Chapada do Araripe - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4442.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23030",
+    "D3N": "Caririaçu - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1314.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23031",
+    "D3N": "Barro - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2680.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23032",
+    "D3N": "Cariri - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4532.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "23033",
+    "D3N": "Brejo Santo - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1922.2"
+  }
+]

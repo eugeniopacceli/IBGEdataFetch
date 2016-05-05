@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35057",
+    "D3N": "Osasco - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "685.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35058",
+    "D3N": "Franco da Rocha - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "601.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35059",
+    "D3N": "Guarulhos - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "778.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35060",
+    "D3N": "Itapecerica da Serra - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1469.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35061",
+    "D3N": "São Paulo - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2350.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35062",
+    "D3N": "Mogi das Cruzes - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2062.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35063",
+    "D3N": "Santos - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1352.8"
+  }
+]

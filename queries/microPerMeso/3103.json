@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31010",
+    "D3N": "Diamantina - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7367.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31011",
+    "D3N": "Capelinha - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "12008.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31012",
+    "D3N": "Araçuaí - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "10272.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31013",
+    "D3N": "Pedra Azul - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5060.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31014",
+    "D3N": "Almenara - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "15439.2"
+  }
+]

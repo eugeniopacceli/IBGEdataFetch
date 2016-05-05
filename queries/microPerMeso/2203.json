@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "22007",
+    "D3N": "Alto Parnaíba Piauiense - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "25485.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "22008",
+    "D3N": "Bertolínia - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "11098.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "22009",
+    "D3N": "Floriano - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "18448.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "22010",
+    "D3N": "Alto Médio Gurguéia - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "27608.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "22011",
+    "D3N": "São Raimundo Nonato - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "27513.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "22012",
+    "D3N": "Chapadas do Extremo Sul Piauiense - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "17853.5"
+  }
+]

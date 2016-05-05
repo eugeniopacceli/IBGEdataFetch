@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "25001",
+    "D3N": "Catolé do Rocha - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3038.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "25002",
+    "D3N": "Cajazeiras - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3404.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "25003",
+    "D3N": "Sousa - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4803.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "25004",
+    "D3N": "Patos - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2520.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "25005",
+    "D3N": "Piancó - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3285.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "25006",
+    "D3N": "Itaporanga - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3053.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "25007",
+    "D3N": "Serra do Teixeira - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2623.3"
+  }
+]

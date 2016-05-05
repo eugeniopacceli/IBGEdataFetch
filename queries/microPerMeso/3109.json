@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31042",
+    "D3N": "Piuí - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7659.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31043",
+    "D3N": "Divinópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5090.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31044",
+    "D3N": "Formiga - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4561.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31045",
+    "D3N": "Campo Belo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2698.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31046",
+    "D3N": "Oliveira - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4027.8"
+  }
+]

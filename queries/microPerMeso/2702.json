@@ -1,0 +1,46 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "27005",
+    "D3N": "Palmeira dos Índios - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2371.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "27006",
+    "D3N": "Arapiraca - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2442.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "27007",
+    "D3N": "Traipu - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "956.4"
+  }
+]

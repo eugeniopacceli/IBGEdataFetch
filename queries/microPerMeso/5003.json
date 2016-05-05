@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "50005",
+    "D3N": "Cassilândia - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "12872.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "50006",
+    "D3N": "Paranaíba - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "17187.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "50007",
+    "D3N": "Três Lagoas - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "50496.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "50008",
+    "D3N": "Nova Andradina - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "13455.9"
+  }
+]

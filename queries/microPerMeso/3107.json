@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31027",
+    "D3N": "Sete Lagoas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8573.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31028",
+    "D3N": "Conceição do Mato Dentro - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6814.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31029",
+    "D3N": "Pará de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1764.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31030",
+    "D3N": "Belo Horizonte - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5824.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31031",
+    "D3N": "Itabira - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8080.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31032",
+    "D3N": "Itaguara - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2423.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31033",
+    "D3N": "Ouro Preto - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3147.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "31034",
+    "D3N": "Conselheiro Lafaiete - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2943.6"
+  }
+]

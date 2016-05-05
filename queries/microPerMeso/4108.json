@@ -1,0 +1,46 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "41028",
+    "D3N": "Pitanga - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4904.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "41029",
+    "D3N": "Guarapuava - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "16115.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "41030",
+    "D3N": "Palmas - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5405.9"
+  }
+]

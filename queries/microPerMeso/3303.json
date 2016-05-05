@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "33005",
+    "D3N": "Três Rios - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1665.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "33006",
+    "D3N": "Cantagalo-Cordeiro - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1265.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "33007",
+    "D3N": "Nova Friburgo - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2088.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "33008",
+    "D3N": "Santa Maria Madalena - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1802.5"
+  }
+]

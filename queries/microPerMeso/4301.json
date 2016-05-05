@@ -1,0 +1,156 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "43001",
+    "D3N": "Santa Rosa - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3451.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "43002",
+    "D3N": "Três Passos - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3856.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "43003",
+    "D3N": "Frederico Westphalen - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5174.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "43004",
+    "D3N": "Erechim - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5725.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "43005",
+    "D3N": "Sananduva - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3065.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "43006",
+    "D3N": "Cerro Largo - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2250.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "43007",
+    "D3N": "Santo Ângelo - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "10761.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "43008",
+    "D3N": "Ijuí - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5100.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "43009",
+    "D3N": "Carazinho - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4932.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "43010",
+    "D3N": "Passo Fundo - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7075.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "43011",
+    "D3N": "Cruz Alta - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8449.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "43012",
+    "D3N": "Não-Me-Toque - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1495.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "43013",
+    "D3N": "Soledade - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3603.7"
+  }
+]

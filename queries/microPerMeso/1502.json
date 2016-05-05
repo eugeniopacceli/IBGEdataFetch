@@ -1,0 +1,46 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "15004",
+    "D3N": "Portel - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "45096.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "15005",
+    "D3N": "Furos de Breves - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "30094.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "15006",
+    "D3N": "Arari - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "28948.8"
+  }
+]

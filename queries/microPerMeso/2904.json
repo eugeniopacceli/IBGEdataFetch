@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29013",
+    "D3N": "Jeremoabo - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8020.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29014",
+    "D3N": "Euclides da Cunha - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "19648.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29015",
+    "D3N": "Ribeira do Pombal - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7848.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29016",
+    "D3N": "Serrinha - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "10692.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29017",
+    "D3N": "Alagoinhas - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5881.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "29018",
+    "D3N": "Entre Rios - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4362.7"
+  }
+]

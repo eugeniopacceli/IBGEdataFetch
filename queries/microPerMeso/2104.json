@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "21013",
+    "D3N": "Baixo Parnaíba Maranhense - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6515.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "21014",
+    "D3N": "Chapadinha - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "10225.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "21015",
+    "D3N": "Codó - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9910.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "21016",
+    "D3N": "Coelho Neto - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3606.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "21017",
+    "D3N": "Caxias - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "15329.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "21018",
+    "D3N": "Chapadas do Alto Itapecuru - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "24946.2"
+  }
+]

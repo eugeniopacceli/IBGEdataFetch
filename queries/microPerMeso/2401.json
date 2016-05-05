@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "24001",
+    "D3N": "Mossoró - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4194.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "24002",
+    "D3N": "Chapada do Apodi - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4095.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "24003",
+    "D3N": "Médio Oeste - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2862.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "24004",
+    "D3N": "Vale do Açu - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4756.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "24005",
+    "D3N": "Serra de São Miguel - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "971.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "24006",
+    "D3N": "Pau dos Ferros - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2672.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "24007",
+    "D3N": "Umarizal - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1621.1"
+  }
+]

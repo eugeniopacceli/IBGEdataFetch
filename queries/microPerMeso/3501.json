@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Microrregião Geográfica (Código)",
+    "D3N": "Microrregião Geográfica",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35001",
+    "D3N": "Jales - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3928.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35002",
+    "D3N": "Fernandópolis - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2811.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35003",
+    "D3N": "Votuporanga - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3208.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35004",
+    "D3N": "São José do Rio Preto - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "10397.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35005",
+    "D3N": "Catanduva - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2283.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35006",
+    "D3N": "Auriflama - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2312.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35007",
+    "D3N": "Nhandeara - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2016.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "35008",
+    "D3N": "Novo Horizonte - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2435.1"
+  }
+]
