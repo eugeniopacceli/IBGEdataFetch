@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5206404",
+    "D3N": "Crixás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4661.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5214002",
+    "D3N": "Mozarlândia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1734.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5214051",
+    "D3N": "Mundo Novo - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2146.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5214838",
+    "D3N": "Nova Crixás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7298.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5215256",
+    "D3N": "Novo Planalto - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1242.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5220207",
+    "D3N": "São Miguel do Araguaia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6144.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5221577",
+    "D3N": "Uirapuru - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1153.5"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2700805",
+    "D3N": "Belém - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "48.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2701209",
+    "D3N": "Cacimbinhas - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "273.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2702553",
+    "D3N": "Estrela de Alagoas - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "259.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2703106",
+    "D3N": "Igaci - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "334.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2704807",
+    "D3N": "Maribondo - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "174.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2704906",
+    "D3N": "Mar Vermelho - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "93.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2705309",
+    "D3N": "Minador do Negrão - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "167.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2706307",
+    "D3N": "Palmeira dos Índios - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "452.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2706604",
+    "D3N": "Paulo Jacinto - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "118.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2707602",
+    "D3N": "Quebrangulo - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "319.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2709004",
+    "D3N": "Tanque d'Arca - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "129.5"
+  }
+]

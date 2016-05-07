@@ -1,0 +1,46 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3303906",
+    "D3N": "Petrópolis - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "795.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3305158",
+    "D3N": "São José do Vale do Rio Preto - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "220.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3305802",
+    "D3N": "Teresópolis - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "770.6"
+  }
+]

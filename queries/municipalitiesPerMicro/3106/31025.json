@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3104809",
+    "D3N": "Augusto de Lima - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1254.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3109204",
+    "D3N": "Buenópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1599.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3119104",
+    "D3N": "Corinto - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2525.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3120904",
+    "D3N": "Curvelo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3298.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3125705",
+    "D3N": "Felixlândia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1554.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3131109",
+    "D3N": "Inimutaba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "524.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3136405",
+    "D3N": "Joaquim Felício - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "790.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3142502",
+    "D3N": "Monjolos - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "650.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3143609",
+    "D3N": "Morro da Garça - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "414.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3153202",
+    "D3N": "Presidente Juscelino - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "695.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3160603",
+    "D3N": "Santo Hipólito - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "430.7"
+  }
+]

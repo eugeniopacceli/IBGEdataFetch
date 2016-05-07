@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2401859",
+    "D3N": "Caiçara do Norte - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "189.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2404101",
+    "D3N": "Galinhos - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "342.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2404507",
+    "D3N": "Guamaré - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "259.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2407203",
+    "D3N": "Macau - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "788.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2411601",
+    "D3N": "São Bento do Norte - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "288.7"
+  }
+]

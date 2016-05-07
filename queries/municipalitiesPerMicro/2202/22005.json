@@ -1,0 +1,200 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2200103",
+    "D3N": "Agricolândia - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "112.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2200202",
+    "D3N": "Água Branca - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "97.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2200509",
+    "D3N": "Amarante - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1155.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2200608",
+    "D3N": "Angical do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "223.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2201002",
+    "D3N": "Arraial - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "682.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2201408",
+    "D3N": "Barro Duro - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "131.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2204105",
+    "D3N": "Francisco Ayres - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "656.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2204600",
+    "D3N": "Hugo Napoleão - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "224.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2205250",
+    "D3N": "Jardim do Mulato - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "509.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2205540",
+    "D3N": "Lagoinha do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "67.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2207108",
+    "D3N": "Olho D'Água do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "219.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2207504",
+    "D3N": "Palmeirais - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1499.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2207751",
+    "D3N": "Passagem Franca do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "849.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2208809",
+    "D3N": "Regeneração - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1251.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2209450",
+    "D3N": "Santo Antônio dos Milagres - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "33.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2209807",
+    "D3N": "São Gonçalo do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "150.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2210508",
+    "D3N": "São Pedro do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "518.3"
+  }
+]

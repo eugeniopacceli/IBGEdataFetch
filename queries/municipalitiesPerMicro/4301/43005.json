@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4301800",
+    "D3N": "Barracão - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "516.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4303202",
+    "D3N": "Cacique Doble - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "203.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4309803",
+    "D3N": "Ibiaçá - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "348.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4311700",
+    "D3N": "Machadinho - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "334.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4312203",
+    "D3N": "Maximiliano de Almeida - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "208.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4313607",
+    "D3N": "Paim Filho - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "182.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4316600",
+    "D3N": "Sananduva - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "504.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4317954",
+    "D3N": "Santo Expedito do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "125.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4318424",
+    "D3N": "São João da Urtiga - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "171.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4318606",
+    "D3N": "São José do Ouro - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "334.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4322186",
+    "D3N": "Tupanci do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "135.1"
+  }
+]

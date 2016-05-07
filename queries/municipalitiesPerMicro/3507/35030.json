@@ -1,0 +1,167 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3500402",
+    "D3N": "Águas da Prata - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "143.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3508702",
+    "D3N": "Caconde - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "470.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3510807",
+    "D3N": "Casa Branca - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "864.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3513900",
+    "D3N": "Divinolândia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "222.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3515186",
+    "D3N": "Espírito Santo do Pinhal - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "389.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3523800",
+    "D3N": "Itobi - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "139.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3530508",
+    "D3N": "Mococa - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "854.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3548104",
+    "D3N": "Santo Antônio do Jardim - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "110.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3549102",
+    "D3N": "São João da Boa Vista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "516.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3549706",
+    "D3N": "São José do Rio Pardo - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "419.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3550803",
+    "D3N": "São Sebastião da Grama - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "252.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3553302",
+    "D3N": "Tambaú - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "561.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3553609",
+    "D3N": "Tapiratiba - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "222.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3556404",
+    "D3N": "Vargem Grande do Sul - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "267.2"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3105103",
+    "D3N": "Bambuí - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1455.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3119807",
+    "D3N": "Córrego Danta - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "657.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3123403",
+    "D3N": "Doresópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "152.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3130309",
+    "D3N": "Iguatama - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "628.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3141306",
+    "D3N": "Medeiros - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "946.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3151503",
+    "D3N": "Piumhi - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "902.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3164308",
+    "D3N": "São Roque de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2098.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3168200",
+    "D3N": "Tapiraí - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "407.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3170602",
+    "D3N": "Vargem Bonita - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "409.9"
+  }
+]

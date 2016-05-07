@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2100154",
+    "D3N": "Água Doce do Maranhão - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "443.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2100907",
+    "D3N": "Araioses - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1782.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2106300",
+    "D3N": "Magalhães de Almeida - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "433.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2110104",
+    "D3N": "Santa Quitéria do Maranhão - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1917.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2110237",
+    "D3N": "Santana do Maranhão - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "932.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2110609",
+    "D3N": "São Bernardo - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1006.9"
+  }
+]

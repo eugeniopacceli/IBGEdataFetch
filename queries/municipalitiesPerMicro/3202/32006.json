@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3200607",
+    "D3N": "Aracruz - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1436.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3202207",
+    "D3N": "Fundão - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "279.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3202504",
+    "D3N": "Ibiraçu - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "199.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3203130",
+    "D3N": "João Neiva - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "272.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3203205",
+    "D3N": "Linhares - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3501.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3204351",
+    "D3N": "Rio Bananal - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "645.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3205010",
+    "D3N": "Sooretama - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "593.4"
+  }
+]

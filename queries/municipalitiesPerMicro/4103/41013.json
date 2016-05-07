@@ -1,0 +1,178 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4101655",
+    "D3N": "Arapuã - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "218.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4101853",
+    "D3N": "Ariranha do Ivaí - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "239.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4104402",
+    "D3N": "Cândido de Abreu - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1510.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4108551",
+    "D3N": "Godoy Moreira - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "131.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4108700",
+    "D3N": "Grandes Rios - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "314.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4111506",
+    "D3N": "Ivaiporã - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "431.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4112504",
+    "D3N": "Jardim Alegre - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "405.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4113429",
+    "D3N": "Lidianópolis - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "158.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4113759",
+    "D3N": "Lunardelli - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "199.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4114500",
+    "D3N": "Manoel Ribas - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "571.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4117271",
+    "D3N": "Nova Tebas - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "545.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4122172",
+    "D3N": "Rio Branco do Ivaí - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "382.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4122651",
+    "D3N": "Rosário do Ivaí - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "371.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4125001",
+    "D3N": "São João do Ivaí - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "353.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4125803",
+    "D3N": "São Pedro do Ivaí - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "322.7"
+  }
+]

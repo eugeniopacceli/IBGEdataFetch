@@ -1,0 +1,211 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4101051",
+    "D3N": "Anahy - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "102.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4103057",
+    "D3N": "Boa Vista da Aparecida - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "256.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4103354",
+    "D3N": "Braganey - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "343.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4103453",
+    "D3N": "Cafelândia - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "271.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4104055",
+    "D3N": "Campo Bonito - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "433.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4104600",
+    "D3N": "Capitão Leônidas Marques - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "275.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4104808",
+    "D3N": "Cascavel - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2100.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4105003",
+    "D3N": "Catanduvas - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "581.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4106308",
+    "D3N": "Corbélia - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "529.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4107124",
+    "D3N": "Diamante do Sul - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "359.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4109302",
+    "D3N": "Guaraniaçu - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1225.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4109757",
+    "D3N": "Ibema - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "145.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4110052",
+    "D3N": "Iguatu - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "106.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4113452",
+    "D3N": "Lindoeste - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "361.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4116703",
+    "D3N": "Nova Aurora - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "474.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4123824",
+    "D3N": "Santa Lúcia - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "116.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4124020",
+    "D3N": "Santa Tereza do Oeste - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "326.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4127858",
+    "D3N": "Três Barras do Paraná - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "504.2"
+  }
+]

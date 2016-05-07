@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5103205",
+    "D3N": "Colíder - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3093.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5104104",
+    "D3N": "Guarantã do Norte - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4735.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5105606",
+    "D3N": "Matupá - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5238.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106216",
+    "D3N": "Nova Canaã do Norte - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5966.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106265",
+    "D3N": "Novo Mundo - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5790.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106422",
+    "D3N": "Peixoto de Azevedo - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "14257.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5108055",
+    "D3N": "Terra Nova do Norte - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2717.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5108808",
+    "D3N": "Nova Guarita - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1114.1"
+  }
+]

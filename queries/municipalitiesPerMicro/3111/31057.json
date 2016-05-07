@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3114600",
+    "D3N": "Carrancas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "727.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3130408",
+    "D3N": "Ijaci - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "105.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3130804",
+    "D3N": "Ingaí - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "305.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3134301",
+    "D3N": "Itumirim - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "234.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3134509",
+    "D3N": "Itutinga - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "372.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3138203",
+    "D3N": "Lavras - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "564.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3138708",
+    "D3N": "Luminárias - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "500.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3144607",
+    "D3N": "Nepomuceno - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "582.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3154705",
+    "D3N": "Ribeirão Vermelho - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "49.3"
+  }
+]

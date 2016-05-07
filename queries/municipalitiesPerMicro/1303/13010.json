@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1300508",
+    "D3N": "Barreirinha - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5750.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1300680",
+    "D3N": "Boa Vista do Ramos - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2586.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1302900",
+    "D3N": "Maués - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "39989.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1303007",
+    "D3N": "Nhamundá - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "14105.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1303403",
+    "D3N": "Parintins - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5952.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1303957",
+    "D3N": "São Sebastião do Uatumã - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "10741.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1304302",
+    "D3N": "Urucará - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "27903.4"
+  }
+]

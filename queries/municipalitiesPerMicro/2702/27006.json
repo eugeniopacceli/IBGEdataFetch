@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2700300",
+    "D3N": "Arapiraca - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "356.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2701506",
+    "D3N": "Campo Grande - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "167.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2702009",
+    "D3N": "Coité do Nóia - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "88.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2702355",
+    "D3N": "Craíbas - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "271.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2702603",
+    "D3N": "Feira Grande - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "172.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2702900",
+    "D3N": "Girau do Ponciano - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "500.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2704104",
+    "D3N": "Lagoa da Canoa - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "88.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2704203",
+    "D3N": "Limoeiro de Anadia - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "315.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2708808",
+    "D3N": "São Sebastião - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "315.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2709103",
+    "D3N": "Taquarana - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "166.0"
+  }
+]

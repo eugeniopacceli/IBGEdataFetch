@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3501202",
+    "D3N": "Álvares Florence - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "362.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3501806",
+    "D3N": "Américo de Campos - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "253.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3510708",
+    "D3N": "Cardoso - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "639.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3512902",
+    "D3N": "Cosmorama - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "443.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3536257",
+    "D3N": "Parisi - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "84.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3540309",
+    "D3N": "Pontes Gestal - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "217.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3544202",
+    "D3N": "Riolândia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "633.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3556107",
+    "D3N": "Valentim Gentil - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "149.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3557105",
+    "D3N": "Votuporanga - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "424.1"
+  }
+]

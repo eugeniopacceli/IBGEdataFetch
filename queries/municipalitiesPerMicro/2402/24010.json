@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2401651",
+    "D3N": "Bodó - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "253.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2402709",
+    "D3N": "Cerro Corá - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "393.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2403806",
+    "D3N": "Florânia - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "504.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2406502",
+    "D3N": "Lagoa Nova - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "176.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2411403",
+    "D3N": "Santana do Matos - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1419.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2413003",
+    "D3N": "São Vicente - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "197.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2414159",
+    "D3N": "Tenente Laurentino Cruz - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "74.4"
+  }
+]

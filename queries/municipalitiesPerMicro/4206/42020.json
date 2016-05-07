@@ -1,0 +1,178 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4201406",
+    "D3N": "Araranguá - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "303.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4201950",
+    "D3N": "Balneário Arroio do Silva - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "94.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4202073",
+    "D3N": "Balneário Gaivota - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "147.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4205191",
+    "D3N": "Ermo - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "63.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4208708",
+    "D3N": "Jacinto Machado - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "428.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4210407",
+    "D3N": "Maracajá - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "63.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4210803",
+    "D3N": "Meleiro - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "186.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4211256",
+    "D3N": "Morro Grande - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "256.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4212254",
+    "D3N": "Passo de Torres - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "95.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4213807",
+    "D3N": "Praia Grande - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "278.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4215653",
+    "D3N": "Santa Rosa do Sul - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "151.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4216404",
+    "D3N": "São João do Sul - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "182.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4217709",
+    "D3N": "Sombrio - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "142.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4218103",
+    "D3N": "Timbé do Sul - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "333.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4218806",
+    "D3N": "Turvo - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "233.7"
+  }
+]

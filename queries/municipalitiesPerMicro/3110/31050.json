@@ -1,0 +1,189 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3107109",
+    "D3N": "Boa Esperança - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "860.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3110905",
+    "D3N": "Campanha - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "335.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3111309",
+    "D3N": "Campo do Meio - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "275.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3111606",
+    "D3N": "Campos Gerais - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "769.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3113909",
+    "D3N": "Carmo da Cachoeira - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "506.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3118700",
+    "D3N": "Coqueiral - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "296.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3123601",
+    "D3N": "Elói Mendes - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "499.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3128105",
+    "D3N": "Guapé - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "934.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3130507",
+    "D3N": "Ilicínea - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "376.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3142601",
+    "D3N": "Monsenhor Paulo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "216.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3158300",
+    "D3N": "Santana da Vargem - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "172.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3160801",
+    "D3N": "São Bento Abade - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "80.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3165206",
+    "D3N": "São Thomé das Letras - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "369.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3169307",
+    "D3N": "Três Corações - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "828.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3169406",
+    "D3N": "Três Pontas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "689.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3170701",
+    "D3N": "Varginha - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "395.4"
+  }
+]

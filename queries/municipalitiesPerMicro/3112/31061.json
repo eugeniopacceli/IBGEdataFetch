@@ -1,0 +1,233 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3100302",
+    "D3N": "Abre Campo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "470.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3102050",
+    "D3N": "Alto Caparaó - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "103.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3112109",
+    "D3N": "Caparaó - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "130.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3112901",
+    "D3N": "Caputira - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "187.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3116001",
+    "D3N": "Chalé - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "212.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3123528",
+    "D3N": "Durandé - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "217.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3137700",
+    "D3N": "Lajinha - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "431.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3138674",
+    "D3N": "Luisburgo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "145.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3139409",
+    "D3N": "Manhuaçu - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "628.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3139508",
+    "D3N": "Manhumirim - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "182.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3140530",
+    "D3N": "Martins Soares - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "113.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3140902",
+    "D3N": "Matipó - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "267.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3148756",
+    "D3N": "Pedra Bonita - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "173.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3153509",
+    "D3N": "Alto Jequitibá - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "152.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3154150",
+    "D3N": "Reduto - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "151.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3157906",
+    "D3N": "Santa Margarida - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "255.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3158904",
+    "D3N": "Santana do Manhuaçu - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "347.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3162559",
+    "D3N": "São João do Manhuaçu - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "143.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3163607",
+    "D3N": "São José do Mantimento - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "54.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3167608",
+    "D3N": "Simonésia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "486.5"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4101903",
+    "D3N": "Assaí - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "440.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4112702",
+    "D3N": "Jataizinho - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "159.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4117214",
+    "D3N": "Nova Santa Bárbara - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "71.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4121307",
+    "D3N": "Rancho Alegre - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "167.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4123204",
+    "D3N": "Santa Cecília do Pavão - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "110.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4124707",
+    "D3N": "São Jerônimo da Serra - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "823.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4126009",
+    "D3N": "São Sebastião da Amoreira - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "228.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4128401",
+    "D3N": "Uraí - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "237.8"
+  }
+]

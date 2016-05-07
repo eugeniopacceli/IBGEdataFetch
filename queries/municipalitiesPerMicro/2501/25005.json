@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2500205",
+    "D3N": "Aguiar - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "344.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2502607",
+    "D3N": "Igaracy - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "192.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2504207",
+    "D3N": "Catingueira - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "529.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2504801",
+    "D3N": "Coremas - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "379.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2505907",
+    "D3N": "Emas - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "240.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2510204",
+    "D3N": "Nova Olinda - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "84.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2510402",
+    "D3N": "Olho d'Água - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "596.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2511301",
+    "D3N": "Piancó - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "564.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2513604",
+    "D3N": "Santana dos Garrotes - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "353.8"
+  }
+]

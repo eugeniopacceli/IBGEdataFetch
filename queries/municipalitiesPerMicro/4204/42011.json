@@ -1,0 +1,233 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4200309",
+    "D3N": "Agronômica - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "130.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4201901",
+    "D3N": "Aurora - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "206.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4202859",
+    "D3N": "Braço do Trombudo - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "89.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4205100",
+    "D3N": "Dona Emma - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "181.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4206900",
+    "D3N": "Ibirama - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "246.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4209151",
+    "D3N": "José Boiteux - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "405.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4209508",
+    "D3N": "Laurentino - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "79.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4209904",
+    "D3N": "Lontras - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "198.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4210852",
+    "D3N": "Mirim Doce - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "336.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4213708",
+    "D3N": "Pouso Redondo - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "359.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4214003",
+    "D3N": "Presidente Getúlio - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "295.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4214102",
+    "D3N": "Presidente Nereu - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "224.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4214508",
+    "D3N": "Rio do Campo - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "506.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4214607",
+    "D3N": "Rio do Oeste - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "245.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4214805",
+    "D3N": "Rio do Sul - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "258.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4215307",
+    "D3N": "Salete - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "179.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4217808",
+    "D3N": "Taió - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "693.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4218608",
+    "D3N": "Trombudo Central - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "108.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4219358",
+    "D3N": "Vitor Meireles - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "371.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4219408",
+    "D3N": "Witmarsum - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "150.8"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2900355",
+    "D3N": "Adustina - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "632.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2901601",
+    "D3N": "Antas - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "319.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2902658",
+    "D3N": "Banzaê - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "227.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2907806",
+    "D3N": "Cícero Dantas - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "673.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2907905",
+    "D3N": "Cipó - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "128.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2910750",
+    "D3N": "Fátima - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "359.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2911857",
+    "D3N": "Heliópolis - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "312.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2916500",
+    "D3N": "Itapicuru - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1585.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2922904",
+    "D3N": "Nova Soure - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "950.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2923050",
+    "D3N": "Novo Triunfo - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "251.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2923100",
+    "D3N": "Olindina - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "542.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2923803",
+    "D3N": "Paripiranga - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "435.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2926509",
+    "D3N": "Ribeira do Amparo - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "642.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2926608",
+    "D3N": "Ribeira do Pombal - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "788.6"
+  }
+]

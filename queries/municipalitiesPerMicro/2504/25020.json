@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2501401",
+    "D3N": "Baía da Traição - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "102.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2504033",
+    "D3N": "Capim - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "78.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2505238",
+    "D3N": "Cuité de Mamanguape - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "108.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2505279",
+    "D3N": "Curral de Cima - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "85.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2507101",
+    "D3N": "Itapororoca - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "146.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2507309",
+    "D3N": "Jacaraú - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "253.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2508901",
+    "D3N": "Mamanguape - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "340.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2509057",
+    "D3N": "Marcação - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "122.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2509305",
+    "D3N": "Mataraca - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "184.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2512721",
+    "D3N": "Pedro Régis - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "73.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2512903",
+    "D3N": "Rio Tinto - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "464.9"
+  }
+]

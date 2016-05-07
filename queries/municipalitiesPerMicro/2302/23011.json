@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2300903",
+    "D3N": "Apuiarés - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "552.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2304608",
+    "D3N": "General Sampaio - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "187.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2310704",
+    "D3N": "Pentecoste - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1378.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2312601",
+    "D3N": "São Luís do Curu - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "122.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2313351",
+    "D3N": "Tejuçuoca - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "781.7"
+  }
+]

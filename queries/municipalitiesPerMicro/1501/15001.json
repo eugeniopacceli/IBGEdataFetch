@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1503002",
+    "D3N": "Faro - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "11770.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1503903",
+    "D3N": "Juruti - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8305.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1505106",
+    "D3N": "Óbidos - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "28021.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1505304",
+    "D3N": "Oriximiná - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "107603.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1507979",
+    "D3N": "Terra Santa - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1896.5"
+  }
+]

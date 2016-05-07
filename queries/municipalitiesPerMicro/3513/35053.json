@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3513603",
+    "D3N": "Cunha - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1407.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3524907",
+    "D3N": "Jambeiro - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "184.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3526308",
+    "D3N": "Lagoinha - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "255.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3532306",
+    "D3N": "Natividade da Serra - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "833.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3535606",
+    "D3N": "Paraibuna - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "809.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3542305",
+    "D3N": "Redenção da Serra - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "309.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3550001",
+    "D3N": "São Luís do Paraitinga - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "617.3"
+  }
+]

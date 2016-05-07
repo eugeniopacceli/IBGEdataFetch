@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2101707",
+    "D3N": "Barreirinhas - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3112.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2105005",
+    "D3N": "Humberto de Campos - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2131.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2108058",
+    "D3N": "Paulino Neves - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "979.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2109403",
+    "D3N": "Primeira Cruz - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1367.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2110278",
+    "D3N": "Santo Amaro do Maranhão - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1601.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2112506",
+    "D3N": "Tutóia - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1651.6"
+  }
+]

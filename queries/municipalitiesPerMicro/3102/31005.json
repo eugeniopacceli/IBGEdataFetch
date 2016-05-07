@@ -1,0 +1,200 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3101003",
+    "D3N": "Águas Vermelhas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1258.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3106655",
+    "D3N": "Berizal - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "488.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3120870",
+    "D3N": "Curral de Dentro - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "568.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3122355",
+    "D3N": "Divisa Alegre - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "117.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3127073",
+    "D3N": "Fruta de Leite - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "762.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3130655",
+    "D3N": "Indaiabira - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1004.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3143450",
+    "D3N": "Montezuma - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1130.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3144656",
+    "D3N": "Ninheira - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1108.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3145372",
+    "D3N": "Novorizonte - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "271.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3155603",
+    "D3N": "Rio Pardo de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3117.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3156502",
+    "D3N": "Rubelita - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1110.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3157005",
+    "D3N": "Salinas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1887.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3157377",
+    "D3N": "Santa Cruz de Salinas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "589.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3160454",
+    "D3N": "Santo Antônio do Retiro - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "796.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3162708",
+    "D3N": "São João do Paraíso - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1925.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3168002",
+    "D3N": "Taiobeiras - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1194.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3170651",
+    "D3N": "Vargem Grande do Rio Pardo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "491.5"
+  }
+]

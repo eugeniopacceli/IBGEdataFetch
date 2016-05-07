@@ -1,0 +1,200 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3504008",
+    "D3N": "Assis - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "460.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3507209",
+    "D3N": "Borá - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "118.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3509809",
+    "D3N": "Campos Novos Paulista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "484.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3510005",
+    "D3N": "Cândido Mota - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "596.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3513306",
+    "D3N": "Cruzália - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "149.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3516101",
+    "D3N": "Florínia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "225.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3519501",
+    "D3N": "Ibirarema - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "228.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3519907",
+    "D3N": "Iepê - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "595.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3527900",
+    "D3N": "Lutécia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "474.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3528809",
+    "D3N": "Maracaí - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "533.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3532157",
+    "D3N": "Nantes - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "286.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3535309",
+    "D3N": "Palmital - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "547.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3535507",
+    "D3N": "Paraguaçu Paulista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "999.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3537156",
+    "D3N": "Pedrinhas Paulista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "152.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3539707",
+    "D3N": "Platina - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "326.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3541703",
+    "D3N": "Quatá - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "651.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3553955",
+    "D3N": "Tarumã - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "303.2"
+  }
+]

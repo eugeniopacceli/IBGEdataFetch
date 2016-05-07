@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3107307",
+    "D3N": "Bocaiúva - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3227.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3123809",
+    "D3N": "Engenheiro Navarro - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "608.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3126604",
+    "D3N": "Francisco Dumont - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1576.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3128253",
+    "D3N": "Guaraciama - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "390.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3145455",
+    "D3N": "Olhos-d'Água - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2092.1"
+  }
+]

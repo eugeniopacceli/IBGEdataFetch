@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2201101",
+    "D3N": "Avelino Lopes - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1305.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2202901",
+    "D3N": "Corrente - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3048.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2203008",
+    "D3N": "Cristalândia do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1202.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2203206",
+    "D3N": "Curimatá - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2337.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2205524",
+    "D3N": "Júlio Borges - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1297.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2206654",
+    "D3N": "Morro Cabeça no Tempo - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2116.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2207603",
+    "D3N": "Parnaguá - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3429.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2208858",
+    "D3N": "Riacho Frio - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2222.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2210623",
+    "D3N": "Sebastião Barros - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "893.7"
+  }
+]

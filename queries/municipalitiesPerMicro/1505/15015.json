@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1500602",
+    "D3N": "Altamira - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "159533.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1500859",
+    "D3N": "Anapu - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "11895.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1501725",
+    "D3N": "Brasil Novo - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6362.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1504455",
+    "D3N": "Medicilândia - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8272.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1505486",
+    "D3N": "Pacajá - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "11832.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1507805",
+    "D3N": "Senador José Porfírio - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "14374.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1508159",
+    "D3N": "Uruará - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "10791.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1508357",
+    "D3N": "Vitória do Xingu - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3135.2"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2401602",
+    "D3N": "Bento Fernandes - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "301.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2405108",
+    "D3N": "Jandaíra - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "435.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2405801",
+    "D3N": "João Câmara - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "715.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2408805",
+    "D3N": "Parazinho - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "274.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2410108",
+    "D3N": "Poço Branco - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "230.4"
+  }
+]

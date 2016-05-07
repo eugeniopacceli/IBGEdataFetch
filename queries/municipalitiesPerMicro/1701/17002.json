@@ -1,0 +1,200 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1701309",
+    "D3N": "Aragominas - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1173.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1702109",
+    "D3N": "Araguaína - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4000.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1702158",
+    "D3N": "Araguanã - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "836.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1702307",
+    "D3N": "Arapoema - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1552.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1703008",
+    "D3N": "Babaçulândia - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1788.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1703057",
+    "D3N": "Bandeirantes do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1541.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1703883",
+    "D3N": "Carmolândia - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "339.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1705508",
+    "D3N": "Colinas do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "843.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1707702",
+    "D3N": "Filadélfia - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1988.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1713957",
+    "D3N": "Muricilândia - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1186.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1714880",
+    "D3N": "Nova Olinda - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1566.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1715705",
+    "D3N": "Palmeirante - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2640.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1716307",
+    "D3N": "Pau D'Arco - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1377.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1717206",
+    "D3N": "Piraquê - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1367.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1718865",
+    "D3N": "Santa Fé do Araguaia - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1678.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1722081",
+    "D3N": "Wanderlândia - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1373.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1722107",
+    "D3N": "Xambioá - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1186.4"
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3102100",
+    "D3N": "Alto Rio Doce - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "518.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3102506",
+    "D3N": "Amparo do Serra - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "145.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3103702",
+    "D3N": "Araponga - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "303.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3108701",
+    "D3N": "Brás Pires - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "223.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3110202",
+    "D3N": "Cajuri - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "83.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3111705",
+    "D3N": "Canaã - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "174.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3116308",
+    "D3N": "Cipotânea - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "153.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3116704",
+    "D3N": "Coimbra - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "106.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3124005",
+    "D3N": "Ervália - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "357.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3137908",
+    "D3N": "Lamim - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "118.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3148301",
+    "D3N": "Paula Cândido - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "268.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3148806",
+    "D3N": "Pedra do Anta - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "163.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3150802",
+    "D3N": "Piranga - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "658.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3152303",
+    "D3N": "Porto Firme - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "284.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3153103",
+    "D3N": "Presidente Bernardes - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "236.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3155207",
+    "D3N": "Rio Espera - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "238.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3163805",
+    "D3N": "São Miguel do Anta - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "152.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3166006",
+    "D3N": "Senhora de Oliveira - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "170.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3168507",
+    "D3N": "Teixeiras - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "166.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3171303",
+    "D3N": "Viçosa - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "299.4"
+  }
+]

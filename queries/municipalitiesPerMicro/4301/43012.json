@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4305603",
+    "D3N": "Colorado - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "285.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4311270",
+    "D3N": "Lagoa dos Três Cantos - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "138.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4312658",
+    "D3N": "Não-Me-Toque - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "361.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4320305",
+    "D3N": "Selbach - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "177.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4321006",
+    "D3N": "Tapera - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "179.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4321469",
+    "D3N": "Tio Hugo - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "114.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4323200",
+    "D3N": "Victor Graeff - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "238.3"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2101509",
+    "D3N": "Barão de Grajaú - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2247.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2103505",
+    "D3N": "Colinas - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1980.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2105450",
+    "D3N": "Jatobá - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "591.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2105922",
+    "D3N": "Lagoa do Mato - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1688.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2106706",
+    "D3N": "Mirador - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8450.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2107308",
+    "D3N": "Nova Iorque - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "976.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2107704",
+    "D3N": "Paraibano - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "530.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2107902",
+    "D3N": "Passagem Franca - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1358.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2108009",
+    "D3N": "Pastos Bons - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1635.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2110906",
+    "D3N": "São Francisco do Maranhão - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2347.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2111102",
+    "D3N": "São João dos Patos - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1500.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2111904",
+    "D3N": "Sucupira do Norte - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1074.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2111953",
+    "D3N": "Sucupira do Riachão - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "565.0"
+  }
+]

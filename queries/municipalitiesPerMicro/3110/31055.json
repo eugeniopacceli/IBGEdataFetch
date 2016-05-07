@@ -1,0 +1,156 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3101201",
+    "D3N": "Aiuruoca - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "649.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3102803",
+    "D3N": "Andrelândia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1005.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3103603",
+    "D3N": "Arantina - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "89.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3107208",
+    "D3N": "Bocaina de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "503.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3107505",
+    "D3N": "Bom Jardim de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "412.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3114808",
+    "D3N": "Carvalhos - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "282.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3120805",
+    "D3N": "Cruzília - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "522.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3138500",
+    "D3N": "Liberdade - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "401.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3141900",
+    "D3N": "Minduri - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "219.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3147808",
+    "D3N": "Passa-Vinte - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "246.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3165305",
+    "D3N": "São Vicente de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "392.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3166402",
+    "D3N": "Seritinga - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "114.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3167004",
+    "D3N": "Serranos - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "213.2"
+  }
+]

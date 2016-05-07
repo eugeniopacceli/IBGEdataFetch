@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3502002",
+    "D3N": "Analândia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "326.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3513702",
+    "D3N": "Descalvado - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "753.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3514304",
+    "D3N": "Dourado - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "205.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3519303",
+    "D3N": "Ibaté - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "290.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3542909",
+    "D3N": "Ribeirão Bonito - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "471.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3548906",
+    "D3N": "São Carlos - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1137.3"
+  }
+]

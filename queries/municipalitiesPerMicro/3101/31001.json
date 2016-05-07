@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3104502",
+    "D3N": "Arinos - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5279.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3108206",
+    "D3N": "Bonfinópolis de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1789.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3109303",
+    "D3N": "Buritis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5225.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3109451",
+    "D3N": "Cabeceira Grande - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1031.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3122470",
+    "D3N": "Dom Bosco - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "817.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3126208",
+    "D3N": "Formoso - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3685.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3144375",
+    "D3N": "Natalândia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "468.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3170404",
+    "D3N": "Unaí - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8447.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3170479",
+    "D3N": "Uruana de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "598.5"
+  }
+]

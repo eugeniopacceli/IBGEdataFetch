@@ -1,0 +1,200 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2600104",
+    "D3N": "Afogados da Ingazeira - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "377.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2602506",
+    "D3N": "Brejinho - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "106.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2603405",
+    "D3N": "Calumbi - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "179.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2603900",
+    "D3N": "Carnaíba - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "427.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2605608",
+    "D3N": "Flores - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "995.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2606903",
+    "D3N": "Iguaraci - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "838.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2607109",
+    "D3N": "Ingazeira - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "243.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2607703",
+    "D3N": "Itapetim - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "404.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2611533",
+    "D3N": "Quixaba - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "210.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2612471",
+    "D3N": "Santa Cruz da Baixa Verde - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "114.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2612802",
+    "D3N": "Santa Terezinha - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "195.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2613602",
+    "D3N": "São José do Egito - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "798.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2613909",
+    "D3N": "Serra Talhada - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2980.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2614402",
+    "D3N": "Solidão - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "138.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2614600",
+    "D3N": "Tabira - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "388.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2615706",
+    "D3N": "Triunfo - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "191.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2615904",
+    "D3N": "Tuparetama - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "178.6"
+  }
+]

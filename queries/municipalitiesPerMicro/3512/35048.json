@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3504107",
+    "D3N": "Atibaia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "478.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3507100",
+    "D3N": "Bom Jesus dos Perdões - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "107.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3507605",
+    "D3N": "Bragança Paulista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "512.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3523404",
+    "D3N": "Itatiba - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "322.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3525201",
+    "D3N": "Jarinu - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "207.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3525508",
+    "D3N": "Joanópolis - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "375.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3532009",
+    "D3N": "Morungaba - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "146.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3532405",
+    "D3N": "Nazaré Paulista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "325.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3538600",
+    "D3N": "Piracaia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "385.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3554953",
+    "D3N": "Tuiuti - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "126.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3556354",
+    "D3N": "Vargem - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "142.8"
+  }
+]

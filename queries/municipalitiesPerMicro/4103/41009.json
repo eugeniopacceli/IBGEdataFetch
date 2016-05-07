@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4114203",
+    "D3N": "Mandaguari - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "335.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4114807",
+    "D3N": "Marialva - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "475.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4115200",
+    "D3N": "Maringá - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "487.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4117503",
+    "D3N": "Paiçandu - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "170.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4126256",
+    "D3N": "Sarandi - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "103.3"
+  }
+]

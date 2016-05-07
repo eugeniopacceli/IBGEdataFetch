@@ -1,0 +1,189 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2600609",
+    "D3N": "Alagoinha - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "217.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2601706",
+    "D3N": "Belo Jardim - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "647.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2601904",
+    "D3N": "Bezerros - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "490.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2602605",
+    "D3N": "Brejo da Madre de Deus - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "762.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2603108",
+    "D3N": "Cachoeirinha - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "179.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2603801",
+    "D3N": "Capoeiras - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "336.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2604106",
+    "D3N": "Caruaru - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "920.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2606408",
+    "D3N": "Gravatá - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "505.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2608008",
+    "D3N": "Jataúba - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "672.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2610905",
+    "D3N": "Pesqueira - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "995.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2611200",
+    "D3N": "Poção - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "246.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2611705",
+    "D3N": "Riacho das Almas - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "314.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2612406",
+    "D3N": "Sanharó - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "268.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2613008",
+    "D3N": "São Bento do Una - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "719.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2613107",
+    "D3N": "São Caitano - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "382.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2614709",
+    "D3N": "Tacaimbó - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "227.6"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3300936",
+    "D3N": "Carapebus - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "308.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3301405",
+    "D3N": "Conceição de Macabu - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "347.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3302403",
+    "D3N": "Macaé - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1216.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3304151",
+    "D3N": "Quissamã - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "712.9"
+  }
+]

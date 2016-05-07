@@ -1,0 +1,178 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1703073",
+    "D3N": "Barra do Ouro - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1106.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1703842",
+    "D3N": "Campos Lindos - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3240.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1704105",
+    "D3N": "Centenário - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1954.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1709005",
+    "D3N": "Goiatins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6408.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1710508",
+    "D3N": "Itacajá - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3051.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1710904",
+    "D3N": "Itapiratins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1244.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1711951",
+    "D3N": "Lagoa do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "911.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1712405",
+    "D3N": "Lizarda - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5723.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1712702",
+    "D3N": "Mateiros - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9583.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1715101",
+    "D3N": "Novo Acordo - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2671.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1717909",
+    "D3N": "Ponte Alta do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6491.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1718501",
+    "D3N": "Recursolândia - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2216.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1718758",
+    "D3N": "Rio Sono - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6357.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1719004",
+    "D3N": "Santa Tereza do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "539.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1720150",
+    "D3N": "São Félix do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1908.7"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2604304",
+    "D3N": "Cedro - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "171.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2609303",
+    "D3N": "Mirandiba - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "821.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2610400",
+    "D3N": "Parnamirim - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2595.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2612208",
+    "D3N": "Salgueiro - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1686.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2613503",
+    "D3N": "São José do Belmonte - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1474.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2614006",
+    "D3N": "Serrita - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1514.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2616100",
+    "D3N": "Verdejante - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "476.0"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4103206",
+    "D3N": "Bom Sucesso - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "322.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4103305",
+    "D3N": "Borrazópolis - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "334.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4106852",
+    "D3N": "Cruzmaltina - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "312.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4107603",
+    "D3N": "Faxinal - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "715.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4113106",
+    "D3N": "Kaloré - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "193.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4115507",
+    "D3N": "Marumbi - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "208.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4122107",
+    "D3N": "Rio Bom - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "177.8"
+  }
+]

@@ -1,0 +1,145 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5101258",
+    "D3N": "Araputanga - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1600.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5103809",
+    "D3N": "Figueirópolis D'Oeste - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "899.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5103957",
+    "D3N": "Glória D'Oeste - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "853.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5104500",
+    "D3N": "Indiavaí - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "603.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5105002",
+    "D3N": "Jauru - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1302.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5105234",
+    "D3N": "Lambari D'Oeste - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1763.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5105622",
+    "D3N": "Mirassol d'Oeste - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1076.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106828",
+    "D3N": "Porto Esperidião - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5808.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107107",
+    "D3N": "São José dos Quatro Marcos - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1289.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107156",
+    "D3N": "Reserva do Cabaçal - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1337.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107206",
+    "D3N": "Rio Branco - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "562.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107750",
+    "D3N": "Salto do Céu - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1752.3"
+  }
+]

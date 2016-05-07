@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4110078",
+    "D3N": "Imbaú - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "331.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4117305",
+    "D3N": "Ortigueira - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2429.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4121703",
+    "D3N": "Reserva - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1635.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4127106",
+    "D3N": "Telêmaco Borba - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1382.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4127502",
+    "D3N": "Tibagi - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2951.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4128534",
+    "D3N": "Ventania - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "759.4"
+  }
+]

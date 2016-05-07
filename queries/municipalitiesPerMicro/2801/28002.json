@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2801405",
+    "D3N": "Carira - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "636.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2802304",
+    "D3N": "Frei Paulo - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "400.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2804458",
+    "D3N": "Nossa Senhora Aparecida - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "340.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2805000",
+    "D3N": "Pedra Mole - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "82.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2805208",
+    "D3N": "Pinhão - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "155.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2806008",
+    "D3N": "Ribeirópolis - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "258.5"
+  }
+]

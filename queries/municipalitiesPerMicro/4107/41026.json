@@ -1,0 +1,222 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4102604",
+    "D3N": "Barracão - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "171.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4103024",
+    "D3N": "Boa Esperança do Iguaçu - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "151.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4103156",
+    "D3N": "Bom Jesus do Sul - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "174.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4106571",
+    "D3N": "Cruzeiro do Iguaçu - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "161.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4107207",
+    "D3N": "Dois Vizinhos - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "418.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4107405",
+    "D3N": "Enéas Marques - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "192.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4107850",
+    "D3N": "Flor da Serra do Sul - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "239.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4108403",
+    "D3N": "Francisco Beltrão - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "735.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4114351",
+    "D3N": "Manfrinópolis - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "216.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4115408",
+    "D3N": "Marmeleiro - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "387.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4116950",
+    "D3N": "Nova Esperança do Sudoeste - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "208.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4117255",
+    "D3N": "Nova Prata do Iguaçu - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "352.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4119251",
+    "D3N": "Pinhal de São Bento - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "97.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4121604",
+    "D3N": "Renascença - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "425.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4122800",
+    "D3N": "Salgado Filho - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "189.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4123006",
+    "D3N": "Salto do Lontra - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "312.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4124400",
+    "D3N": "Santo Antônio do Sudoeste - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "325.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4125209",
+    "D3N": "São Jorge d'Oeste - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "379.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4128609",
+    "D3N": "Verê - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "311.8"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2301851",
+    "D3N": "Banabuiú - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1080.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2302404",
+    "D3N": "Boa Viagem - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2836.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2303931",
+    "D3N": "Choró - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "815.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2305266",
+    "D3N": "Ibaretama - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "877.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2307635",
+    "D3N": "Madalena - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1026.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2311306",
+    "D3N": "Quixadá - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2019.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2311405",
+    "D3N": "Quixeramobim - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3330.1"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3200359",
+    "D3N": "Alto Rio Novo - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "227.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3200805",
+    "D3N": "Baixo Guandu - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "917.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3201506",
+    "D3N": "Colatina - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1423.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3202256",
+    "D3N": "Governador Lindenberg - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "359.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3203353",
+    "D3N": "Marilândia - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "309.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3204005",
+    "D3N": "Pancas - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "823.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3204658",
+    "D3N": "São Domingos do Norte - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "299.5"
+  }
+]

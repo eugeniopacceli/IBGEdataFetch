@@ -1,0 +1,200 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3104601",
+    "D3N": "Astolfo Dutra - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "158.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3121902",
+    "D3N": "Divinésia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "117.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3123304",
+    "D3N": "Dores do Turvo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "231.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3128402",
+    "D3N": "Guarani - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "264.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3128808",
+    "D3N": "Guidoval - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "158.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3129004",
+    "D3N": "Guiricema - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "293.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3141603",
+    "D3N": "Mercês - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "348.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3151305",
+    "D3N": "Piraúba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "144.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3155801",
+    "D3N": "Rio Pomba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "252.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3156304",
+    "D3N": "Rodeiro - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "72.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3161502",
+    "D3N": "São Geraldo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "185.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3165701",
+    "D3N": "Senador Firmino - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "166.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3167301",
+    "D3N": "Silveirânia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "157.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3167905",
+    "D3N": "Tabuleiro - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "211.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3169000",
+    "D3N": "Tocantins - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "173.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3169901",
+    "D3N": "Ubá - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "407.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3172004",
+    "D3N": "Visconde do Rio Branco - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "243.4"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2300309",
+    "D3N": "Acopiara - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2253.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2304269",
+    "D3N": "Deputado Irapuan Pinheiro - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "470.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2308351",
+    "D3N": "Milhã - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "502.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2308500",
+    "D3N": "Mombaça - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2119.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2310506",
+    "D3N": "Pedra Branca - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1303.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2310902",
+    "D3N": "Piquet Carneiro - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "587.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2312700",
+    "D3N": "Senador Pompeu - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "956.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2313005",
+    "D3N": "Solonópole - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1536.2"
+  }
+]

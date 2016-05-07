@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5206305",
+    "D3N": "Cristianópolis - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "225.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5208152",
+    "D3N": "Gameleira de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "592.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5215306",
+    "D3N": "Orizona - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1972.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5215801",
+    "D3N": "Palmelo - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "59.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5217401",
+    "D3N": "Pires do Rio - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1073.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5219209",
+    "D3N": "Santa Cruz de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1109.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5220264",
+    "D3N": "São Miguel do Passa Quatro - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "537.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5220603",
+    "D3N": "Silvânia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2345.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5221809",
+    "D3N": "Urutaí - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "626.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5222005",
+    "D3N": "Vianópolis - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "954.3"
+  }
+]

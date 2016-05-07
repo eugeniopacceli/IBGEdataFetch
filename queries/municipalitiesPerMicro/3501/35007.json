@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3528106",
+    "D3N": "Macaubal - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "248.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3531001",
+    "D3N": "Monções - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "104.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3531407",
+    "D3N": "Monte Aprazível - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "496.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3532504",
+    "D3N": "Neves Paulista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "218.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3532603",
+    "D3N": "Nhandeara - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "435.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3532702",
+    "D3N": "Nipoã - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "137.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3539905",
+    "D3N": "Poloni - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "133.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3551306",
+    "D3N": "Sebastianópolis do Sul - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "162.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3555703",
+    "D3N": "União Paulista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "79.1"
+  }
+]

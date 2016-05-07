@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2901353",
+    "D3N": "Andorinha - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1247.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2901809",
+    "D3N": "Antônio Gonçalves - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "313.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2906006",
+    "D3N": "Campo Formoso - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7258.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2910859",
+    "D3N": "Filadélfia - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "570.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2917003",
+    "D3N": "Itiúba - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1722.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2917706",
+    "D3N": "Jaguarari - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2456.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2924603",
+    "D3N": "Pindobaçu - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "496.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2930105",
+    "D3N": "Senhor do Bonfim - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "827.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2932457",
+    "D3N": "Umburanas - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1670.5"
+  }
+]

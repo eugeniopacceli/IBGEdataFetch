@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2600054",
+    "D3N": "Abreu e Lima - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "130.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2603454",
+    "D3N": "Camaragibe - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "51.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2607901",
+    "D3N": "Jaboatão dos Guararapes - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "258.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2609402",
+    "D3N": "Moreno - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "196.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2609600",
+    "D3N": "Olinda - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "41.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2610707",
+    "D3N": "Paulista - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "97.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2611606",
+    "D3N": "Recife - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "218.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2613701",
+    "D3N": "São Lourenço da Mata - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "262.2"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2300101",
+    "D3N": "Abaiara - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "178.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2302503",
+    "D3N": "Brejo Santo - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "663.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2307205",
+    "D3N": "Jati - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "361.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2308302",
+    "D3N": "Milagres - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "577.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2310605",
+    "D3N": "Penaforte - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "141.9"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3300159",
+    "D3N": "Aperibé - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "94.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3300902",
+    "D3N": "Cambuci - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "561.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3302106",
+    "D3N": "Itaocara - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "431.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3303005",
+    "D3N": "Miracema - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "304.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3304706",
+    "D3N": "Santo Antônio de Pádua - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "603.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3305133",
+    "D3N": "São José de Ubá - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "250.3"
+  }
+]

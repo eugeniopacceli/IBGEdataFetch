@@ -1,0 +1,145 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3101607",
+    "D3N": "Alfenas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "850.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3102001",
+    "D3N": "Alterosa - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "362.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3104304",
+    "D3N": "Areado - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "283.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3114402",
+    "D3N": "Carmo do Rio Claro - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1065.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3114709",
+    "D3N": "Carvalhópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "81.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3117108",
+    "D3N": "Conceição da Aparecida - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "352.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3122405",
+    "D3N": "Divisa Nova - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "217.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3125200",
+    "D3N": "Fama - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "86.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3139003",
+    "D3N": "Machado - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "586.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3147204",
+    "D3N": "Paraguaçu - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "424.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3151701",
+    "D3N": "Poço Fundo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "474.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3166907",
+    "D3N": "Serrania - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "209.3"
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2902104",
+    "D3N": "Araci - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1556.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2903276",
+    "D3N": "Barrocas - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "201.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2903607",
+    "D3N": "Biritinga - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "550.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2906402",
+    "D3N": "Candeal - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "445.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2906857",
+    "D3N": "Capela do Alto Alegre - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "649.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2908408",
+    "D3N": "Conceição do Coité - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1016.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2911253",
+    "D3N": "Gavião - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "369.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2913309",
+    "D3N": "Ichu - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "127.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2919108",
+    "D3N": "Lamarão - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "174.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2922730",
+    "D3N": "Nova Fátima - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "349.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2924058",
+    "D3N": "Pé de Serra - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "616.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2926103",
+    "D3N": "Retirolândia - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "181.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2926301",
+    "D3N": "Riachão do Jacuípe - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1190.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2928000",
+    "D3N": "Santaluz - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1559.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2928950",
+    "D3N": "São Domingos - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "326.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2930501",
+    "D3N": "Serrinha - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "658.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2931509",
+    "D3N": "Teofilândia - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "335.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2933000",
+    "D3N": "Valente - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "384.3"
+  }
+]

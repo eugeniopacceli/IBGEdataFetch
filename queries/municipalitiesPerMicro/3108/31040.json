@@ -1,0 +1,233 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3107802",
+    "D3N": "Bom Jesus do Galho - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "592.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3109253",
+    "D3N": "Bugre - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "161.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3113404",
+    "D3N": "Caratinga - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1258.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3120003",
+    "D3N": "Córrego Novo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "205.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3122504",
+    "D3N": "Dom Cavati - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "59.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3123858",
+    "D3N": "Entre Folhas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "85.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3129301",
+    "D3N": "Iapu - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "340.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3130556",
+    "D3N": "Imbé de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "196.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3130903",
+    "D3N": "Inhapim - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "858.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3131158",
+    "D3N": "Ipaba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "113.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3150158",
+    "D3N": "Piedade de Caratinga - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "109.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3150539",
+    "D3N": "Pingo-d'Água - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "66.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3157252",
+    "D3N": "Santa Bárbara do Leste - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "107.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3159357",
+    "D3N": "Santa Rita de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "68.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3160959",
+    "D3N": "São Domingos das Dores - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "60.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3162609",
+    "D3N": "São João do Oriente - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "120.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3164472",
+    "D3N": "São Sebastião do Anta - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "80.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3168408",
+    "D3N": "Tarumirim - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "731.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3170057",
+    "D3N": "Ubaporanga - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "189.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3170578",
+    "D3N": "Vargem Alegre - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "116.7"
+  }
+]

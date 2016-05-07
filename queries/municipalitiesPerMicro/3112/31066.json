@@ -1,0 +1,167 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3101508",
+    "D3N": "Além Paraíba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "510.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3104403",
+    "D3N": "Argirita - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "159.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3115300",
+    "D3N": "Cataguases - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "491.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3122900",
+    "D3N": "Dona Eusébia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "70.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3124609",
+    "D3N": "Estrela Dalva - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "131.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3132602",
+    "D3N": "Itamarati de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "94.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3138005",
+    "D3N": "Laranjal - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "204.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3138401",
+    "D3N": "Leopoldina - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "943.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3146701",
+    "D3N": "Palma - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "316.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3151107",
+    "D3N": "Pirapetinga - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "190.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3154101",
+    "D3N": "Recreio - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "234.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3158409",
+    "D3N": "Santana de Cataguases - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "161.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3160009",
+    "D3N": "Santo Antônio do Aventureiro - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "202.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3172103",
+    "D3N": "Volta Grande - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "208.1"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2102556",
+    "D3N": "Campestre do Maranhão - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "615.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2102804",
+    "D3N": "Carolina - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6441.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2104057",
+    "D3N": "Estreito - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2719.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2109007",
+    "D3N": "Porto Franco - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1417.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2111052",
+    "D3N": "São João do Paraíso - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2053.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2111573",
+    "D3N": "São Pedro dos Crentes - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "979.6"
+  }
+]

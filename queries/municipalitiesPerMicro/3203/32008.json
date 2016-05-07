@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3202702",
+    "D3N": "Itaguaçu - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "530.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3202900",
+    "D3N": "Itarana - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "299.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3204500",
+    "D3N": "Santa Leopoldina - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "716.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3204559",
+    "D3N": "Santa Maria de Jetibá - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "735.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3204609",
+    "D3N": "Santa Teresa - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "694.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3204955",
+    "D3N": "São Roque do Canaã - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "342.4"
+  }
+]

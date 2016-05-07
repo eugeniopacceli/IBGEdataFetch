@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5105101",
+    "D3N": "Juara - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "22641.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106273",
+    "D3N": "Novo Horizonte do Norte - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "879.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106802",
+    "D3N": "Porto dos Gaúchos - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6993.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107305",
+    "D3N": "São José do Rio Claro - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4536.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107941",
+    "D3N": "Tabaporã - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8317.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5108907",
+    "D3N": "Nova Maringá - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "11557.3"
+  }
+]

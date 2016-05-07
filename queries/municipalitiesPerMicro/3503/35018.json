@@ -1,0 +1,211 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3501103",
+    "D3N": "Alto Alegre - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "319.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3504404",
+    "D3N": "Avanhandava - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "338.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3505104",
+    "D3N": "Barbosa - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "205.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3506409",
+    "D3N": "Bilac - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "157.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3506508",
+    "D3N": "Birigui - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "530.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3507704",
+    "D3N": "Braúna - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "195.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3507753",
+    "D3N": "Brejo Alegre - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "105.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3508108",
+    "D3N": "Buritama - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "326.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3511904",
+    "D3N": "Clementina - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "168.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3512506",
+    "D3N": "Coroados - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "246.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3516507",
+    "D3N": "Gabriel Monteiro - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "138.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3517109",
+    "D3N": "Glicério - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "273.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3527256",
+    "D3N": "Lourdes - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "113.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3527702",
+    "D3N": "Luiziânia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "166.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3537305",
+    "D3N": "Penápolis - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "710.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3537701",
+    "D3N": "Piacatu - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "232.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3548401",
+    "D3N": "Santópolis do Aguapeí - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "127.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3555208",
+    "D3N": "Turiúba - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "153.1"
+  }
+]

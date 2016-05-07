@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3503802",
+    "D3N": "Artur Nogueira - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "178.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3515152",
+    "D3N": "Engenheiro Coelho - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "109.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3522604",
+    "D3N": "Itapira - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "518.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3530706",
+    "D3N": "Mogi Guaçu - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "812.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3530805",
+    "D3N": "Moji Mirim - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "497.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3548005",
+    "D3N": "Santo Antônio de Posse - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "154.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3557303",
+    "D3N": "Estiva Gerbi - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "74.2"
+  }
+]

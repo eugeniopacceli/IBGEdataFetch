@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3513009",
+    "D3N": "Cotia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "323.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3515004",
+    "D3N": "Embu das Artes - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "70.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3515103",
+    "D3N": "Embu-Guaçu - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "154.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3522208",
+    "D3N": "Itapecerica da Serra - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "150.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3526209",
+    "D3N": "Juquitiba - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "522.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3549953",
+    "D3N": "São Lourenço da Serra - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "186.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3552809",
+    "D3N": "Taboão da Serra - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "20.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3556453",
+    "D3N": "Vargem Grande Paulista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "42.1"
+  }
+]

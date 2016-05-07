@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2700706",
+    "D3N": "Batalha - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "320.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2700904",
+    "D3N": "Belo Monte - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "334.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2703403",
+    "D3N": "Jacaré dos Homens - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "142.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2703700",
+    "D3N": "Jaramataia - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "103.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2704401",
+    "D3N": "Major Isidoro - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "453.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2705408",
+    "D3N": "Monteirópolis - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "86.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2705705",
+    "D3N": "Olho d'Água das Flores - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "183.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2706000",
+    "D3N": "Olivença - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "173.0"
+  }
+]

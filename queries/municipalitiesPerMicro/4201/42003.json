@@ -1,0 +1,200 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4200101",
+    "D3N": "Abelardo Luz - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "955.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4202537",
+    "D3N": "Bom Jesus - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "63.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4204459",
+    "D3N": "Coronel Martins - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "107.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4205175",
+    "D3N": "Entre Rios - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "105.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4205308",
+    "D3N": "Faxinal dos Guedes - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "339.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4205605",
+    "D3N": "Galvão - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "121.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4207684",
+    "D3N": "Ipuaçu - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "261.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4209177",
+    "D3N": "Jupiá - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "91.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4209458",
+    "D3N": "Lajeado Grande - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "65.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4210555",
+    "D3N": "Marema - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "103.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4211850",
+    "D3N": "Ouro Verde - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "189.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4212270",
+    "D3N": "Passos Maia - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "614.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4213401",
+    "D3N": "Ponte Serrada - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "564.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4216107",
+    "D3N": "São Domingos - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "383.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4219101",
+    "D3N": "Vargeão - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "166.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4219507",
+    "D3N": "Xanxerê - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "377.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4219705",
+    "D3N": "Xaxim - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "294.7"
+  }
+]

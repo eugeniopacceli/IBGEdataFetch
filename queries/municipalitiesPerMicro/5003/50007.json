@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5000203",
+    "D3N": "Água Clara - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "11031.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5002308",
+    "D3N": "Brasilândia - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5806.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5007109",
+    "D3N": "Ribas do Rio Pardo - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "17308.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5007554",
+    "D3N": "Santa Rita do Pardo - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6143.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5008305",
+    "D3N": "Três Lagoas - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "10207.0"
+  }
+]

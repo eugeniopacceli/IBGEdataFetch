@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2903904",
+    "D3N": "Bom Jesus da Lapa - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4200.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2907103",
+    "D3N": "Carinhanha - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2736.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2910776",
+    "D3N": "Feira da Mata - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1668.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2923704",
+    "D3N": "Paratinga - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2614.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2930154",
+    "D3N": "Serra do Ramalho - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2593.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2930758",
+    "D3N": "Sítio do Mato - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1751.0"
+  }
+]

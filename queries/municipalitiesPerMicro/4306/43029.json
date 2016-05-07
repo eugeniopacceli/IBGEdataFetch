@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4300406",
+    "D3N": "Alegrete - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7804.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4301875",
+    "D3N": "Barra do Quaraí - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1056.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4308656",
+    "D3N": "Garruchos - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "799.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4310603",
+    "D3N": "Itaqui - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3404.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4311718",
+    "D3N": "Maçambará - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1682.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4311759",
+    "D3N": "Manoel Viana - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1390.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4315305",
+    "D3N": "Quaraí - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3147.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4318002",
+    "D3N": "São Borja - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3616.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4318101",
+    "D3N": "São Francisco de Assis - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2508.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4322400",
+    "D3N": "Uruguaiana - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5715.8"
+  }
+]

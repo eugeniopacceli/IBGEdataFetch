@@ -1,0 +1,156 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3102407",
+    "D3N": "Alvorada de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "374.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3117504",
+    "D3N": "Conceição do Mato Dentro - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1726.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3118106",
+    "D3N": "Congonhas do Norte - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "398.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3122603",
+    "D3N": "Dom Joaquim - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "398.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3132800",
+    "D3N": "Itambé do Mato Dentro - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "380.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3143708",
+    "D3N": "Morro do Pilar - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "477.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3147501",
+    "D3N": "Passabém - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "94.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3156007",
+    "D3N": "Rio Vermelho - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "986.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3160207",
+    "D3N": "Santo Antônio do Itambé - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "305.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3160504",
+    "D3N": "Santo Antônio do Rio Abaixo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "107.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3164803",
+    "D3N": "São Sebastião do Rio Preto - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "128.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3166501",
+    "D3N": "Serra Azul de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "218.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3167103",
+    "D3N": "Serro - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1217.8"
+  }
+]

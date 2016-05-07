@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2700201",
+    "D3N": "Anadia - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "189.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2701001",
+    "D3N": "Boca da Mata - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "186.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2701407",
+    "D3N": "Campo Alegre - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "295.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2702306",
+    "D3N": "Coruripe - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "918.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2703759",
+    "D3N": "Jequiá da Praia - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "351.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2704005",
+    "D3N": "Junqueiro - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "241.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2707800",
+    "D3N": "Roteiro - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "129.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2708600",
+    "D3N": "São Miguel dos Campos - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "360.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2709152",
+    "D3N": "Teotônio Vilela - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "297.9"
+  }
+]

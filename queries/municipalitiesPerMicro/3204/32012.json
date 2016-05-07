@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3200508",
+    "D3N": "Apiacá - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "193.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3200706",
+    "D3N": "Atilio Vivacqua - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "226.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3201100",
+    "D3N": "Bom Jesus do Norte - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "89.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3201209",
+    "D3N": "Cachoeiro de Itapemirim - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "876.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3201407",
+    "D3N": "Castelo - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "664.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3203106",
+    "D3N": "Jerônimo Monteiro - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "162.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3203403",
+    "D3N": "Mimoso do Sul - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "867.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3203809",
+    "D3N": "Muqui - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "326.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3204807",
+    "D3N": "São José do Calçado - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "272.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3205036",
+    "D3N": "Vargem Alta - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "414.7"
+  }
+]

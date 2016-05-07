@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1500800",
+    "D3N": "Ananindeua - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "190.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1501303",
+    "D3N": "Barcarena - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1310.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1501402",
+    "D3N": "Belém - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1059.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1501501",
+    "D3N": "Benevides - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "187.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1504422",
+    "D3N": "Marituba - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "103.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1506351",
+    "D3N": "Santa Bárbara do Pará - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "278.2"
+  }
+]

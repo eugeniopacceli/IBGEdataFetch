@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3100203",
+    "D3N": "Abaeté - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1817.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3107000",
+    "D3N": "Biquinhas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "458.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3115607",
+    "D3N": "Cedro do Abaeté - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "283.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3143500",
+    "D3N": "Morada Nova de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2084.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3146404",
+    "D3N": "Paineiras - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "637.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3152006",
+    "D3N": "Pompéu - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2551.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3169356",
+    "D3N": "Três Marias - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2678.3"
+  }
+]

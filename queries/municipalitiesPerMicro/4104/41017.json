@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4106100",
+    "D3N": "Conselheiro Mairinck - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "204.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4107009",
+    "D3N": "Curiúva - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "576.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4107751",
+    "D3N": "Figueira - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "129.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4109708",
+    "D3N": "Ibaiti - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "897.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4111704",
+    "D3N": "Jaboti - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "139.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4112306",
+    "D3N": "Japira - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "188.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4119202",
+    "D3N": "Pinhalão - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "220.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4126207",
+    "D3N": "Sapopema - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "677.6"
+  }
+]

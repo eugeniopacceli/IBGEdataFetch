@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3500303",
+    "D3N": "Aguaí - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "474.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3539301",
+    "D3N": "Pirassununga - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "727.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3540705",
+    "D3N": "Porto Ferreira - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "244.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3546306",
+    "D3N": "Santa Cruz das Palmeiras - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "295.3"
+  }
+]

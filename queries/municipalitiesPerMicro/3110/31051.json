@@ -1,0 +1,156 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3101409",
+    "D3N": "Albertina - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "58.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3102605",
+    "D3N": "Andradas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "469.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3105301",
+    "D3N": "Bandeira do Sul - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "47.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3108404",
+    "D3N": "Botelhos - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "334.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3110301",
+    "D3N": "Caldas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "711.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3111002",
+    "D3N": "Campestre - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "577.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3129905",
+    "D3N": "Ibitiúra de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "68.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3130606",
+    "D3N": "Inconfidentes - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "149.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3134905",
+    "D3N": "Jacutinga - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "347.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3143401",
+    "D3N": "Monte Sião - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "291.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3146008",
+    "D3N": "Ouro Fino - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "533.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3151800",
+    "D3N": "Poços de Caldas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "547.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3159209",
+    "D3N": "Santa Rita de Caldas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "503.0"
+  }
+]

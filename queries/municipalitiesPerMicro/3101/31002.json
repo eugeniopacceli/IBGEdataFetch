@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3108552",
+    "D3N": "Brasilândia de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2509.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3128600",
+    "D3N": "Guarda-Mor - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2069.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3136306",
+    "D3N": "João Pinheiro - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "10727.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3137106",
+    "D3N": "Lagamar - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1474.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3137536",
+    "D3N": "Lagoa Grande - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1236.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3147006",
+    "D3N": "Paracatu - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8229.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3153400",
+    "D3N": "Presidente Olegário - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3503.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3161700",
+    "D3N": "São Gonçalo do Abaeté - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2692.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3170750",
+    "D3N": "Varjão de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "651.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3171006",
+    "D3N": "Vazante - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1913.4"
+  }
+]

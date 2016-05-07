@@ -1,0 +1,167 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3500105",
+    "D3N": "Adamantina - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "411.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3515806",
+    "D3N": "Flora Rica - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "225.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3516002",
+    "D3N": "Flórida Paulista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "525.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3520806",
+    "D3N": "Inúbia Paulista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "87.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3521606",
+    "D3N": "Irapuru - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "214.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3527405",
+    "D3N": "Lucélia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "314.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3528908",
+    "D3N": "Mariápolis - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "185.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3534609",
+    "D3N": "Osvaldo Cruz - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "248.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3534906",
+    "D3N": "Pacaembu - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "338.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3536000",
+    "D3N": "Parapuã - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "365.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3540853",
+    "D3N": "Pracinha - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "62.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3543808",
+    "D3N": "Rinópolis - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "358.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3544707",
+    "D3N": "Sagres - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "147.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3545100",
+    "D3N": "Salmourão - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "172.3"
+  }
+]

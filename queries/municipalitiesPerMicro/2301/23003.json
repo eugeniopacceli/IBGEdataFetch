@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2304004",
+    "D3N": "Coreaú - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "775.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2304509",
+    "D3N": "Frecheirinha - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "181.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2308807",
+    "D3N": "Moraújo - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "415.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2313906",
+    "D3N": "Uruoca - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "696.7"
+  }
+]

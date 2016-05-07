@@ -1,0 +1,156 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5200134",
+    "D3N": "Acreúna - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1566.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5204607",
+    "D3N": "Campestre de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "273.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5205455",
+    "D3N": "Cezarina - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "415.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5207352",
+    "D3N": "Edealina - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "603.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5207402",
+    "D3N": "Edéia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1461.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5209952",
+    "D3N": "Indiara - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "956.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5211701",
+    "D3N": "Jandaia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "864.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5215702",
+    "D3N": "Palmeiras de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1539.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5215900",
+    "D3N": "Palminópolis - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "387.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5216403",
+    "D3N": "Paraúna - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3779.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5220058",
+    "D3N": "São João da Paraúna - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "287.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5221551",
+    "D3N": "Turvelândia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "934.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5221908",
+    "D3N": "Varjão - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "519.2"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5200555",
+    "D3N": "Alto Horizonte - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "503.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5200829",
+    "D3N": "Amaralina - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1343.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5203575",
+    "D3N": "Bonópolis - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1628.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5204656",
+    "D3N": "Campinaçu - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1974.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5204706",
+    "D3N": "Campinorte - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1067.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5204953",
+    "D3N": "Campos Verdes - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "441.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5207501",
+    "D3N": "Estrela do Norte - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "301.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5208103",
+    "D3N": "Formoso - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "844.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5212808",
+    "D3N": "Mara Rosa - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1687.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5213087",
+    "D3N": "Minaçu - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2860.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5213772",
+    "D3N": "Montividiu do Norte - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1333.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5214101",
+    "D3N": "Mutunópolis - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "955.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5214606",
+    "D3N": "Niquelândia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9843.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5214879",
+    "D3N": "Nova Iguaçu de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "628.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5218003",
+    "D3N": "Porangatu - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4820.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5219605",
+    "D3N": "Santa Tereza de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "794.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5219704",
+    "D3N": "Santa Terezinha de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1202.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5221452",
+    "D3N": "Trombas - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "799.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5221601",
+    "D3N": "Uruaçu - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2141.8"
+  }
+]

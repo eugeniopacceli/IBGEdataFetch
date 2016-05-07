@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3106408",
+    "D3N": "Belo Vale - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "365.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3108107",
+    "D3N": "Bonfim - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "301.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3120607",
+    "D3N": "Crucilândia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "167.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3132206",
+    "D3N": "Itaguara - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "410.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3133709",
+    "D3N": "Itatiaiuçu - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "295.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3135407",
+    "D3N": "Jeceaba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "236.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3142304",
+    "D3N": "Moeda - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "155.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3150406",
+    "D3N": "Piedade dos Gerais - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "259.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3155306",
+    "D3N": "Rio Manso - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "231.5"
+  }
+]

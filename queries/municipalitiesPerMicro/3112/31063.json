@@ -1,0 +1,233 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3103108",
+    "D3N": "Antônio Prado de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "83.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3105509",
+    "D3N": "Barão de Monte Alto - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "198.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3110103",
+    "D3N": "Caiana - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "106.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3113305",
+    "D3N": "Carangola - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "353.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3122009",
+    "D3N": "Divino - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "337.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3124203",
+    "D3N": "Espera Feliz - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "317.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3124906",
+    "D3N": "Eugenópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "309.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3125309",
+    "D3N": "Faria Lemos - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "165.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3125952",
+    "D3N": "Fervedouro - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "357.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3142106",
+    "D3N": "Miradouro - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "301.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3142205",
+    "D3N": "Miraí - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "320.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3143906",
+    "D3N": "Muriaé - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "841.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3145877",
+    "D3N": "Orizânia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "121.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3148202",
+    "D3N": "Patrocínio do Muriaé - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "108.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3149002",
+    "D3N": "Pedra Dourada - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "70.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3156452",
+    "D3N": "Rosário da Limeira - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "111.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3161403",
+    "D3N": "São Francisco do Glória - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "164.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3164431",
+    "D3N": "São Sebastião da Vargem Alegre - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "73.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3169208",
+    "D3N": "Tombos - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "285.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3171402",
+    "D3N": "Vieiras - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "112.7"
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3513207",
+    "D3N": "Cristais Paulista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "385.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3516200",
+    "D3N": "Franca - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "605.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3523701",
+    "D3N": "Itirapuã - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "161.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3525409",
+    "D3N": "Jeriquara - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "142.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3536307",
+    "D3N": "Patrocínio Paulista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "602.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3537008",
+    "D3N": "Pedregulho - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "712.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3542701",
+    "D3N": "Restinga - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "245.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3543105",
+    "D3N": "Ribeirão Corrente - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "148.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3543600",
+    "D3N": "Rifaina - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "162.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3549508",
+    "D3N": "São José da Bela Vista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "277.0"
+  }
+]

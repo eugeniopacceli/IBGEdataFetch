@@ -1,0 +1,167 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4100103",
+    "D3N": "Abatiá - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "228.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4101101",
+    "D3N": "Andirá - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "236.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4102406",
+    "D3N": "Bandeirantes - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "445.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4106001",
+    "D3N": "Congonhinhas - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "536.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4106407",
+    "D3N": "Cornélio Procópio - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "635.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4111001",
+    "D3N": "Itambaracá - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "207.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4113403",
+    "D3N": "Leópolis - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "344.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4116604",
+    "D3N": "Nova América da Colina - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "129.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4117008",
+    "D3N": "Nova Fátima - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "283.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4121901",
+    "D3N": "Ribeirão do Pinhal - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "374.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4123105",
+    "D3N": "Santa Amélia - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "78.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4123907",
+    "D3N": "Santa Mariana - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "427.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4124301",
+    "D3N": "Santo Antônio do Paraíso - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "165.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4126405",
+    "D3N": "Sertaneja - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "444.5"
+  }
+]

@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3200300",
+    "D3N": "Alfredo Chaves - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "615.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3200409",
+    "D3N": "Anchieta - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "407.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3202405",
+    "D3N": "Guarapari - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "595.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3202603",
+    "D3N": "Iconha - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "202.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3204203",
+    "D3N": "Piúma - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "74.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3204401",
+    "D3N": "Rio Novo do Sul - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "203.7"
+  }
+]

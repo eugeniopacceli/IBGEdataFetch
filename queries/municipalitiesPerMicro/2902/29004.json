@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2905909",
+    "D3N": "Campo Alegre de Lourdes - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2781.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2907202",
+    "D3N": "Casa Nova - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9647.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2909901",
+    "D3N": "Curaçá - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6079.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2918407",
+    "D3N": "Juazeiro - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6500.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2924405",
+    "D3N": "Pilão Arcado - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "11732.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2926004",
+    "D3N": "Remanso - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4684.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2930204",
+    "D3N": "Sento Sé - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "12698.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2930774",
+    "D3N": "Sobradinho - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1238.9"
+  }
+]

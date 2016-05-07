@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2600203",
+    "D3N": "Afrânio - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1490.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2603009",
+    "D3N": "Cabrobó - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1657.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2605152",
+    "D3N": "Dormentes - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1537.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2608750",
+    "D3N": "Lagoa Grande - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1852.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2609808",
+    "D3N": "Orocó - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "554.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2611101",
+    "D3N": "Petrolina - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4558.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2612604",
+    "D3N": "Santa Maria da Boa Vista - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3001.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2615201",
+    "D3N": "Terra Nova - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "321.4"
+  }
+]

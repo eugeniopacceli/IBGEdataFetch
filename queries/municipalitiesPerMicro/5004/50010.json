@@ -1,0 +1,178 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5000609",
+    "D3N": "Amambai - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4202.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5000906",
+    "D3N": "Antônio João - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1145.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5001243",
+    "D3N": "Aral Moreira - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1655.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5002407",
+    "D3N": "Caarapó - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2089.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5003504",
+    "D3N": "Douradina - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "280.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5003702",
+    "D3N": "Dourados - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4086.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5003801",
+    "D3N": "Fátima do Sul - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "315.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5004502",
+    "D3N": "Itaporã - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1321.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5005152",
+    "D3N": "Juti - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1584.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5005251",
+    "D3N": "Laguna Carapã - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1734.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5005400",
+    "D3N": "Maracaju - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5299.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5006002",
+    "D3N": "Nova Alvorada do Sul - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4019.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5006606",
+    "D3N": "Ponta Porã - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5330.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5007208",
+    "D3N": "Rio Brilhante - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3987.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5008404",
+    "D3N": "Vicentina - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "310.2"
+  }
+]

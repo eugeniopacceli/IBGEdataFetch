@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4303301",
+    "D3N": "Caibaté - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "259.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4303707",
+    "D3N": "Campina das Missões - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "225.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4305207",
+    "D3N": "Cerro Largo - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "177.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4309506",
+    "D3N": "Guarani das Missões - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "290.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4312179",
+    "D3N": "Mato Queimado - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "114.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4315107",
+    "D3N": "Porto Xavier - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "280.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4316303",
+    "D3N": "Roque Gonzales - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "346.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4316477",
+    "D3N": "Salvador das Missões - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "94.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4319307",
+    "D3N": "São Paulo das Missões - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "223.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4319372",
+    "D3N": "São Pedro do Butiá - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "107.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4320578",
+    "D3N": "Sete de Setembro - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "130.0"
+  }
+]

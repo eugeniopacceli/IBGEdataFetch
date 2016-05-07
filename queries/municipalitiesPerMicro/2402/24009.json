@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2400307",
+    "D3N": "Afonso Bezerra - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "576.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2400802",
+    "D3N": "Angicos - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "741.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2401909",
+    "D3N": "Caiçara do Rio do Vento - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "261.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2403756",
+    "D3N": "Fernando Pedroza - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "322.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2405504",
+    "D3N": "Jardim de Angicos - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "254.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2406700",
+    "D3N": "Lajes - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "676.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2409605",
+    "D3N": "Pedra Preta - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "295.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2409704",
+    "D3N": "Pedro Avelino - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "952.8"
+  }
+]

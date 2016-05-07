@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2102705",
+    "D3N": "Cantanhede - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "773.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2105401",
+    "D3N": "Itapecuru Mirim - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1471.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2106631",
+    "D3N": "Matões do Norte - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "794.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2106755",
+    "D3N": "Miranda do Norte - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "341.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2107209",
+    "D3N": "Nina Rodrigues - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "572.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2108801",
+    "D3N": "Pirapemas - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "688.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2109304",
+    "D3N": "Presidente Vargas - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "459.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2112704",
+    "D3N": "Vargem Grande - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1957.7"
+  }
+]

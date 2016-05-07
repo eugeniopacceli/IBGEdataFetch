@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5101704",
+    "D3N": "Barra do Bugres - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5992.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5103452",
+    "D3N": "Denise - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1307.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106232",
+    "D3N": "Nova Olímpia - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1549.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106851",
+    "D3N": "Porto Estrela - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2062.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107958",
+    "D3N": "Tangará da Serra - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "11391.3"
+  }
+]

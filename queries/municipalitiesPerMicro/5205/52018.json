@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5204102",
+    "D3N": "Cachoeira Alta - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1654.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5204300",
+    "D3N": "Caçu - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2251.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5209150",
+    "D3N": "Gouvelândia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "824.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5210802",
+    "D3N": "Itajá - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2091.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5211305",
+    "D3N": "Itarumã - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3433.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5212253",
+    "D3N": "Lagoa Santa - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "458.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5216304",
+    "D3N": "Paranaiguara - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1153.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5218508",
+    "D3N": "Quirinópolis - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3786.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5220405",
+    "D3N": "São Simão - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "414.0"
+  }
+]

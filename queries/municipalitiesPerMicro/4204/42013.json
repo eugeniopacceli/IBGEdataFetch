@@ -1,0 +1,145 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4202008",
+    "D3N": "Balneário Camboriú - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "46.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4202107",
+    "D3N": "Barra Velha - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "140.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4202453",
+    "D3N": "Bombinhas - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "33.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4203204",
+    "D3N": "Camboriú - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "214.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4207106",
+    "D3N": "Ilhota - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "253.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4208203",
+    "D3N": "Itajaí - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "289.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4208302",
+    "D3N": "Itapema - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "59.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4211306",
+    "D3N": "Navegantes - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "111.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4212502",
+    "D3N": "Penha - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "62.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4212809",
+    "D3N": "Balneário Piçarras - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "99.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4213500",
+    "D3N": "Porto Belo - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "95.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4216354",
+    "D3N": "São João do Itaperiú - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "151.9"
+  }
+]

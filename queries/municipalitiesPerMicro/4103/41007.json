@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4100806",
+    "D3N": "Alvorada do Sul - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "424.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4102802",
+    "D3N": "Bela Vista do Paraíso - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "242.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4108007",
+    "D3N": "Florestópolis - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "246.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4116000",
+    "D3N": "Miraselva - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "90.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4120002",
+    "D3N": "Porecatu - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "291.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4120333",
+    "D3N": "Prado Ferreira - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "153.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4120507",
+    "D3N": "Primeiro de Maio - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "414.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4126504",
+    "D3N": "Sertanópolis - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "505.5"
+  }
+]

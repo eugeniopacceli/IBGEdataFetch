@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3508801",
+    "D3N": "Cafelândia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "920.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3517000",
+    "D3N": "Getulina - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "678.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3517208",
+    "D3N": "Guaiçara - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "270.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3517307",
+    "D3N": "Guaimbê - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "218.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3525805",
+    "D3N": "Júlio Mesquita - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "128.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3527108",
+    "D3N": "Lins - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "570.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3541604",
+    "D3N": "Promissão - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "781.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3544608",
+    "D3N": "Sabino - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "310.9"
+  }
+]

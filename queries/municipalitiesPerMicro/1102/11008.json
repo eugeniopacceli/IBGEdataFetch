@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100031",
+    "D3N": "Cabixi - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1314.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100056",
+    "D3N": "Cerejeiras - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2783.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100064",
+    "D3N": "Colorado do Oeste - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1451.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100072",
+    "D3N": "Corumbiara - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3060.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1101468",
+    "D3N": "Pimenteiras do Oeste - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6014.7"
+  }
+]

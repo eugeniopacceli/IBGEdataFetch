@@ -1,0 +1,167 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5100359",
+    "D3N": "Alto Boa Vista - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2240.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5101852",
+    "D3N": "Bom Jesus do Araguaia - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4274.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5102694",
+    "D3N": "Canabrava do Norte - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3452.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5103353",
+    "D3N": "Confresa - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5801.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5105309",
+    "D3N": "Luciara - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4243.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106315",
+    "D3N": "Novo Santo Antônio - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4393.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106778",
+    "D3N": "Porto Alegre do Norte - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3972.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107180",
+    "D3N": "Ribeirão Cascalheira - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "11354.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107354",
+    "D3N": "São José do Xingu - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7459.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107743",
+    "D3N": "Santa Cruz do Xingu - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5651.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107776",
+    "D3N": "Santa Terezinha - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6467.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107859",
+    "D3N": "São Félix do Araguaia - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "16711.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107883",
+    "D3N": "Serra Nova Dourada - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1500.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5108600",
+    "D3N": "Vila Rica - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7431.1"
+  }
+]

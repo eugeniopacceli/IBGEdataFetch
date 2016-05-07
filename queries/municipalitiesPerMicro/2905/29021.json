@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2905701",
+    "D3N": "Camaçari - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "784.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2906501",
+    "D3N": "Candeias - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "258.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2910057",
+    "D3N": "Dias d'Ávila - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "184.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2916104",
+    "D3N": "Itaparica - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "118.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2919207",
+    "D3N": "Lauro de Freitas - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "57.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2919926",
+    "D3N": "Madre de Deus - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "32.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2927408",
+    "D3N": "Salvador - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "693.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2929206",
+    "D3N": "São Francisco do Conde - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "262.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2930709",
+    "D3N": "Simões Filho - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "201.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2933208",
+    "D3N": "Vera Cruz - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "299.7"
+  }
+]

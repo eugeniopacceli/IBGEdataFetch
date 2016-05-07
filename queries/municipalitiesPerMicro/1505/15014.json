@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1501006",
+    "D3N": "Aveiro - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "17073.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1503606",
+    "D3N": "Itaituba - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "62040.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1503754",
+    "D3N": "Jacareacanga - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "53303.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1505031",
+    "D3N": "Novo Progresso - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "38162.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1506195",
+    "D3N": "Rurópolis - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7021.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1508050",
+    "D3N": "Trairão - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "11991.1"
+  }
+]

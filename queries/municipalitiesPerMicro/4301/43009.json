@@ -1,0 +1,211 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4300471",
+    "D3N": "Almirante Tamandaré do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "265.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4301958",
+    "D3N": "Barra Funda - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "60.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4302154",
+    "D3N": "Boa Vista das Missões - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "194.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4304705",
+    "D3N": "Carazinho - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "665.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4305157",
+    "D3N": "Cerro Grande - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "73.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4305306",
+    "D3N": "Chapada - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "684.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4305850",
+    "D3N": "Coqueiros do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "275.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4310850",
+    "D3N": "Jaboticaba - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "128.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4311429",
+    "D3N": "Lajeado do Bugre - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "67.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4312955",
+    "D3N": "Nova Boa Vista - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "94.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4313490",
+    "D3N": "Novo Barreiro - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "123.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4313706",
+    "D3N": "Palmeira das Missões - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1419.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4314456",
+    "D3N": "Pinhal - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "68.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4316428",
+    "D3N": "Sagrada Família - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "78.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4317756",
+    "D3N": "Santo Antônio do Planalto - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "203.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4318457",
+    "D3N": "São José das Missões - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "98.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4319364",
+    "D3N": "São Pedro das Missões - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "80.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4320107",
+    "D3N": "Sarandi - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "353.4"
+  }
+]

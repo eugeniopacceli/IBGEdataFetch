@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2601607",
+    "D3N": "Belém do São Francisco - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1830.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2603926",
+    "D3N": "Carnaubeira da Penha - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1004.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2605707",
+    "D3N": "Floresta - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3644.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2607406",
+    "D3N": "Itacuruba - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "430.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2608057",
+    "D3N": "Jatobá - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "277.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2611002",
+    "D3N": "Petrolândia - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1056.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2614808",
+    "D3N": "Tacaratu - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1264.5"
+  }
+]

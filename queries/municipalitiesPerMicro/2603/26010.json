@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2602209",
+    "D3N": "Bom Jardim - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "218.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2604908",
+    "D3N": "Cumaru - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "292.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2605400",
+    "D3N": "Feira Nova - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "107.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2608107",
+    "D3N": "João Alfredo - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "138.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2608909",
+    "D3N": "Limoeiro - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "273.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2609105",
+    "D3N": "Machados - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "60.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2609709",
+    "D3N": "Orobó - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "138.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2610509",
+    "D3N": "Passira - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "326.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2612109",
+    "D3N": "Salgadinho - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "88.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2613800",
+    "D3N": "São Vicente Ferrer - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "114.0"
+  }
+]

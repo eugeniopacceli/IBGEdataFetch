@@ -1,0 +1,156 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4300307",
+    "D3N": "Alecrim - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "314.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4304309",
+    "D3N": "Cândido Godói - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "246.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4310405",
+    "D3N": "Independência - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "357.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4313425",
+    "D3N": "Novo Machado - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "218.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4315008",
+    "D3N": "Porto Lucena - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "250.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4315057",
+    "D3N": "Porto Mauá - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "105.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4315073",
+    "D3N": "Porto Vera Cruz - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "113.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4317202",
+    "D3N": "Santa Rosa - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "489.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4317905",
+    "D3N": "Santo Cristo - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "366.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4318499",
+    "D3N": "São José do Inhacorá - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "77.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4321808",
+    "D3N": "Três de Maio - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "422.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4322103",
+    "D3N": "Tucunduva - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "180.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4322301",
+    "D3N": "Tuparendi - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "307.7"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1500347",
+    "D3N": "Água Azul do Norte - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7113.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1502152",
+    "D3N": "Canaã dos Carajás - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3146.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1502772",
+    "D3N": "Curionópolis - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2368.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1502954",
+    "D3N": "Eldorado dos Carajás - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2956.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1505536",
+    "D3N": "Parauapebas - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6957.3"
+  }
+]

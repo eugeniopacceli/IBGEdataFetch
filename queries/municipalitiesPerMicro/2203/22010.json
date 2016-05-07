@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2200459",
+    "D3N": "Alvorada do Gurguéia - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2132.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2201309",
+    "D3N": "Barreiras do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2028.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2201903",
+    "D3N": "Bom Jesus - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5469.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2203107",
+    "D3N": "Cristino Castro - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1846.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2203230",
+    "D3N": "Currais - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3156.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2204402",
+    "D3N": "Gilbués - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3494.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2206605",
+    "D3N": "Monte Alegre do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2417.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2207405",
+    "D3N": "Palmeira do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2023.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2208700",
+    "D3N": "Redenção do Gurguéia - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2468.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2209302",
+    "D3N": "Santa Luz - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1186.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2209757",
+    "D3N": "São Gonçalo do Gurguéia - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1385.3"
+  }
+]

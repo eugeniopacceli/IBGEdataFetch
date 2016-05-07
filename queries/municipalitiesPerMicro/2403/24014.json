@@ -1,0 +1,189 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2401503",
+    "D3N": "Barcelona - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "152.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2402105",
+    "D3N": "Campo Redondo - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "213.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2402808",
+    "D3N": "Coronel Ezequiel - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "185.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2405009",
+    "D3N": "Jaçanã - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "54.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2405405",
+    "D3N": "Japi - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "189.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2406403",
+    "D3N": "Lagoa de Velhos - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "112.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2406809",
+    "D3N": "Lajes Pintadas - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "130.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2407906",
+    "D3N": "Monte das Gameleiras - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "71.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2411106",
+    "D3N": "Ruy Barbosa - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "125.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2411205",
+    "D3N": "Santa Cruz - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "624.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2411700",
+    "D3N": "São Bento do Trairí - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "190.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2412302",
+    "D3N": "São José do Campestre - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "341.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2412906",
+    "D3N": "São Tomé - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "862.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2413300",
+    "D3N": "Serra de São Bento - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "96.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2413706",
+    "D3N": "Sítio Novo - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "213.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2414001",
+    "D3N": "Tangará - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "356.8"
+  }
+]

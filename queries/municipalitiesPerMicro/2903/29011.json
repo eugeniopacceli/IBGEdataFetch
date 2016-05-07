@@ -1,0 +1,145 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2902609",
+    "D3N": "Baixa Grande - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "946.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2903805",
+    "D3N": "Boa Vista do Tupim - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2811.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2911907",
+    "D3N": "Iaçu - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2451.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2912608",
+    "D3N": "Ibiquera - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "945.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2914703",
+    "D3N": "Itaberaba - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2343.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2919009",
+    "D3N": "Lajedinho - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "776.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2919603",
+    "D3N": "Macajuba - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "650.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2920106",
+    "D3N": "Mairi - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "952.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2922102",
+    "D3N": "Mundo Novo - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1493.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2927200",
+    "D3N": "Ruy Barbosa - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2171.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2931301",
+    "D3N": "Tapiramutá - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "663.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2933059",
+    "D3N": "Várzea da Roça - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "513.9"
+  }
+]

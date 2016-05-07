@@ -1,0 +1,156 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3115474",
+    "D3N": "Catuti - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "287.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3124302",
+    "D3N": "Espinosa - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1869.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3127339",
+    "D3N": "Gameleiras - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1733.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3135050",
+    "D3N": "Jaíba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2626.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3135100",
+    "D3N": "Janaúba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2181.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3139250",
+    "D3N": "Mamonas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "291.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3141009",
+    "D3N": "Mato Verde - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "472.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3142908",
+    "D3N": "Monte Azul - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "994.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3145059",
+    "D3N": "Nova Porteirinha - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "120.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3146552",
+    "D3N": "Pai Pedro - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "839.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3152204",
+    "D3N": "Porteirinha - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1749.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3154507",
+    "D3N": "Riacho dos Machados - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1315.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3166956",
+    "D3N": "Serranópolis de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "552.0"
+  }
+]

@@ -1,0 +1,156 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3108909",
+    "D3N": "Brazópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "367.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3118502",
+    "D3N": "Consolação - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "86.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3120508",
+    "D3N": "Cristina - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "311.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3121100",
+    "D3N": "Delfim Moreira - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "408.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3122801",
+    "D3N": "Dom Viçoso - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "113.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3132404",
+    "D3N": "Itajubá - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "294.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3139904",
+    "D3N": "Maria da Fé - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "202.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3140407",
+    "D3N": "Marmelópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "107.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3147303",
+    "D3N": "Paraisópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "331.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3150901",
+    "D3N": "Piranguçu - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "203.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3151008",
+    "D3N": "Piranguinho - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "124.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3171709",
+    "D3N": "Virgínia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "326.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3172202",
+    "D3N": "Wenceslau Braz - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "102.5"
+  }
+]

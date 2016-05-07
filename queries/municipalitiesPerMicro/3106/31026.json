@@ -1,0 +1,145 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3103900",
+    "D3N": "Araújos - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "245.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3107406",
+    "D3N": "Bom Despacho - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1223.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3123205",
+    "D3N": "Dores do Indaiá - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1111.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3124708",
+    "D3N": "Estrela do Indaiá - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "636.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3135308",
+    "D3N": "Japaraíba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "172.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3137205",
+    "D3N": "Lagoa da Prata - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "440.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3138302",
+    "D3N": "Leandro Ferreira - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "352.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3138807",
+    "D3N": "Luz - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1171.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3140506",
+    "D3N": "Martinho Campos - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1048.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3142403",
+    "D3N": "Moema - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "202.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3153707",
+    "D3N": "Quartel Geral - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "556.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3166600",
+    "D3N": "Serra da Saudade - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "335.7"
+  }
+]

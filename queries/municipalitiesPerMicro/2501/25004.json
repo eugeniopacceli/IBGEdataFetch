@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2501153",
+    "D3N": "Areia de Baraúnas - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "96.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2503407",
+    "D3N": "Cacimba de Areia - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "220.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2508703",
+    "D3N": "Mãe d'Água - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "243.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2510709",
+    "D3N": "Passagem - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "111.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2510808",
+    "D3N": "Patos - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "473.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2512606",
+    "D3N": "Quixabá - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "156.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2513802",
+    "D3N": "Santa Teresinha - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "358.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2514404",
+    "D3N": "São José de Espinharas - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "725.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2514602",
+    "D3N": "São José do Bonfim - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "134.7"
+  }
+]

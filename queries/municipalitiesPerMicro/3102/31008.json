@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3108503",
+    "D3N": "Botumirim - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1568.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3120300",
+    "D3N": "Cristália - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "840.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3127800",
+    "D3N": "Grão Mogol - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3885.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3132008",
+    "D3N": "Itacambira - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1788.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3136579",
+    "D3N": "Josenópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "541.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3146255",
+    "D3N": "Padre Carvalho - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "446.3"
+  }
+]

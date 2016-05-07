@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3506607",
+    "D3N": "Biritiba-Mirim - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "317.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3515707",
+    "D3N": "Ferraz de Vasconcelos - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "29.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3518305",
+    "D3N": "Guararema - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "270.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3523107",
+    "D3N": "Itaquaquecetuba - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "83.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3530607",
+    "D3N": "Mogi das Cruzes - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "713.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3539806",
+    "D3N": "Poá - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "17.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3545001",
+    "D3N": "Salesópolis - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "425.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3552502",
+    "D3N": "Suzano - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "206.6"
+  }
+]

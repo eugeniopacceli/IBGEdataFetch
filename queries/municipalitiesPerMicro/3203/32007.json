@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3200102",
+    "D3N": "Afonso Cláudio - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "954.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3201159",
+    "D3N": "Brejetuba - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "342.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3201704",
+    "D3N": "Conceição do Castelo - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "369.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3201902",
+    "D3N": "Domingos Martins - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1225.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3203163",
+    "D3N": "Laranja da Terra - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "457.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3203346",
+    "D3N": "Marechal Floriano - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "286.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3205069",
+    "D3N": "Venda Nova do Imigrante - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "187.9"
+  }
+]

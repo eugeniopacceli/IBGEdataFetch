@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2801306",
+    "D3N": "Capela - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "442.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2802007",
+    "D3N": "Divina Pastora - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "91.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2806503",
+    "D3N": "Santa Rosa de Lima - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "67.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2807204",
+    "D3N": "Siriri - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "165.8"
+  }
+]

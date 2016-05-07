@@ -1,0 +1,46 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1300904",
+    "D3N": "Canutama - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "29819.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1302405",
+    "D3N": "Lábrea - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "68234.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1304104",
+    "D3N": "Tapauá - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "89325.3"
+  }
+]

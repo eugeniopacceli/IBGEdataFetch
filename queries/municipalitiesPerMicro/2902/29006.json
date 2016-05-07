@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2902708",
+    "D3N": "Barra - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "11412.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2904753",
+    "D3N": "Buritirama - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3942.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2913200",
+    "D3N": "Ibotirama - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1722.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2915353",
+    "D3N": "Itaguaçu da Bahia - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4451.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2921609",
+    "D3N": "Morpará - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1696.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2922250",
+    "D3N": "Muquém de São Francisco - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3638.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2933604",
+    "D3N": "Xique-Xique - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5502.3"
+  }
+]

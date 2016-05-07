@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3506359",
+    "D3N": "Bertioga - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "490.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3513504",
+    "D3N": "Cubatão - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "142.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3518701",
+    "D3N": "Guarujá - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "142.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3541000",
+    "D3N": "Praia Grande - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "147.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3548500",
+    "D3N": "Santos - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "281.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3551009",
+    "D3N": "São Vicente - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "148.9"
+  }
+]

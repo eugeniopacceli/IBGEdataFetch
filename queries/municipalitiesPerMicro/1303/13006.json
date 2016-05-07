@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1300086",
+    "D3N": "Anamã - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2453.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1300102",
+    "D3N": "Anori - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5795.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1300631",
+    "D3N": "Beruri - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "17250.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1300839",
+    "D3N": "Caapiranga - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9456.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1301209",
+    "D3N": "Coari - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "57921.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1301308",
+    "D3N": "Codajás - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "18711.5"
+  }
+]

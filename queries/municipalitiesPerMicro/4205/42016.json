@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4201208",
+    "D3N": "Antônio Carlos - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "229.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4202305",
+    "D3N": "Biguaçu - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "374.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4205407",
+    "D3N": "Florianópolis - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "671.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4206009",
+    "D3N": "Governador Celso Ramos - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "116.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4211900",
+    "D3N": "Palhoça - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "395.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4212304",
+    "D3N": "Paulo Lopes - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "450.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4215703",
+    "D3N": "Santo Amaro da Imperatriz - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "345.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4216602",
+    "D3N": "São José - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "151.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4217253",
+    "D3N": "São Pedro de Alcântara - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "139.6"
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2401206",
+    "D3N": "Arês - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "115.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2401404",
+    "D3N": "Baía Formosa - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "245.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2402204",
+    "D3N": "Canguaretama - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "245.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2403509",
+    "D3N": "Espírito Santo - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "135.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2404200",
+    "D3N": "Goianinha - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "192.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2407708",
+    "D3N": "Montanhas - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "82.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2409803",
+    "D3N": "Pedro Velho - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "192.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2413201",
+    "D3N": "Senador Georgino Avelino - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "25.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2414209",
+    "D3N": "Tibau do Sul - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "101.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2415008",
+    "D3N": "Vila Flor - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "47.7"
+  }
+]

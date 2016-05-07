@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2700508",
+    "D3N": "Barra de Santo Antônio - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "138.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2700607",
+    "D3N": "Barra de São Miguel - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "76.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2702207",
+    "D3N": "Coqueiro Seco - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "39.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2704302",
+    "D3N": "Maceió - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "503.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2704708",
+    "D3N": "Marechal Deodoro - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "331.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2706448",
+    "D3N": "Paripueira - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "93.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2706901",
+    "D3N": "Pilar - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "249.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2707701",
+    "D3N": "Rio Largo - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "306.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2707909",
+    "D3N": "Santa Luzia do Norte - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "29.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2708907",
+    "D3N": "Satuba - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "42.6"
+  }
+]

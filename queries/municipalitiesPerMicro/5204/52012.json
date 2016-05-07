@@ -1,0 +1,233 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5200100",
+    "D3N": "Abadiânia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1045.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5200175",
+    "D3N": "Água Fria de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2029.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5200258",
+    "D3N": "Águas Lindas de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "188.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5200308",
+    "D3N": "Alexânia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "847.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5204003",
+    "D3N": "Cabeceiras - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1127.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5205497",
+    "D3N": "Cidade Ocidental - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "389.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5205513",
+    "D3N": "Cocalzinho de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1789.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5205802",
+    "D3N": "Corumbá de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1062.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5206206",
+    "D3N": "Cristalina - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6162.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5208004",
+    "D3N": "Formosa - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5811.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5212501",
+    "D3N": "Luziânia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3961.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5213053",
+    "D3N": "Mimoso de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1386.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5215231",
+    "D3N": "Novo Gama - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "194.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5215603",
+    "D3N": "Padre Bernardo - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3138.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5217302",
+    "D3N": "Pirenópolis - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2205.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5217609",
+    "D3N": "Planaltina - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2538.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5219753",
+    "D3N": "Santo Antônio do Descoberto - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "944.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5221858",
+    "D3N": "Valparaíso de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "60.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5222203",
+    "D3N": "Vila Boa - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1060.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5222302",
+    "D3N": "Vila Propício - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2181.6"
+  }
+]

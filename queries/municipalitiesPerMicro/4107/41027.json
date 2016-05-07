@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4103222",
+    "D3N": "Bom Sucesso do Sul - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "195.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4105409",
+    "D3N": "Chopinzinho - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "959.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4106506",
+    "D3N": "Coronel Vivida - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "684.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4111209",
+    "D3N": "Itapejara d'Oeste - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "254.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4115309",
+    "D3N": "Mariópolis - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "230.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4118501",
+    "D3N": "Pato Branco - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "539.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4124806",
+    "D3N": "São João - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "388.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4126272",
+    "D3N": "Saudade do Iguaçu - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "152.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4126652",
+    "D3N": "Sulina - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "170.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4128708",
+    "D3N": "Vitorino - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "308.3"
+  }
+]

@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3514403",
+    "D3N": "Dracena - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "488.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3526001",
+    "D3N": "Junqueirópolis - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "583.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3531605",
+    "D3N": "Monte Castelo - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "232.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3533106",
+    "D3N": "Nova Guataporanga - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "34.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3534807",
+    "D3N": "Ouro Verde - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "267.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3535408",
+    "D3N": "Panorama - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "356.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3536406",
+    "D3N": "Paulicéia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "373.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3547106",
+    "D3N": "Santa Mercedes - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "166.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3549300",
+    "D3N": "São João do Pau d'Alho - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "117.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3555109",
+    "D3N": "Tupi Paulista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "245.3"
+  }
+]

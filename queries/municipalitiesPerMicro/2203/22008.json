@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2200806",
+    "D3N": "Antônio Almeida - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "645.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2201705",
+    "D3N": "Bertolínia - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1225.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2202752",
+    "D3N": "Colônia do Gurguéia - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "430.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2203602",
+    "D3N": "Eliseu Martins - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1090.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2205607",
+    "D3N": "Landri Sales - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1088.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2205904",
+    "D3N": "Manoel Emídio - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1619.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2206001",
+    "D3N": "Marcos Parente - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "677.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2208551",
+    "D3N": "Porto Alegre do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1169.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2210631",
+    "D3N": "Sebastião Leal - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3151.6"
+  }
+]

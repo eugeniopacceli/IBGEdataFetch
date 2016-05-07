@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2500577",
+    "D3N": "Algodão de Jandaíra - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "220.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2500908",
+    "D3N": "Arara - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "99.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2501609",
+    "D3N": "Barra de Santa Rosa - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "775.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2505105",
+    "D3N": "Cuité - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "741.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2505352",
+    "D3N": "Damião - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "185.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2510105",
+    "D3N": "Nova Floresta - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "47.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2510501",
+    "D3N": "Olivedos - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "317.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2512002",
+    "D3N": "Pocinhos - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "628.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2512705",
+    "D3N": "Remígio - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "178.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2516102",
+    "D3N": "Soledade - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "560.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2516151",
+    "D3N": "Sossêgo - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "154.7"
+  }
+]

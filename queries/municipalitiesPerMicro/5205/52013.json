@@ -1,0 +1,211 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5201454",
+    "D3N": "Aparecida do Rio Doce - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "602.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5201504",
+    "D3N": "Aporé - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2900.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5204409",
+    "D3N": "Caiapônia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8637.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5205059",
+    "D3N": "Castelândia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "297.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5205471",
+    "D3N": "Chapadão do Céu - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2185.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5207253",
+    "D3N": "Doverlândia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3222.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5211909",
+    "D3N": "Jataí - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7174.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5213004",
+    "D3N": "Maurilândia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "389.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5213103",
+    "D3N": "Mineiros - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9060.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5213756",
+    "D3N": "Montividiu - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1874.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5215652",
+    "D3N": "Palestina de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1320.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5216452",
+    "D3N": "Perolândia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1029.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5218102",
+    "D3N": "Portelândia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "556.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5218805",
+    "D3N": "Rio Verde - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8379.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5219308",
+    "D3N": "Santa Helena de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1141.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5219407",
+    "D3N": "Santa Rita do Araguaia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1361.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5219712",
+    "D3N": "Santo Antônio da Barra - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "451.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5220504",
+    "D3N": "Serranópolis - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5526.7"
+  }
+]

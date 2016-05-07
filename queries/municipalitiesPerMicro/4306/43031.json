@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4300034",
+    "D3N": "Aceguá - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1549.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4301602",
+    "D3N": "Bagé - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4095.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4306601",
+    "D3N": "Dom Pedrito - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5192.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4309654",
+    "D3N": "Hulha Negra - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "822.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4311502",
+    "D3N": "Lavras do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2600.6"
+  }
+]

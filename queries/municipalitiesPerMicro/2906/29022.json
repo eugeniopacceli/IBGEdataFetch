@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2904100",
+    "D3N": "Boquira - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1482.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2904209",
+    "D3N": "Botuporã - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "645.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2904506",
+    "D3N": "Brotas de Macaúbas - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2240.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2907558",
+    "D3N": "Caturama - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "664.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2912509",
+    "D3N": "Ibipitanga - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "954.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2913002",
+    "D3N": "Ibitiara - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1847.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2914109",
+    "D3N": "Ipupiara - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1061.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2919801",
+    "D3N": "Macaúbas - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2994.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2923035",
+    "D3N": "Novo Horizonte - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "609.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2923209",
+    "D3N": "Oliveira dos Brejinhos - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3512.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2931053",
+    "D3N": "Tanque Novo - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "722.9"
+  }
+]

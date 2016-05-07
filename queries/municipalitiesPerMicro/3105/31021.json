@@ -1,0 +1,145 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3111101",
+    "D3N": "Campina Verde - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3650.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3114550",
+    "D3N": "Carneirinho - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2063.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3116902",
+    "D3N": "Comendador Gomes - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1041.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3127008",
+    "D3N": "Fronteira - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "200.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3127107",
+    "D3N": "Frutal - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2427.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3133402",
+    "D3N": "Itapagipe - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1802.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3134400",
+    "D3N": "Iturama - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1404.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3138625",
+    "D3N": "Limeira do Oeste - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1319.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3150703",
+    "D3N": "Pirajuba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "338.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3151602",
+    "D3N": "Planura - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "317.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3161304",
+    "D3N": "São Francisco de Sales - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1128.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3170438",
+    "D3N": "União de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1147.4"
+  }
+]

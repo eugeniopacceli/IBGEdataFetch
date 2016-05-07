@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1500206",
+    "D3N": "Acará - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4343.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1502756",
+    "D3N": "Concórdia do Pará - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "690.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1504703",
+    "D3N": "Moju - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9094.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1507953",
+    "D3N": "Tailândia - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4430.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1508001",
+    "D3N": "Tomé-Açu - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5145.3"
+  }
+]

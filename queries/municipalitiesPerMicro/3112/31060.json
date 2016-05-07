@@ -1,0 +1,211 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3100401",
+    "D3N": "Acaiaca - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "101.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3105707",
+    "D3N": "Barra Longa - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "383.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3122702",
+    "D3N": "Dom Silvério - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "195.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3128204",
+    "D3N": "Guaraciaba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "348.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3135506",
+    "D3N": "Jequeri - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "547.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3145851",
+    "D3N": "Oratórios - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "89.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3150208",
+    "D3N": "Piedade de Ponte Nova - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "83.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3152105",
+    "D3N": "Ponte Nova - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "470.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3154002",
+    "D3N": "Raul Soares - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "763.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3154903",
+    "D3N": "Rio Casca - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "384.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3155009",
+    "D3N": "Rio Doce - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "112.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3157401",
+    "D3N": "Santa Cruz do Escalvado - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "258.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3160108",
+    "D3N": "Santo Antônio do Grama - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "130.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3164001",
+    "D3N": "São Pedro dos Ferros - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "402.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3165560",
+    "D3N": "Sem-Peixe - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "176.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3166303",
+    "D3N": "Sericita - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "166.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3170503",
+    "D3N": "Urucânia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "138.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3171154",
+    "D3N": "Vermelho Novo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "115.2"
+  }
+]

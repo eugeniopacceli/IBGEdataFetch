@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3503000",
+    "D3N": "Aramina - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "202.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3508207",
+    "D3N": "Buritizal - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "266.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3517703",
+    "D3N": "Guará - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "362.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3520103",
+    "D3N": "Igarapava - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "468.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3524105",
+    "D3N": "Ituverava - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "705.2"
+  }
+]

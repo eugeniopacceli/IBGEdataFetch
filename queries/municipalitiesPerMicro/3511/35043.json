@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3507001",
+    "D3N": "Boituva - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "249.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3511508",
+    "D3N": "Cerquilho - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "127.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3511607",
+    "D3N": "Cesário Lange - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "190.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3526407",
+    "D3N": "Laranjal Paulista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "384.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3537503",
+    "D3N": "Pereiras - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "223.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3540507",
+    "D3N": "Porangaba - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "265.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3541653",
+    "D3N": "Quadra - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "205.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3554003",
+    "D3N": "Tatuí - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "523.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3554656",
+    "D3N": "Torre de Pedra - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "71.3"
+  }
+]

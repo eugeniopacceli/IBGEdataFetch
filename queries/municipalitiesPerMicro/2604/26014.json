@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2604403",
+    "D3N": "Chã de Alegria - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "48.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2604502",
+    "D3N": "Chã Grande - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "84.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2606101",
+    "D3N": "Glória do Goitá - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "231.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2611309",
+    "D3N": "Pombos - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "204.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2616407",
+    "D3N": "Vitória de Santo Antão - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "371.8"
+  }
+]

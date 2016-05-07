@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3100104",
+    "D3N": "Abadia dos Dourados - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "881.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3119302",
+    "D3N": "Coromandel - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3313.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3120706",
+    "D3N": "Cruzeiro da Fortaleza - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "188.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3123502",
+    "D3N": "Douradoquara - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "312.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3124807",
+    "D3N": "Estrela do Sul - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "822.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3127909",
+    "D3N": "Grupiara - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "193.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3131604",
+    "D3N": "Iraí de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "356.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3143104",
+    "D3N": "Monte Carmelo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1343.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3148103",
+    "D3N": "Patrocínio - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2874.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3156403",
+    "D3N": "Romaria - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "407.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3166808",
+    "D3N": "Serra do Salitre - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1295.3"
+  }
+]

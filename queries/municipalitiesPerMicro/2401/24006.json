@@ -1,0 +1,200 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2400505",
+    "D3N": "Alexandria - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "381.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2403905",
+    "D3N": "Francisco Dantas - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "181.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2404903",
+    "D3N": "Itaú - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "133.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2406007",
+    "D3N": "José da Penha - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "117.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2407302",
+    "D3N": "Marcelino Vieira - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "345.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2408607",
+    "D3N": "Paraná - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "81.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2409407",
+    "D3N": "Pau dos Ferros - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "260.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2410009",
+    "D3N": "Pilões - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "82.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2410207",
+    "D3N": "Portalegre - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "110.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2410504",
+    "D3N": "Rafael Fernandes - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "78.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2410702",
+    "D3N": "Riacho da Cruz - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "127.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2411007",
+    "D3N": "Rodolfo Fernandes - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "154.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2411908",
+    "D3N": "São Francisco do Oeste - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "75.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2413607",
+    "D3N": "Severiano Melo - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "157.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2413805",
+    "D3N": "Taboleiro Grande - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "124.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2414100",
+    "D3N": "Tenente Ananias - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "223.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2414902",
+    "D3N": "Viçosa - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "37.9"
+  }
+]

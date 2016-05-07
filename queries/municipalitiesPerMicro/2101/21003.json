@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2101103",
+    "D3N": "Axixá - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "203.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2101251",
+    "D3N": "Bacabeira - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "615.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2102374",
+    "D3N": "Cachoeira Grande - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "705.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2105104",
+    "D3N": "Icatu - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1448.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2107100",
+    "D3N": "Morros - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1715.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2109205",
+    "D3N": "Presidente Juscelino - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "354.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2109601",
+    "D3N": "Rosário - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "685.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2110203",
+    "D3N": "Santa Rita - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "706.4"
+  }
+]

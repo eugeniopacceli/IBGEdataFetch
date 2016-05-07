@@ -1,0 +1,167 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2201919",
+    "D3N": "Bom Princípio do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "521.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2202000",
+    "D3N": "Buriti dos Lopes - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "691.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2202083",
+    "D3N": "Cajueiro da Praia - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "271.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2202539",
+    "D3N": "Caraúbas do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "471.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2202653",
+    "D3N": "Caxingó - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "488.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2202703",
+    "D3N": "Cocal - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1269.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2202729",
+    "D3N": "Cocal dos Alves - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "357.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2204659",
+    "D3N": "Ilha Grande - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "134.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2205706",
+    "D3N": "Luís Correia - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1070.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2206696",
+    "D3N": "Murici dos Portelas - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "481.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2207702",
+    "D3N": "Parnaíba - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "435.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2208304",
+    "D3N": "Piracuruca - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2380.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2209872",
+    "D3N": "São João da Fronteira - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "764.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2210052",
+    "D3N": "São José do Divino - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "319.1"
+  }
+]

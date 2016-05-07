@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3503158",
+    "D3N": "Arapeí - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "156.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3503505",
+    "D3N": "Areias - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "305.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3504909",
+    "D3N": "Bananal - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "616.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3549607",
+    "D3N": "São José do Barreiro - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "571.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3552007",
+    "D3N": "Silveiras - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "414.8"
+  }
+]

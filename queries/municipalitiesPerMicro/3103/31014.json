@@ -1,0 +1,189 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3101706",
+    "D3N": "Almenara - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2294.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3105202",
+    "D3N": "Bandeira - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "483.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3122454",
+    "D3N": "Divisópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "572.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3125606",
+    "D3N": "Felisburgo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "596.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3134707",
+    "D3N": "Jacinto - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1393.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3135803",
+    "D3N": "Jequitinhonha - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3514.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3136009",
+    "D3N": "Joaíma - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1664.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3136504",
+    "D3N": "Jordânia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "546.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3140555",
+    "D3N": "Mata Verde - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "227.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3143153",
+    "D3N": "Monte Formoso - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "385.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3146750",
+    "D3N": "Palmópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "433.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3155108",
+    "D3N": "Rio do Prado - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "479.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3156601",
+    "D3N": "Rubim - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "965.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3157104",
+    "D3N": "Salto da Divisa - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "937.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3158102",
+    "D3N": "Santa Maria do Salto - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "440.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3160306",
+    "D3N": "Santo Antônio do Jacinto - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "503.4"
+  }
+]

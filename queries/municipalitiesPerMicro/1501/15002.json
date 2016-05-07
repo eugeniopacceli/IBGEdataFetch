@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1500404",
+    "D3N": "Alenquer - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "23645.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1501451",
+    "D3N": "Belterra - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4398.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1502855",
+    "D3N": "Curuá - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1431.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1504802",
+    "D3N": "Monte Alegre - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "18152.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1505650",
+    "D3N": "Placas - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7173.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1506005",
+    "D3N": "Prainha - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "14786.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1506807",
+    "D3N": "Santarém - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "22886.8"
+  }
+]

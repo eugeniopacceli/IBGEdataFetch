@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5000252",
+    "D3N": "Alcinópolis - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4399.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5002605",
+    "D3N": "Camapuã - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6229.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5003306",
+    "D3N": "Coxim - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6409.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5003900",
+    "D3N": "Figueirão - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4882.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5006408",
+    "D3N": "Pedro Gomes - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3651.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5007406",
+    "D3N": "Rio Verde de Mato Grosso - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8153.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5007695",
+    "D3N": "São Gabriel do Oeste - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3864.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5007935",
+    "D3N": "Sonora - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4075.4"
+  }
+]

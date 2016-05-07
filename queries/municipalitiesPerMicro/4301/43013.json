@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4302006",
+    "D3N": "Barros Cassal - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "648.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4308300",
+    "D3N": "Fontoura Xavier - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "583.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4309951",
+    "D3N": "Ibirapuitã - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "307.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4311254",
+    "D3N": "Lagoão - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "383.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4312427",
+    "D3N": "Mormaço - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "146.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4318465",
+    "D3N": "São José do Herval - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "103.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4320800",
+    "D3N": "Soledade - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1213.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4322152",
+    "D3N": "Tunas - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "218.1"
+  }
+]

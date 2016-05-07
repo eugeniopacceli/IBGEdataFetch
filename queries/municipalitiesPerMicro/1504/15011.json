@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1500107",
+    "D3N": "Abaetetuba - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1610.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1501204",
+    "D3N": "Baião - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3758.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1502103",
+    "D3N": "Cametá - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3081.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1503309",
+    "D3N": "Igarapé-Miri - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1996.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1504000",
+    "D3N": "Limoeiro do Ajuru - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1490.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1504604",
+    "D3N": "Mocajuba - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "870.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1505205",
+    "D3N": "Oeiras do Pará - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3852.3"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1200344",
+    "D3N": "Manoel Urbano - AC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "10634.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1200435",
+    "D3N": "Santa Rosa do Purus - AC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6145.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1200500",
+    "D3N": "Sena Madureira - AC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "23751.3"
+  }
+]

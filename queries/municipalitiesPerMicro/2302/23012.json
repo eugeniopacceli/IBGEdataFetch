@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2302800",
+    "D3N": "Canindé - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3218.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2303006",
+    "D3N": "Caridade - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "846.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2306603",
+    "D3N": "Itatira - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "783.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2310407",
+    "D3N": "Paramoti - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "482.6"
+  }
+]

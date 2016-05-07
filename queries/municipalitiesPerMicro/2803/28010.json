@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2801504",
+    "D3N": "Carmópolis - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "45.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2802502",
+    "D3N": "General Maynard - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "20.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2803609",
+    "D3N": "Laranjeiras - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "162.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2804003",
+    "D3N": "Maruim - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "93.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2805901",
+    "D3N": "Riachuelo - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "78.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2806107",
+    "D3N": "Rosário do Catete - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "105.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2806602",
+    "D3N": "Santo Amaro das Brotas - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "234.2"
+  }
+]

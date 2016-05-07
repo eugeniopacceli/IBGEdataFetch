@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5103361",
+    "D3N": "Conquista D'Oeste - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2672.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5105507",
+    "D3N": "Vila Bela da Santíssima Trindade - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "13421.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106182",
+    "D3N": "Nova Lacerda - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4729.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106752",
+    "D3N": "Pontes e Lacerda - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8559.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5108352",
+    "D3N": "Vale de São Domingos - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1932.8"
+  }
+]

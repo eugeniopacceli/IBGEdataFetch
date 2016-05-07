@@ -1,0 +1,156 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3501400",
+    "D3N": "Álvaro de Carvalho - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "153.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3501509",
+    "D3N": "Alvinlândia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "84.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3514700",
+    "D3N": "Echaporã - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "515.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3515657",
+    "D3N": "Fernão - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "100.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3516606",
+    "D3N": "Gália - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "356.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3516705",
+    "D3N": "Garça - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "555.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3527801",
+    "D3N": "Lupércio - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "154.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3529005",
+    "D3N": "Marília - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1170.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3533700",
+    "D3N": "Ocauçu - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "300.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3534104",
+    "D3N": "Oriente - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "218.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3534500",
+    "D3N": "Oscar Bressane - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "221.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3540002",
+    "D3N": "Pompéia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "784.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3556602",
+    "D3N": "Vera Cruz - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "248.1"
+  }
+]

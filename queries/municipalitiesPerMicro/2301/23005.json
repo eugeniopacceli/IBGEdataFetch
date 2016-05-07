@@ -1,0 +1,145 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2303105",
+    "D3N": "Cariré - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "756.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2304350",
+    "D3N": "Forquilha - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "517.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2304657",
+    "D3N": "Graça - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "281.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2304905",
+    "D3N": "Groaíras - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "155.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2306108",
+    "D3N": "Irauçuba - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1450.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2308005",
+    "D3N": "Massapê - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "566.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2308377",
+    "D3N": "Miraíma - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "700.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2309003",
+    "D3N": "Mucambo - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "190.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2309904",
+    "D3N": "Pacujá - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "76.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2312007",
+    "D3N": "Santana do Acaraú - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "969.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2312809",
+    "D3N": "Senador Sá - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "423.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2312908",
+    "D3N": "Sobral - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2122.9"
+  }
+]

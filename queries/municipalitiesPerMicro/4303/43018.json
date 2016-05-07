@@ -1,0 +1,156 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4302907",
+    "D3N": "Cacequi - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2370.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4306379",
+    "D3N": "Dilermando de Aguiar - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "600.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4310538",
+    "D3N": "Itaara - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "173.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4311106",
+    "D3N": "Jaguari - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "673.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4312104",
+    "D3N": "Mata - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "311.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4313037",
+    "D3N": "Nova Esperança do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "191.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4316907",
+    "D3N": "Santa Maria - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1788.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4319125",
+    "D3N": "São Martinho da Serra - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "669.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4319406",
+    "D3N": "São Pedro do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "873.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4319604",
+    "D3N": "São Sepé - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2200.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4319802",
+    "D3N": "São Vicente do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1175.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4321493",
+    "D3N": "Toropi - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "203.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4323457",
+    "D3N": "Vila Nova do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "507.9"
+  }
+]

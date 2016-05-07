@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4301073",
+    "D3N": "Arroio do Padre - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "124.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4304507",
+    "D3N": "Canguçu - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3525.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4304663",
+    "D3N": "Capão do Leão - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "785.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4305124",
+    "D3N": "Cerrito - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "451.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4306056",
+    "D3N": "Cristal - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "681.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4312450",
+    "D3N": "Morro Redondo - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "244.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4314209",
+    "D3N": "Pedro Osório - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "608.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4314407",
+    "D3N": "Pelotas - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1610.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4318804",
+    "D3N": "São Lourenço do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2036.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4322327",
+    "D3N": "Turuçu - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "253.6"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4201257",
+    "D3N": "Apiúna - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "493.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4201703",
+    "D3N": "Ascurra - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "111.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4202206",
+    "D3N": "Benedito Novo - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "388.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4202404",
+    "D3N": "Blumenau - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "519.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4202701",
+    "D3N": "Botuverá - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "303.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4202909",
+    "D3N": "Brusque - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "283.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4205159",
+    "D3N": "Doutor Pedrinho - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "375.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4205902",
+    "D3N": "Gaspar - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "386.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4206306",
+    "D3N": "Guabiruba - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "173.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4207502",
+    "D3N": "Indaial - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "430.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4210001",
+    "D3N": "Luiz Alves - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "260.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4213203",
+    "D3N": "Pomerode - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "215.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4214706",
+    "D3N": "Rio dos Cedros - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "555.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4215109",
+    "D3N": "Rodeio - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "128.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4218202",
+    "D3N": "Timbó - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "127.2"
+  }
+]

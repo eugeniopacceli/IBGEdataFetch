@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3103504",
+    "D3N": "Araguari - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2729.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3103751",
+    "D3N": "Araporã - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "295.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3111804",
+    "D3N": "Canápolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "839.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3115003",
+    "D3N": "Cascalho Rico - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "367.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3115805",
+    "D3N": "Centralina - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "327.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3130705",
+    "D3N": "Indianópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "830.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3142809",
+    "D3N": "Monte Alegre de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2596.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3152808",
+    "D3N": "Prata - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4847.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3169604",
+    "D3N": "Tupaciguara - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1824.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3170206",
+    "D3N": "Uberlândia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4115.2"
+  }
+]

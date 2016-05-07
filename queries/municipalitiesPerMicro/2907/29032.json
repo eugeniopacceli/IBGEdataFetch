@@ -1,0 +1,222 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2900801",
+    "D3N": "Alcobaça - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1481.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2906907",
+    "D3N": "Caravelas - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2393.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2910727",
+    "D3N": "Eunápolis - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1179.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2911808",
+    "D3N": "Guaratinga - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2325.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2912806",
+    "D3N": "Ibirapuã - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "787.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2914653",
+    "D3N": "Itabela - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "850.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2915304",
+    "D3N": "Itagimirim - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "839.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2915601",
+    "D3N": "Itamaraju - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2274.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2916005",
+    "D3N": "Itanhém - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1463.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2918456",
+    "D3N": "Jucuruçu - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1398.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2918902",
+    "D3N": "Lajedão - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "615.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2921104",
+    "D3N": "Medeiros Neto - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1238.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2922003",
+    "D3N": "Mucuri - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1780.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2923001",
+    "D3N": "Nova Viçosa - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1322.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2925303",
+    "D3N": "Porto Seguro - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2408.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2925501",
+    "D3N": "Prado - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1740.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2927705",
+    "D3N": "Santa Cruz Cabrália - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1562.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2931350",
+    "D3N": "Teixeira de Freitas - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1163.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2933257",
+    "D3N": "Vereda - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "874.2"
+  }
+]

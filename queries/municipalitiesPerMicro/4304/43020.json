@@ -1,0 +1,189 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4301206",
+    "D3N": "Arroio do Tigre - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "318.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4304200",
+    "D3N": "Candelária - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "943.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4307815",
+    "D3N": "Estrela Velha - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "281.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4309159",
+    "D3N": "Gramado Xavier - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "217.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4309571",
+    "D3N": "Herveiras - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "118.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4309753",
+    "D3N": "Ibarama - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "193.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4311239",
+    "D3N": "Lagoa Bonita do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "108.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4312153",
+    "D3N": "Mato Leitão - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "45.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4314068",
+    "D3N": "Passa Sete - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "304.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4316808",
+    "D3N": "Santa Cruz do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "733.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4320263",
+    "D3N": "Segredo - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "247.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4320677",
+    "D3N": "Sinimbu - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "510.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4320701",
+    "D3N": "Sobradinho - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "130.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4322533",
+    "D3N": "Vale do Sol - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "328.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4322608",
+    "D3N": "Venâncio Aires - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "773.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4322707",
+    "D3N": "Vera Cruz - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "309.6"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1400233",
+    "D3N": "Caroebe - RR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "12066.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1400472",
+    "D3N": "Rorainópolis - RR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "33594.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1400506",
+    "D3N": "São João da Baliza - RR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4285.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1400605",
+    "D3N": "São Luiz - RR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1526.9"
+  }
+]

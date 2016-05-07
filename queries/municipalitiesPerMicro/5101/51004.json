@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5102637",
+    "D3N": "Campo Novo do Parecis - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9434.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5102686",
+    "D3N": "Campos de Júlio - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6801.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5103304",
+    "D3N": "Comodoro - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "21774.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5103502",
+    "D3N": "Diamantino - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8230.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107875",
+    "D3N": "Sapezal - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "13624.2"
+  }
+]

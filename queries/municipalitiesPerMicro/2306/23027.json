@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2300804",
+    "D3N": "Antonina do Norte - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "260.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2303303",
+    "D3N": "Cariús - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1061.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2307403",
+    "D3N": "Jucás - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "937.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2313252",
+    "D3N": "Tarrafas - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "454.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2314003",
+    "D3N": "Várzea Alegre - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "835.7"
+  }
+]

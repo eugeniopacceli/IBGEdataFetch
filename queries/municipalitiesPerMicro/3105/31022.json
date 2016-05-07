@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3100708",
+    "D3N": "Água Comprida - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "491.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3111408",
+    "D3N": "Campo Florido - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1264.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3117306",
+    "D3N": "Conceição das Alagoas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1340.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3118205",
+    "D3N": "Conquista - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "618.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3121258",
+    "D3N": "Delta - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "102.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3170107",
+    "D3N": "Uberaba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4524.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3171105",
+    "D3N": "Veríssimo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1031.8"
+  }
+]

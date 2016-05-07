@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5100201",
+    "D3N": "Água Boa - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7537.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5102603",
+    "D3N": "Campinápolis - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5835.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5102702",
+    "D3N": "Canarana - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "10854.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106174",
+    "D3N": "Nova Nazaré - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4038.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106257",
+    "D3N": "Nova Xavantina - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5667.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106281",
+    "D3N": "Novo São Joaquim - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5035.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107065",
+    "D3N": "Querência - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "17786.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107792",
+    "D3N": "Santo Antônio do Leste - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3600.7"
+  }
+]

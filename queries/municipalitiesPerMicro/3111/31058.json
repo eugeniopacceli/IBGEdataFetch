@@ -1,0 +1,178 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3115201",
+    "D3N": "Conceição da Barra de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "273.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3119708",
+    "D3N": "Coronel Xavier Chaves - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "141.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3123007",
+    "D3N": "Dores de Campos - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "124.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3137403",
+    "D3N": "Lagoa Dourada - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "476.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3139102",
+    "D3N": "Madre de Deus de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "492.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3144508",
+    "D3N": "Nazareno - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "329.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3150307",
+    "D3N": "Piedade do Rio Grande - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "322.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3152709",
+    "D3N": "Prados - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "264.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3154200",
+    "D3N": "Resende Costa - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "618.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3156106",
+    "D3N": "Ritápolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "404.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3157336",
+    "D3N": "Santa Cruz de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3158706",
+    "D3N": "Santana do Garambéu - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "203.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3162500",
+    "D3N": "São João del Rei - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1464.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3165008",
+    "D3N": "São Tiago - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "572.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3168804",
+    "D3N": "Tiradentes - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "83.0"
+  }
+]

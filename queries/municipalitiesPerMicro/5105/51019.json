@@ -1,0 +1,35 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5102678",
+    "D3N": "Campo Verde - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4782.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107040",
+    "D3N": "Primavera do Leste - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5471.7"
+  }
+]

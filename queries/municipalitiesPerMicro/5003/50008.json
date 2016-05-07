@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5000807",
+    "D3N": "Anaurilândia - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3395.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5001904",
+    "D3N": "Bataguassu - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2415.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5002001",
+    "D3N": "Batayporã - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1828.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5006200",
+    "D3N": "Nova Andradina - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4776.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5007976",
+    "D3N": "Taquarussu - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1041.1"
+  }
+]

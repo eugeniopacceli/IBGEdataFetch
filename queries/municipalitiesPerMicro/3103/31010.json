@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3120102",
+    "D3N": "Couto de Magalhães de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "485.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3121001",
+    "D3N": "Datas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "310.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3121605",
+    "D3N": "Diamantina - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3891.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3125408",
+    "D3N": "Felício dos Santos - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "357.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3125507",
+    "D3N": "São Gonçalo do Rio Preto - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "314.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3127602",
+    "D3N": "Gouveia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "866.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3153301",
+    "D3N": "Presidente Kubitschek - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "189.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3165909",
+    "D3N": "Senador Modestino Gonçalves - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "952.1"
+  }
+]

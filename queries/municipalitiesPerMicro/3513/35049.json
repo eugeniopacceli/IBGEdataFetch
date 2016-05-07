@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3509700",
+    "D3N": "Campos do Jordão - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "290.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3531704",
+    "D3N": "Monteiro Lobato - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "333.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3548203",
+    "D3N": "Santo Antônio do Pinhal - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "133.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3548609",
+    "D3N": "São Bento do Sapucaí - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "252.6"
+  }
+]

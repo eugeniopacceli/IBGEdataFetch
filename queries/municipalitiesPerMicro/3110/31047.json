@@ -1,0 +1,167 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3101904",
+    "D3N": "Alpinópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "454.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3107604",
+    "D3N": "Bom Jesus da Penha - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "208.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3112406",
+    "D3N": "Capetinga - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "297.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3112802",
+    "D3N": "Capitólio - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "521.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3115102",
+    "D3N": "Cássia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "665.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3116407",
+    "D3N": "Claraval - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "227.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3121209",
+    "D3N": "Delfinópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1378.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3126307",
+    "D3N": "Fortaleza de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "218.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3129707",
+    "D3N": "Ibiraci - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "562.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3133758",
+    "D3N": "Itaú de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "153.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3147907",
+    "D3N": "Passos - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1338.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3152907",
+    "D3N": "Pratápolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "215.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3162203",
+    "D3N": "São João Batista do Glória - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "547.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3162948",
+    "D3N": "São José da Barra - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "314.3"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2703601",
+    "D3N": "Japaratinga - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "85.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2704500",
+    "D3N": "Maragogi - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "334.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2706505",
+    "D3N": "Passo de Camaragibe - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "244.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2707404",
+    "D3N": "Porto de Pedras - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "257.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2708709",
+    "D3N": "São Miguel dos Milagres - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "76.7"
+  }
+]

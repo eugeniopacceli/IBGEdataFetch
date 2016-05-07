@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3502705",
+    "D3N": "Apiaí - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "974.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3505351",
+    "D3N": "Barra do Chapéu - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "405.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3510203",
+    "D3N": "Capão Bonito - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1640.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3517604",
+    "D3N": "Guapiara - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "408.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3521200",
+    "D3N": "Iporanga - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1152.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3522158",
+    "D3N": "Itaóca - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "183.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3522653",
+    "D3N": "Itapirapuã Paulista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "406.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3542800",
+    "D3N": "Ribeira - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "335.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3543006",
+    "D3N": "Ribeirão Branco - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "697.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3543253",
+    "D3N": "Ribeirão Grande - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "333.4"
+  }
+]

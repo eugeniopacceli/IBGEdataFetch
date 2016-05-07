@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2900306",
+    "D3N": "Acajutiba - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "193.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2900702",
+    "D3N": "Alagoinhas - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "752.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2901908",
+    "D3N": "Aporá - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "561.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2902054",
+    "D3N": "Araças - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "487.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2902203",
+    "D3N": "Aramari - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "329.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2909604",
+    "D3N": "Crisópolis - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "607.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2913705",
+    "D3N": "Inhambupe - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1222.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2927002",
+    "D3N": "Rio Real - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "716.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2929701",
+    "D3N": "Sátiro Dias - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1010.0"
+  }
+]

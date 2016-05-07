@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4102703",
+    "D3N": "Barra do Jacaré - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "115.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4103602",
+    "D3N": "Cambará - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "366.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4111803",
+    "D3N": "Jacarezinho - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "602.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4112900",
+    "D3N": "Jundiaí do Sul - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "320.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4121802",
+    "D3N": "Ribeirão Claro - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "629.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4124103",
+    "D3N": "Santo Antônio da Platina - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "721.5"
+  }
+]

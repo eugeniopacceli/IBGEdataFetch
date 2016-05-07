@@ -1,0 +1,233 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3107901",
+    "D3N": "Bom Repouso - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "229.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3108305",
+    "D3N": "Borda da Mata - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "301.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3109105",
+    "D3N": "Bueno Brandão - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "356.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3110509",
+    "D3N": "Camanducaia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "528.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3110608",
+    "D3N": "Cambuí - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "244.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3117900",
+    "D3N": "Congonhal - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "205.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3119906",
+    "D3N": "Córrego do Bom Jesus - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "123.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3124401",
+    "D3N": "Espírito Santo do Dourado - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "263.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3124500",
+    "D3N": "Estiva - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "243.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3125101",
+    "D3N": "Extrema - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "244.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3127404",
+    "D3N": "Gonçalves - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "187.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3131505",
+    "D3N": "Ipuiúna - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "298.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3133600",
+    "D3N": "Itapeva - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "177.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3143807",
+    "D3N": "Munhoz - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "191.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3152501",
+    "D3N": "Pouso Alegre - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "543.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3165404",
+    "D3N": "Sapucaí-Mirim - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "285.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3165578",
+    "D3N": "Senador Amaral - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "151.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3165800",
+    "D3N": "Senador José Bento - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "93.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3169059",
+    "D3N": "Tocos do Moji - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "114.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3169109",
+    "D3N": "Toledo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "136.8"
+  }
+]

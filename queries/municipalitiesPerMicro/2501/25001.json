@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2502003",
+    "D3N": "Belém do Brejo do Cruz - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "603.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2502300",
+    "D3N": "Bom Sucesso - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "184.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2502805",
+    "D3N": "Brejo do Cruz - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "398.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2502904",
+    "D3N": "Brejo dos Santos - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "93.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2504306",
+    "D3N": "Catolé do Rocha - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "552.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2507408",
+    "D3N": "Jericó - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "179.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2508109",
+    "D3N": "Lagoa - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "177.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2509370",
+    "D3N": "Mato Grosso - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "83.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2512804",
+    "D3N": "Riacho dos Cavalos - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "264.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2513901",
+    "D3N": "São Bento - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "248.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2514651",
+    "D3N": "São José do Brejo do Cruz - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "253.0"
+  }
+]

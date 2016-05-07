@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2501807",
+    "D3N": "Bayeux - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "32.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2503209",
+    "D3N": "Cabedelo - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "31.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2504603",
+    "D3N": "Conde - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "172.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2507507",
+    "D3N": "João Pessoa - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "211.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2508604",
+    "D3N": "Lucena - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "88.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2513703",
+    "D3N": "Santa Rita - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "726.8"
+  }
+]

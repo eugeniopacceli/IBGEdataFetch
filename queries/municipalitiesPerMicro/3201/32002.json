@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3200136",
+    "D3N": "Águia Branca - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "449.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3201001",
+    "D3N": "Boa Esperança - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "428.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3203908",
+    "D3N": "Nova Venécia - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1448.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3204708",
+    "D3N": "São Gabriel da Palha - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "432.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3205150",
+    "D3N": "Vila Pavão - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "432.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3205176",
+    "D3N": "Vila Valério - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "464.4"
+  }
+]

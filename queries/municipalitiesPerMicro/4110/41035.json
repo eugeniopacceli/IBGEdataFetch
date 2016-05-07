@@ -1,0 +1,46 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4100202",
+    "D3N": "Adrianópolis - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1349.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4105201",
+    "D3N": "Cerro Azul - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1341.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4128633",
+    "D3N": "Doutor Ulysses - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "781.5"
+  }
+]

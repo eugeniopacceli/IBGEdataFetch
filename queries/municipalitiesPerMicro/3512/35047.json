@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3509601",
+    "D3N": "Campo Limpo Paulista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "79.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3524006",
+    "D3N": "Itupeva - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "200.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3525904",
+    "D3N": "Jundiaí - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "431.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3527306",
+    "D3N": "Louveira - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "55.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3556503",
+    "D3N": "Várzea Paulista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "34.8"
+  }
+]

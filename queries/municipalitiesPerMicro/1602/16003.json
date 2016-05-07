@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1600055",
+    "D3N": "Serra do Navio - AP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7756.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1600154",
+    "D3N": "Pedra Branca do Amapari - AP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9495.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1600212",
+    "D3N": "Cutias - AP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2114.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1600238",
+    "D3N": "Ferreira Gomes - AP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5046.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1600253",
+    "D3N": "Itaubal - AP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1704.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1600303",
+    "D3N": "Macapá - AP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6408.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1600535",
+    "D3N": "Porto Grande - AP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4401.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1600600",
+    "D3N": "Santana - AP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1579.6"
+  }
+]

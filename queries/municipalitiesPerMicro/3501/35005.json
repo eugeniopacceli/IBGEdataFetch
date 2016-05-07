@@ -1,0 +1,156 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3503703",
+    "D3N": "Ariranha - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "133.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3509304",
+    "D3N": "Cajobi - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "176.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3511102",
+    "D3N": "Catanduva - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "290.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3511201",
+    "D3N": "Catiguá - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "148.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3514924",
+    "D3N": "Elisiário - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "94.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3514957",
+    "D3N": "Embaúba - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "83.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3533254",
+    "D3N": "Novais - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "117.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3535101",
+    "D3N": "Palmares Paulista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "82.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3535705",
+    "D3N": "Paraíso - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "155.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3538105",
+    "D3N": "Pindorama - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "184.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3545605",
+    "D3N": "Santa Adélia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "330.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3551900",
+    "D3N": "Severínia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "140.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3552601",
+    "D3N": "Tabapuã - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "345.6"
+  }
+]

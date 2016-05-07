@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4200903",
+    "D3N": "Angelina - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "499.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4203709",
+    "D3N": "Canelinha - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "151.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4209805",
+    "D3N": "Leoberto Leal - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "291.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4210209",
+    "D3N": "Major Gercino - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "285.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4211504",
+    "D3N": "Nova Trento - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "402.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4216305",
+    "D3N": "São João Batista - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "220.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4218004",
+    "D3N": "Tijucas - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "277.2"
+  }
+]

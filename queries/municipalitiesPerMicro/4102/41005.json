@@ -1,0 +1,167 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4101705",
+    "D3N": "Araruna - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "493.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4102505",
+    "D3N": "Barbosa Ferraz - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "538.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4104303",
+    "D3N": "Campo Mourão - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "757.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4106555",
+    "D3N": "Corumbataí do Sul - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "164.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4107504",
+    "D3N": "Engenheiro Beltrão - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "467.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4107553",
+    "D3N": "Farol - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "289.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4107702",
+    "D3N": "Fênix - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "234.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4110805",
+    "D3N": "Iretama - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "570.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4113734",
+    "D3N": "Luiziana - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "908.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4114005",
+    "D3N": "Mamborê - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "788.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4118808",
+    "D3N": "Peabiru - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "468.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4121109",
+    "D3N": "Quinta do Sol - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "326.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4122503",
+    "D3N": "Roncador - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "742.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4127205",
+    "D3N": "Terra Boa - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "320.9"
+  }
+]

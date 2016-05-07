@@ -1,0 +1,46 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100080",
+    "D3N": "Costa Marques - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4987.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100106",
+    "D3N": "Guajará-Mirim - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "24855.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1101492",
+    "D3N": "São Francisco do Guaporé - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "10959.8"
+  }
+]

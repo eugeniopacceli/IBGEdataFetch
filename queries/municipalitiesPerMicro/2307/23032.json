@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2301901",
+    "D3N": "Barbalha - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "599.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2304202",
+    "D3N": "Crato - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1157.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2307106",
+    "D3N": "Jardim - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "519.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2307304",
+    "D3N": "Juazeiro do Norte - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "248.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2308401",
+    "D3N": "Missão Velha - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "650.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2309201",
+    "D3N": "Nova Olinda - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "284.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2311108",
+    "D3N": "Porteiras - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "217.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2312106",
+    "D3N": "Santana do Cariri - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "855.6"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2803302",
+    "D3N": "Japaratuba - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "364.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2803401",
+    "D3N": "Japoatã - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "407.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2804904",
+    "D3N": "Pacatuba - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "373.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2805307",
+    "D3N": "Pirambu - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "205.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2806909",
+    "D3N": "São Francisco - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "83.9"
+  }
+]

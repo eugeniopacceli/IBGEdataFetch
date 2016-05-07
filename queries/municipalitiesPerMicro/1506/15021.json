@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1505551",
+    "D3N": "Pau D'Arco - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1671.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1505635",
+    "D3N": "Piçarra - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3312.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1506138",
+    "D3N": "Redenção - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3823.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1506161",
+    "D3N": "Rio Maria - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4114.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1507458",
+    "D3N": "São Geraldo do Araguaia - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3168.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1507755",
+    "D3N": "Sapucaia - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1298.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1508407",
+    "D3N": "Xinguara - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3779.3"
+  }
+]

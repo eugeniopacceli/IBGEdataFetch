@@ -1,0 +1,222 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4201505",
+    "D3N": "Armazém - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "173.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4202800",
+    "D3N": "Braço do Norte - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "211.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4203956",
+    "D3N": "Capivari de Baixo - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "53.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4205704",
+    "D3N": "Garopaba - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "115.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4206108",
+    "D3N": "Grão Pará - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "336.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4206207",
+    "D3N": "Gravatal - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "168.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4207205",
+    "D3N": "Imaruí - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "542.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4207304",
+    "D3N": "Imbituba - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "182.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4208807",
+    "D3N": "Jaguaruna - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "329.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4209409",
+    "D3N": "Laguna - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "440.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4211702",
+    "D3N": "Orleans - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "549.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4212403",
+    "D3N": "Pedras Grandes - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "171.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4214904",
+    "D3N": "Rio Fortuna - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "301.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4215455",
+    "D3N": "Sangão - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "83.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4215604",
+    "D3N": "Santa Rosa de Lima - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "203.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4217006",
+    "D3N": "São Ludgero - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "107.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4217105",
+    "D3N": "São Martinho - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "224.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4218400",
+    "D3N": "Treze de Maio - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "161.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4218707",
+    "D3N": "Tubarão - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "300.3"
+  }
+]

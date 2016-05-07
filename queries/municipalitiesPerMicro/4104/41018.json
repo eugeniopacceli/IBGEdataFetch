@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4104709",
+    "D3N": "Carlópolis - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "451.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4109005",
+    "D3N": "Guapirama - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "189.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4112801",
+    "D3N": "Joaquim Távora - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "289.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4120705",
+    "D3N": "Quatiguá - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "112.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4122909",
+    "D3N": "Salto do Itararé - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "200.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4124004",
+    "D3N": "Santana do Itararé - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "251.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4125407",
+    "D3N": "São José da Boa Vista - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "399.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4126603",
+    "D3N": "Siqueira Campos - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "278.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4127809",
+    "D3N": "Tomazina - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "591.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4128500",
+    "D3N": "Wenceslau Braz - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "397.9"
+  }
+]

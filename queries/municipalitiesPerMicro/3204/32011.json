@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3200201",
+    "D3N": "Alegre - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "772.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3201803",
+    "D3N": "Divino de São Lourenço - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "175.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3202009",
+    "D3N": "Dores do Rio Preto - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "158.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3202306",
+    "D3N": "Guaçuí - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "467.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3202454",
+    "D3N": "Ibatiba - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "241.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3202553",
+    "D3N": "Ibitirama - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "329.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3202652",
+    "D3N": "Irupi - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "184.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3203007",
+    "D3N": "Iúna - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "460.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3203700",
+    "D3N": "Muniz Freire - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "679.9"
+  }
+]

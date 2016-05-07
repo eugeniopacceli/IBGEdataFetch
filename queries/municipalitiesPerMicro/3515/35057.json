@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3505708",
+    "D3N": "Barueri - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "66.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3509205",
+    "D3N": "Cajamar - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "131.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3510609",
+    "D3N": "Carapicuíba - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "34.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3522505",
+    "D3N": "Itapevi - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "83.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3525003",
+    "D3N": "Jandira - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "17.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3534401",
+    "D3N": "Osasco - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "64.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3539103",
+    "D3N": "Pirapora do Bom Jesus - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "108.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3547304",
+    "D3N": "Santana de Parnaíba - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "179.8"
+  }
+]

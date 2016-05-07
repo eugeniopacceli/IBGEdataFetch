@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2300705",
+    "D3N": "Alto Santo - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1338.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2305332",
+    "D3N": "Ibicuitinga - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "424.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2307007",
+    "D3N": "Jaguaruana - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "847.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2307601",
+    "D3N": "Limoeiro do Norte - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "751.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2308708",
+    "D3N": "Morada Nova - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2779.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2310001",
+    "D3N": "Palhano - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "440.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2311504",
+    "D3N": "Quixeré - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "610.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2311801",
+    "D3N": "Russas - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1591.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2312502",
+    "D3N": "São João do Jaguaribe - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "280.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2313104",
+    "D3N": "Tabuleiro do Norte - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "861.8"
+  }
+]

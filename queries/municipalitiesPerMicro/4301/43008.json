@@ -1,0 +1,178 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4300208",
+    "D3N": "Ajuricaba - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "323.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4300455",
+    "D3N": "Alegria - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "172.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4301503",
+    "D3N": "Augusto Pestana - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "347.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4302584",
+    "D3N": "Bozano - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "201.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4305405",
+    "D3N": "Chiapetta - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "396.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4305702",
+    "D3N": "Condor - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "465.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4305871",
+    "D3N": "Coronel Barros - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "162.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4305900",
+    "D3N": "Coronel Bicaco - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "492.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4310207",
+    "D3N": "Ijuí - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "689.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4310413",
+    "D3N": "Inhacorá - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "114.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4313334",
+    "D3N": "Nova Ramada - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "254.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4313904",
+    "D3N": "Panambi - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "490.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4314308",
+    "D3N": "Pejuçara - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "414.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4317806",
+    "D3N": "Santo Augusto - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "468.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4319737",
+    "D3N": "São Valério do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "108.0"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2901155",
+    "D3N": "América Dourada - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "839.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2903003",
+    "D3N": "Barra do Mendes - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1540.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2903235",
+    "D3N": "Barro Alto - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "416.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2905305",
+    "D3N": "Cafarnaum - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "675.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2906204",
+    "D3N": "Canarana - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "576.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2907608",
+    "D3N": "Central - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "602.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2911303",
+    "D3N": "Gentio do Ouro - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3700.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2912400",
+    "D3N": "Ibipeba - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1383.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2913101",
+    "D3N": "Ibititá - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "624.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2914406",
+    "D3N": "Iraquara - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1029.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2914604",
+    "D3N": "Irecê - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "319.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2918357",
+    "D3N": "João Dourado - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "914.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2918506",
+    "D3N": "Jussara - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "948.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2919157",
+    "D3N": "Lapão - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "602.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2922052",
+    "D3N": "Mulungu do Morro - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "566.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2925600",
+    "D3N": "Presidente Dutra - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "163.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2929255",
+    "D3N": "São Gabriel - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1199.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2930808",
+    "D3N": "Souto Soares - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "993.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2932408",
+    "D3N": "Uibaí - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "551.0"
+  }
+]

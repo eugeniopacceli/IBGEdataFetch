@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100015",
+    "D3N": "Alta Floresta D'Oeste - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7067.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100049",
+    "D3N": "Cacoal - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3792.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100098",
+    "D3N": "Espigão D'Oeste - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4518.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100288",
+    "D3N": "Rolim de Moura - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1457.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100296",
+    "D3N": "Santa Luzia D'Oeste - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1197.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100379",
+    "D3N": "Alto Alegre dos Parecis - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3958.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100502",
+    "D3N": "Novo Horizonte do Oeste - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "843.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100908",
+    "D3N": "Castanheiras - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "892.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1101203",
+    "D3N": "Ministro Andreazza - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "798.1"
+  }
+]

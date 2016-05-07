@@ -1,0 +1,200 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2500775",
+    "D3N": "Aparecida - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "295.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2503753",
+    "D3N": "Cajazeirinhas - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "287.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2504504",
+    "D3N": "Condado - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "280.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2505501",
+    "D3N": "Vista Serrana - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "61.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2508406",
+    "D3N": "Lastro - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "102.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2508802",
+    "D3N": "Malta - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "156.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2509156",
+    "D3N": "Marizópolis - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "63.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2510006",
+    "D3N": "Nazarezinho - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "191.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2510907",
+    "D3N": "Paulista - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "576.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2512101",
+    "D3N": "Pombal - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "888.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2513208",
+    "D3N": "Santa Cruz - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "210.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2513927",
+    "D3N": "São Bentinho - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "196.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2513968",
+    "D3N": "São Domingos - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "169.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2513984",
+    "D3N": "São Francisco - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "95.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2514206",
+    "D3N": "São José da Lagoa Tapada - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "341.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2516201",
+    "D3N": "Sousa - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "738.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2517209",
+    "D3N": "Vieirópolis - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "146.8"
+  }
+]

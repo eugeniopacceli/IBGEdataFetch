@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2500304",
+    "D3N": "Alagoa Grande - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "320.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2500403",
+    "D3N": "Alagoa Nova - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "122.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2501104",
+    "D3N": "Areia - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "269.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2501500",
+    "D3N": "Bananeiras - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "257.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2502706",
+    "D3N": "Borborema - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "26.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2509339",
+    "D3N": "Matinhas - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "38.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2511608",
+    "D3N": "Pilões - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "64.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2515906",
+    "D3N": "Serraria - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "65.3"
+  }
+]

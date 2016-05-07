@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4200606",
+    "D3N": "Águas Mornas - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "326.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4200705",
+    "D3N": "Alfredo Wagner - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "732.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4201109",
+    "D3N": "Anitápolis - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "542.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4214300",
+    "D3N": "Rancho Queimado - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "286.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4215901",
+    "D3N": "São Bonifácio - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "461.3"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4102901",
+    "D3N": "Bituruna - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1214.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4106803",
+    "D3N": "Cruz Machado - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1478.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4108502",
+    "D3N": "General Carneiro - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1070.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4118600",
+    "D3N": "Paula Freitas - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "420.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4118709",
+    "D3N": "Paulo Frontin - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "369.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4120309",
+    "D3N": "Porto Vitória - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "212.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4128203",
+    "D3N": "União da Vitória - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "720.2"
+  }
+]

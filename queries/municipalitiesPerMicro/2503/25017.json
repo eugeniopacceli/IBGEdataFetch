@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2502151",
+    "D3N": "Boa Vista - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "476.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2504009",
+    "D3N": "Campina Grande - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "594.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2506103",
+    "D3N": "Fagundes - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "189.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2508307",
+    "D3N": "Lagoa Seca - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "107.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2509206",
+    "D3N": "Massaranduba - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "206.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2512408",
+    "D3N": "Puxinanã - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "72.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2512507",
+    "D3N": "Queimadas - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "401.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2515807",
+    "D3N": "Serra Redonda - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "55.9"
+  }
+]

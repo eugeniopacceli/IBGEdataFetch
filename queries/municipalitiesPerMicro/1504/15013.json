@@ -1,0 +1,156 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1500958",
+    "D3N": "Aurora do Pará - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1811.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1501956",
+    "D3N": "Cachoeira do Piriá - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2462.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1502301",
+    "D3N": "Capitão Poço - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2899.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1503077",
+    "D3N": "Garrafão do Norte - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1599.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1503457",
+    "D3N": "Ipixuna do Pará - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5215.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1503507",
+    "D3N": "Irituia - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1379.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1504059",
+    "D3N": "Mãe do Rio - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "469.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1504950",
+    "D3N": "Nova Esperança do Piriá - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2809.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1505403",
+    "D3N": "Ourém - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "562.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1506559",
+    "D3N": "Santa Luzia do Pará - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1356.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1507201",
+    "D3N": "São Domingos do Capim - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1677.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1507607",
+    "D3N": "São Miguel do Guamá - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1110.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1508308",
+    "D3N": "Viseu - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4915.0"
+  }
+]

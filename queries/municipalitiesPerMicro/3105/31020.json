@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3103801",
+    "D3N": "Arapuá - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "173.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3114303",
+    "D3N": "Carmo do Paranaíba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1307.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3128907",
+    "D3N": "Guimarânia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "366.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3137502",
+    "D3N": "Lagoa Formosa - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "840.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3141207",
+    "D3N": "Matutina - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "261.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3148004",
+    "D3N": "Patos de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3189.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3155504",
+    "D3N": "Rio Paranaíba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1352.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3159704",
+    "D3N": "Santa Rosa da Serra - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "284.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3162104",
+    "D3N": "São Gotardo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "866.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3168903",
+    "D3N": "Tiros - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2091.8"
+  }
+]

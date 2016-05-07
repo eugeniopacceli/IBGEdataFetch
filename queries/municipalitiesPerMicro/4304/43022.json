@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4303004",
+    "D3N": "Cachoeira do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3735.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4305132",
+    "D3N": "Cerro Branco - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "158.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4313391",
+    "D3N": "Novo Cabrais - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "192.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4313953",
+    "D3N": "Pantano Grande - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "841.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4314027",
+    "D3N": "Paraíso do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "337.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4314076",
+    "D3N": "Passo do Sobrado - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "265.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4315701",
+    "D3N": "Rio Pardo - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2050.6"
+  }
+]

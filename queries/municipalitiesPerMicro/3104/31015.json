@@ -1,0 +1,156 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3104700",
+    "D3N": "Ataléia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1837.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3115458",
+    "D3N": "Catuji - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "419.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3126752",
+    "D3N": "Franciscópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "717.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3126802",
+    "D3N": "Frei Gaspar - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "626.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3132305",
+    "D3N": "Itaipé - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "480.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3137007",
+    "D3N": "Ladainha - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "866.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3139201",
+    "D3N": "Malacacheta - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "727.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3145356",
+    "D3N": "Novo Oriente de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "755.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3146206",
+    "D3N": "Ouro Verde de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "175.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3148509",
+    "D3N": "Pavão - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "601.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3152402",
+    "D3N": "Poté - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "625.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3165552",
+    "D3N": "Setubinha - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "534.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3168606",
+    "D3N": "Teófilo Otoni - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3242.3"
+  }
+]

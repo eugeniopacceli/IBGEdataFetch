@@ -1,0 +1,178 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2500700",
+    "D3N": "São João do Rio do Peixe - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "474.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2502052",
+    "D3N": "Bernardino Batista - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "50.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2502201",
+    "D3N": "Bom Jesus - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "47.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2502409",
+    "D3N": "Bonito de Santa Fé - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "228.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2503308",
+    "D3N": "Cachoeira dos Índios - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "193.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2503704",
+    "D3N": "Cajazeiras - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "565.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2504108",
+    "D3N": "Carrapateira - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "54.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2509602",
+    "D3N": "Monte Horebe - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "116.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2512036",
+    "D3N": "Poço Dantas - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "97.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2512077",
+    "D3N": "Poço de José de Moura - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "101.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2513307",
+    "D3N": "Santa Helena - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "210.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2513653",
+    "D3N": "Joca Claudino - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "74.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2514503",
+    "D3N": "São José de Piranhas - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "677.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2516805",
+    "D3N": "Triunfo - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "219.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2516904",
+    "D3N": "Uiraúna - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "294.5"
+  }
+]

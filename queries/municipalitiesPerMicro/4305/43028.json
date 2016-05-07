@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4300851",
+    "D3N": "Arambaré - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "519.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4301909",
+    "D3N": "Barra do Ribeiro - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "729.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4303509",
+    "D3N": "Camaquã - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1679.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4305173",
+    "D3N": "Cerro Grande do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "324.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4305447",
+    "D3N": "Chuvisca - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "220.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4306502",
+    "D3N": "Dom Feliciano - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1356.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4320354",
+    "D3N": "Sentinela do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "282.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4321105",
+    "D3N": "Tapes - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "806.3"
+  }
+]

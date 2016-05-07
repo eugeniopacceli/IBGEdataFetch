@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4305439",
+    "D3N": "Chuí - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "202.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4315602",
+    "D3N": "Rio Grande - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2709.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4317301",
+    "D3N": "Santa Vitória do Palmar - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5244.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4318507",
+    "D3N": "São José do Norte - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1118.1"
+  }
+]

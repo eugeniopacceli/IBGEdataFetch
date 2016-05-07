@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2101806",
+    "D3N": "Benedito Leite - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1781.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2104107",
+    "D3N": "Fortaleza dos Nogueiras - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1664.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2106102",
+    "D3N": "Loreto - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3596.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2107258",
+    "D3N": "Nova Colinas - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "743.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2109700",
+    "D3N": "Sambaíba - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2478.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2110658",
+    "D3N": "São Domingos do Azeitão - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "960.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2110807",
+    "D3N": "São Félix de Balsas - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2032.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2111607",
+    "D3N": "São Raimundo das Mangabeiras - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3521.5"
+  }
+]

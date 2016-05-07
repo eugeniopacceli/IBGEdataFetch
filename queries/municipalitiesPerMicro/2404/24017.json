@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2402600",
+    "D3N": "Ceará-Mirim - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "724.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2407104",
+    "D3N": "Macaíba - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "510.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2408201",
+    "D3N": "Nísia Floresta - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "307.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2412005",
+    "D3N": "São Gonçalo do Amarante - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "249.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2412203",
+    "D3N": "São José de Mipibu - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "290.3"
+  }
+]

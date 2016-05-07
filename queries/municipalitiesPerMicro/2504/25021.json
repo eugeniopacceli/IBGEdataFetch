@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2504900",
+    "D3N": "Cruz do Espírito Santo - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "195.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2507903",
+    "D3N": "Juripiranga - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "78.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2509107",
+    "D3N": "Mari - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "154.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2511509",
+    "D3N": "Pilar - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "102.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2512762",
+    "D3N": "Riachão do Poço - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "39.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2514453",
+    "D3N": "São José dos Ramos - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "98.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2515005",
+    "D3N": "São Miguel de Taipu - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "92.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2515302",
+    "D3N": "Sapé - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "315.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2515971",
+    "D3N": "Sobrado - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "61.7"
+  }
+]

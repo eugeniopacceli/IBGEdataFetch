@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5200902",
+    "D3N": "Amorinópolis - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "408.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5204201",
+    "D3N": "Cachoeira de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "422.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5205703",
+    "D3N": "Córrego do Ouro - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "462.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5207600",
+    "D3N": "Fazenda Nova - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1281.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5210208",
+    "D3N": "Iporá - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1026.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5210307",
+    "D3N": "Israelândia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "577.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5211602",
+    "D3N": "Ivolândia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1257.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5212006",
+    "D3N": "Jaupaci - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "527.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5213400",
+    "D3N": "Moiporá - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "460.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5215207",
+    "D3N": "Novo Brasil - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "650.0"
+  }
+]

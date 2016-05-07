@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1300144",
+    "D3N": "Apuí - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "54239.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1300805",
+    "D3N": "Borba - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "44251.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1301704",
+    "D3N": "Humaitá - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "33071.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1302702",
+    "D3N": "Manicoré - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "48282.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1303304",
+    "D3N": "Novo Aripuanã - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "41188.5"
+  }
+]

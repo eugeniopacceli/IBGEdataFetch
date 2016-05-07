@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3503356",
+    "D3N": "Arco-Íris - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "264.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3505807",
+    "D3N": "Bastos - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "171.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3519006",
+    "D3N": "Herculândia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "364.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3519204",
+    "D3N": "Iacri - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "322.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3541802",
+    "D3N": "Queiroz - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "233.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3542008",
+    "D3N": "Quintana - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "319.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3555000",
+    "D3N": "Tupã - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "628.5"
+  }
+]

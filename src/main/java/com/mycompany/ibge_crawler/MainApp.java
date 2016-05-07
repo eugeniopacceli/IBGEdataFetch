@@ -1,11 +1,11 @@
 package com.mycompany.ibge_crawler;
 
 import javafx.application.Application;
-import static javafx.application.Application.launch;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
+import static javafx.application.Application.launch;
 
 
 public class MainApp extends Application {
@@ -14,7 +14,7 @@ public class MainApp extends Application {
     public void start(Stage stage) throws Exception {
         FXMLLoader loader = new FXMLLoader();
         Parent root = loader.load(getClass().getResource("/fxml/Scene.fxml").openStream());
-        FXMLController controller = loader.getController();
+        DataFetcher controller = loader.getController();
         
         Scene scene = new Scene(root);
         scene.getStylesheets().add("/styles/Styles.css");

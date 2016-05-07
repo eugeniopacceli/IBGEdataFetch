@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3114204",
+    "D3N": "Carmo do Cajuru - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "455.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3116605",
+    "D3N": "Cláudio - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "630.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3117603",
+    "D3N": "Conceição do Pará - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "250.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3122306",
+    "D3N": "Divinópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "708.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3130200",
+    "D3N": "Igaratinga - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "218.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3133808",
+    "D3N": "Itaúna - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "495.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3145208",
+    "D3N": "Nova Serrana - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "282.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3149705",
+    "D3N": "Perdigão - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "249.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3160405",
+    "D3N": "Santo Antônio do Monte - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1125.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3161809",
+    "D3N": "São Gonçalo do Pará - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "265.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3164605",
+    "D3N": "São Sebastião do Oeste - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "408.1"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3501707",
+    "D3N": "Américo Brasiliense - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "122.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3503208",
+    "D3N": "Araraquara - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1004.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3506706",
+    "D3N": "Boa Esperança do Sul - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "690.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3507407",
+    "D3N": "Borborema - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "552.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3514007",
+    "D3N": "Dobrada - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "149.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3516853",
+    "D3N": "Gavião Peixoto - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "243.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3519600",
+    "D3N": "Ibitinga - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "689.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3522703",
+    "D3N": "Itápolis - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "996.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3529302",
+    "D3N": "Matão - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "524.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3532058",
+    "D3N": "Motuca - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "228.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3532900",
+    "D3N": "Nova Europa - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "160.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3543709",
+    "D3N": "Rincão - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "315.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3546900",
+    "D3N": "Santa Lúcia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "154.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3552700",
+    "D3N": "Tabatinga - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "369.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3554755",
+    "D3N": "Trabiju - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "63.4"
+  }
+]

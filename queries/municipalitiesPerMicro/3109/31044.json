@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3104205",
+    "D3N": "Arcos - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "509.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3110400",
+    "D3N": "Camacho - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "223.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3119955",
+    "D3N": "Córrego Fundo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "101.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3126109",
+    "D3N": "Formiga - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1501.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3133501",
+    "D3N": "Itapecerica - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1040.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3146503",
+    "D3N": "Pains - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "421.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3148905",
+    "D3N": "Pedra do Indaiá - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "347.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3150505",
+    "D3N": "Pimenta - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "415.0"
+  }
+]

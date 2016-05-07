@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3503307",
+    "D3N": "Araras - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "644.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3512209",
+    "D3N": "Conchal - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "182.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3512407",
+    "D3N": "Cordeirópolis - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "137.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3521408",
+    "D3N": "Iracemápolis - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "115.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3526704",
+    "D3N": "Leme - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "402.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3526902",
+    "D3N": "Limeira - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "581.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3546207",
+    "D3N": "Santa Cruz da Conceição - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "150.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3546702",
+    "D3N": "Santa Gertrudes - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "98.0"
+  }
+]

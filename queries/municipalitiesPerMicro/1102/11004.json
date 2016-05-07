@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100114",
+    "D3N": "Jaru - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2944.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100122",
+    "D3N": "Ji-Paraná - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6896.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100155",
+    "D3N": "Ouro Preto do Oeste - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1969.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100254",
+    "D3N": "Presidente Médici - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1758.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1101005",
+    "D3N": "Governador Jorge Teixeira - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5067.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1101302",
+    "D3N": "Mirante da Serra - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1191.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1101435",
+    "D3N": "Nova União - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "807.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1101559",
+    "D3N": "Teixeirópolis - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "460.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1101609",
+    "D3N": "Theobroma - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2197.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1101708",
+    "D3N": "Urupá - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "831.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1101807",
+    "D3N": "Vale do Paraíso - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "965.7"
+  }
+]

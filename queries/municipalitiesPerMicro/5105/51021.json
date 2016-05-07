@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5103601",
+    "D3N": "Dom Aquino - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2204.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5104609",
+    "D3N": "Itiquira - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8722.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5104807",
+    "D3N": "Jaciara - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1653.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5105200",
+    "D3N": "Juscimeira - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2206.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106372",
+    "D3N": "Pedra Preta - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4108.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107297",
+    "D3N": "São José do Povo - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "443.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107404",
+    "D3N": "São Pedro da Cipa - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "343.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107602",
+    "D3N": "Rondonópolis - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4159.1"
+  }
+]

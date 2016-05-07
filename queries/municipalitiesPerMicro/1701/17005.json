@@ -1,0 +1,167 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1700350",
+    "D3N": "Aliança do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1579.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1700707",
+    "D3N": "Alvorada - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1212.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1703701",
+    "D3N": "Brejinho de Nazaré - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1724.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1703867",
+    "D3N": "Cariri do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1128.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1706258",
+    "D3N": "Crixás do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "986.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1707652",
+    "D3N": "Figueirópolis - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1930.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1709500",
+    "D3N": "Gurupi - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1836.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1711506",
+    "D3N": "Jaú do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2173.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1715754",
+    "D3N": "Palmeirópolis - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1703.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1716604",
+    "D3N": "Peixe - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5291.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1718899",
+    "D3N": "Santa Rita do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3274.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1720259",
+    "D3N": "São Salvador do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1422.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1720853",
+    "D3N": "Sucupira - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1025.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1720978",
+    "D3N": "Talismã - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2156.9"
+  }
+]

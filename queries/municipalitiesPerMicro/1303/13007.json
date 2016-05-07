@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1300300",
+    "D3N": "Autazes - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7599.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1301100",
+    "D3N": "Careiro - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6091.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1301159",
+    "D3N": "Careiro da Várzea - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2631.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1301852",
+    "D3N": "Iranduba - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2214.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1302504",
+    "D3N": "Manacapuru - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7330.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1302553",
+    "D3N": "Manaquiri - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3975.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1302603",
+    "D3N": "Manaus - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "11401.1"
+  }
+]

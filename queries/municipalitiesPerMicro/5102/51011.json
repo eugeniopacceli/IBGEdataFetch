@@ -1,0 +1,46 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5101001",
+    "D3N": "Araguaiana - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6429.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5101803",
+    "D3N": "Barra do Garças - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9079.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5103106",
+    "D3N": "Cocalinho - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "16530.6"
+  }
+]

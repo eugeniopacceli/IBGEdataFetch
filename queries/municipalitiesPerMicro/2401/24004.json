@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2400208",
+    "D3N": "Açu - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1303.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2400703",
+    "D3N": "Alto do Rodrigues - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "191.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2402501",
+    "D3N": "Carnaubais - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "542.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2404705",
+    "D3N": "Ipanguaçu - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "374.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2404853",
+    "D3N": "Itajá - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "203.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2406106",
+    "D3N": "Jucurutu - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "933.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2409902",
+    "D3N": "Pendências - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "419.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2410256",
+    "D3N": "Porto do Mangue - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "319.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2412807",
+    "D3N": "São Rafael - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "469.1"
+  }
+]

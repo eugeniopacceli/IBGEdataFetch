@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2102309",
+    "D3N": "Buriti Bravo - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1582.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2103000",
+    "D3N": "Caxias - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5150.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2106607",
+    "D3N": "Matões - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1976.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2107803",
+    "D3N": "Parnarama - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3439.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2111078",
+    "D3N": "São João do Soter - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1438.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2112209",
+    "D3N": "Timon - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1743.2"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4200754",
+    "D3N": "Alto Bela Vista - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "103.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4201273",
+    "D3N": "Arabutã - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "132.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4201653",
+    "D3N": "Arvoredo - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "90.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4204301",
+    "D3N": "Concórdia - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "797.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4207601",
+    "D3N": "Ipira - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "155.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4207700",
+    "D3N": "Ipumirim - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "247.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4207809",
+    "D3N": "Irani - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "327.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4208005",
+    "D3N": "Itá - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "165.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4209854",
+    "D3N": "Lindóia do Sul - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "189.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4211876",
+    "D3N": "Paial - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "85.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4212601",
+    "D3N": "Peritiba - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "96.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4213104",
+    "D3N": "Piratuba - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "145.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4213906",
+    "D3N": "Presidente Castello Branco - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "65.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4217501",
+    "D3N": "Seara - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "312.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4219606",
+    "D3N": "Xavantina - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "215.1"
+  }
+]

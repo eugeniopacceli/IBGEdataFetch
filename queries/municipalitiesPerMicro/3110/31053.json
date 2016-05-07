@@ -1,0 +1,178 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3109709",
+    "D3N": "Cachoeira de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "304.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3113602",
+    "D3N": "Careaçu - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "181.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3117207",
+    "D3N": "Conceição das Pedras - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "102.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3117801",
+    "D3N": "Conceição dos Ouros - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "183.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3119005",
+    "D3N": "Cordislândia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "179.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3129202",
+    "D3N": "Heliodora - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "154.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3144409",
+    "D3N": "Natércia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "188.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3149101",
+    "D3N": "Pedralva - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "218.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3159605",
+    "D3N": "Santa Rita do Sapucaí - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "353.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3162005",
+    "D3N": "São Gonçalo do Sapucaí - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "516.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3162302",
+    "D3N": "São João da Mata - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "120.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3163201",
+    "D3N": "São José do Alegre - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "88.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3164407",
+    "D3N": "São Sebastião da Bela Vista - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "167.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3167400",
+    "D3N": "Silvianópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "312.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3169802",
+    "D3N": "Turvolândia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "221.0"
+  }
+]

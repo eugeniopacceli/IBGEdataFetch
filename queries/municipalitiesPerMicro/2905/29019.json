@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2901106",
+    "D3N": "Amélia Rodrigues - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "173.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2907509",
+    "D3N": "Catu - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "416.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2915908",
+    "D3N": "Itanagra - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "490.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2921005",
+    "D3N": "Mata de São João - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "633.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2925204",
+    "D3N": "Pojuca - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "290.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2929503",
+    "D3N": "São Sebastião do Passé - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "538.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2931707",
+    "D3N": "Terra Nova - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "198.9"
+  }
+]

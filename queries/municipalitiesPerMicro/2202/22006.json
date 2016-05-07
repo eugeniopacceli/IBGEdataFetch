@@ -1,0 +1,167 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2200905",
+    "D3N": "Aroazes - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "821.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2201176",
+    "D3N": "Barra D'Alcântara - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "263.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2203503",
+    "D3N": "Elesbão Veloso - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1347.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2204006",
+    "D3N": "Francinópolis - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "268.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2204709",
+    "D3N": "Inhuma - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "978.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2205599",
+    "D3N": "Lagoa do Sítio - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "804.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2206902",
+    "D3N": "Novo Oriente do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "525.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2208106",
+    "D3N": "Pimenteiras - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4563.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2208601",
+    "D3N": "Prata do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "196.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2209153",
+    "D3N": "Santa Cruz dos Milagres - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "979.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2209609",
+    "D3N": "São Félix do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "657.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2210383",
+    "D3N": "São Miguel da Baixa Grande - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "384.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2211308",
+    "D3N": "Valença do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1334.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2211407",
+    "D3N": "Várzea Grande - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "237.0"
+  }
+]

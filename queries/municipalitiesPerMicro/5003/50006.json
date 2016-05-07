@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5001003",
+    "D3N": "Aparecida do Taboado - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2750.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5004403",
+    "D3N": "Inocência - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5776.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5006309",
+    "D3N": "Paranaíba - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5402.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5007802",
+    "D3N": "Selvíria - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3258.3"
+  }
+]

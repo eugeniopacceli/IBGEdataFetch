@@ -1,0 +1,145 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3500600",
+    "D3N": "Águas de São Pedro - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3510401",
+    "D3N": "Capivari - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "322.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3511706",
+    "D3N": "Charqueada - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "175.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3525854",
+    "D3N": "Jumirim - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "56.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3530904",
+    "D3N": "Mombuca - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "133.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3538709",
+    "D3N": "Piracicaba - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1376.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3542107",
+    "D3N": "Rafard - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "121.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3544004",
+    "D3N": "Rio das Pedras - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "226.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3545159",
+    "D3N": "Saltinho - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "99.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3547007",
+    "D3N": "Santa Maria da Serra - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "257.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3550407",
+    "D3N": "São Pedro - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "611.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3554508",
+    "D3N": "Tietê - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "404.8"
+  }
+]

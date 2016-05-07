@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2303402",
+    "D3N": "Carnaubal - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "364.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2304236",
+    "D3N": "Croatá - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "697.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2305001",
+    "D3N": "Guaraciaba do Norte - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "611.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2305308",
+    "D3N": "Ibiapina - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "414.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2312304",
+    "D3N": "São Benedito - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "338.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2313401",
+    "D3N": "Tianguá - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "908.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2313609",
+    "D3N": "Ubajara - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "421.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2314102",
+    "D3N": "Viçosa do Ceará - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1311.6"
+  }
+]

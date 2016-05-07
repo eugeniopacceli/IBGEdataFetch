@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2601201",
+    "D3N": "Arcoverde - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "350.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2601805",
+    "D3N": "Betânia - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1244.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2605103",
+    "D3N": "Custódia - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1404.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2606606",
+    "D3N": "Ibimirim - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1954.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2607000",
+    "D3N": "Inajá - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1182.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2609154",
+    "D3N": "Manari - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "381.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2614105",
+    "D3N": "Sertânia - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2421.5"
+  }
+]

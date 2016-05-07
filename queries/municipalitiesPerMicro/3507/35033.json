@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3500501",
+    "D3N": "Águas de Lindóia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "60.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3501905",
+    "D3N": "Amparo - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "445.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3527009",
+    "D3N": "Lindóia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "48.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3531209",
+    "D3N": "Monte Alegre do Sul - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "110.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3536802",
+    "D3N": "Pedra Bela - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "158.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3538204",
+    "D3N": "Pinhalzinho - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "154.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3551603",
+    "D3N": "Serra Negra - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "203.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3552106",
+    "D3N": "Socorro - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "449.0"
+  }
+]

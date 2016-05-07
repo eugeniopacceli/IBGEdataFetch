@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4101200",
+    "D3N": "Antonina - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "882.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4109500",
+    "D3N": "Guaraqueçaba - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2020.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4109609",
+    "D3N": "Guaratuba - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1325.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4115705",
+    "D3N": "Matinhos - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "117.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4116208",
+    "D3N": "Morretes - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "684.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4118204",
+    "D3N": "Paranaguá - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "826.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4119954",
+    "D3N": "Pontal do Paraná - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "199.9"
+  }
+]

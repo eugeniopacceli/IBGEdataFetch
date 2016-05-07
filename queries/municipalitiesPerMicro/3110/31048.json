@@ -1,0 +1,167 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3104106",
+    "D3N": "Arceburgo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "162.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3109501",
+    "D3N": "Cabo Verde - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "368.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3128303",
+    "D3N": "Guaranésia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "294.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3128709",
+    "D3N": "Guaxupé - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "286.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3132909",
+    "D3N": "Itamogi - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "243.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3134806",
+    "D3N": "Jacuí - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "409.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3136900",
+    "D3N": "Juruaia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "220.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3143005",
+    "D3N": "Monte Belo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "421.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3143203",
+    "D3N": "Monte Santo de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "594.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3144102",
+    "D3N": "Muzambinho - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "409.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3145109",
+    "D3N": "Nova Resende - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "390.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3163904",
+    "D3N": "São Pedro da União - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "260.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3164704",
+    "D3N": "São Sebastião do Paraíso - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "814.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3165107",
+    "D3N": "São Tomás de Aquino - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "277.9"
+  }
+]

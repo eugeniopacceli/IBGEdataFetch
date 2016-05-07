@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3300506",
+    "D3N": "Bom Jardim - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "384.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3301603",
+    "D3N": "Duas Barras - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "375.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3303401",
+    "D3N": "Nova Friburgo - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "933.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3305703",
+    "D3N": "Sumidouro - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "395.5"
+  }
+]

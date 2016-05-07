@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2601102",
+    "D3N": "Araripina - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1892.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2602001",
+    "D3N": "Bodocó - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1616.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2605301",
+    "D3N": "Exu - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1337.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2606309",
+    "D3N": "Granito - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "521.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2607307",
+    "D3N": "Ipubi - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "861.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2609907",
+    "D3N": "Ouricuri - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2422.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2612455",
+    "D3N": "Santa Cruz - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1255.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2612554",
+    "D3N": "Santa Filomena - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1005.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2614303",
+    "D3N": "Moreilândia - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "404.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2615607",
+    "D3N": "Trindade - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "229.5"
+  }
+]

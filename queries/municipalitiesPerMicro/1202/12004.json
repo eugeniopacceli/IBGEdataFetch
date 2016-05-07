@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1200013",
+    "D3N": "Acrelândia - AC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1807.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1200138",
+    "D3N": "Bujari - AC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3034.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1200179",
+    "D3N": "Capixaba - AC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1702.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1200385",
+    "D3N": "Plácido de Castro - AC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1943.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1200401",
+    "D3N": "Rio Branco - AC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8835.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1200450",
+    "D3N": "Senador Guiomard - AC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2321.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1200807",
+    "D3N": "Porto Acre - AC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2604.7"
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3108800",
+    "D3N": "Braúnas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "378.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3113800",
+    "D3N": "Carmésia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "259.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3116803",
+    "D3N": "Coluna - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "348.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3122207",
+    "D3N": "Divinolândia de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "133.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3123106",
+    "D3N": "Dores de Guanhães - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "382.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3127503",
+    "D3N": "Gonzaga - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "209.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3128006",
+    "D3N": "Guanhães - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1075.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3140605",
+    "D3N": "Materlândia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "280.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3148400",
+    "D3N": "Paulistas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "220.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3156809",
+    "D3N": "Sabinópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "919.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3157500",
+    "D3N": "Santa Efigênia de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "132.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3162807",
+    "D3N": "São João Evangelista - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "478.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3165503",
+    "D3N": "Sardoá - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "141.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3166105",
+    "D3N": "Senhora do Porto - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "381.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3171808",
+    "D3N": "Virginópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "439.9"
+  }
+]

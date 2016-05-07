@@ -1,0 +1,211 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4201000",
+    "D3N": "Anita Garibaldi - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "588.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4202438",
+    "D3N": "Bocaina do Sul - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "513.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4202503",
+    "D3N": "Bom Jardim da Serra - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "935.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4202602",
+    "D3N": "Bom Retiro - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1055.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4203253",
+    "D3N": "Capão Alto - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1335.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4203402",
+    "D3N": "Campo Belo do Sul - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1027.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4204152",
+    "D3N": "Celso Ramos - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "207.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4204178",
+    "D3N": "Cerro Negro - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "416.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4204558",
+    "D3N": "Correia Pinto - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "651.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4209300",
+    "D3N": "Lages - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2629.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4211751",
+    "D3N": "Otacílio Costa - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "846.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4211892",
+    "D3N": "Painel - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "739.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4212056",
+    "D3N": "Palmeira - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "292.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4215059",
+    "D3N": "Rio Rufino - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "282.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4216503",
+    "D3N": "São Joaquim - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1885.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4216800",
+    "D3N": "São José do Cerrito - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "946.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4218905",
+    "D3N": "Urubici - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1019.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4218954",
+    "D3N": "Urupema - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "353.1"
+  }
+]

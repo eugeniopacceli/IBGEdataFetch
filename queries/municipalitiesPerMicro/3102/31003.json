@@ -1,0 +1,189 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3108255",
+    "D3N": "Bonito de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3904.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3116159",
+    "D3N": "Chapada Gaúcha - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3255.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3117836",
+    "D3N": "Cônego Marinho - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1642.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3130051",
+    "D3N": "Icaraí de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "625.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3132107",
+    "D3N": "Itacarambi - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1225.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3135209",
+    "D3N": "Januária - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6661.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3136959",
+    "D3N": "Juvenília - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1064.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3139300",
+    "D3N": "Manga - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1950.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3140852",
+    "D3N": "Matias Cardoso - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1949.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3142254",
+    "D3N": "Miravânia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "602.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3142700",
+    "D3N": "Montalvânia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1503.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3149150",
+    "D3N": "Pedras de Maria da Cruz - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1525.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3150570",
+    "D3N": "Pintópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1228.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3161106",
+    "D3N": "São Francisco - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3308.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3162450",
+    "D3N": "São João das Missões - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "678.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3170529",
+    "D3N": "Urucuia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2076.9"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5202155",
+    "D3N": "Araguapaz - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2193.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5202502",
+    "D3N": "Aruanã - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3050.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5203807",
+    "D3N": "Britânia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1461.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5207535",
+    "D3N": "Faina - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1945.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5208905",
+    "D3N": "Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3108.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5211008",
+    "D3N": "Itapirapuã - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2043.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5212204",
+    "D3N": "Jussara - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4084.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5212956",
+    "D3N": "Matrinchã - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1150.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5219258",
+    "D3N": "Santa Fé de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1169.2"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2802106",
+    "D3N": "Estância - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "644.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2802809",
+    "D3N": "Indiaroba - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "313.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2803203",
+    "D3N": "Itaporanga d'Ajuda - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "739.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2806305",
+    "D3N": "Santa Luzia do Itanhy - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "329.5"
+  }
+]

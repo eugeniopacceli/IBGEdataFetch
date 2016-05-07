@@ -1,0 +1,156 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5200159",
+    "D3N": "Adelândia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "115.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5200852",
+    "D3N": "Americano do Brasil - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "133.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5201306",
+    "D3N": "Anicuns - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "979.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5202601",
+    "D3N": "Aurilândia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "565.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5202809",
+    "D3N": "Avelinópolis - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "173.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5203939",
+    "D3N": "Buriti de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "199.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5207808",
+    "D3N": "Firminópolis - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "423.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5213905",
+    "D3N": "Mossâmedes - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "684.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5214408",
+    "D3N": "Nazário - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "269.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5219001",
+    "D3N": "Sanclerlândia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "496.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5219100",
+    "D3N": "Santa Bárbara de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "139.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5220108",
+    "D3N": "São Luís de Montes Belos - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "826.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5221502",
+    "D3N": "Turvânia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "480.8"
+  }
+]

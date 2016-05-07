@@ -1,0 +1,178 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4304408",
+    "D3N": "Canela - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "253.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4306403",
+    "D3N": "Dois Irmãos - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "65.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4309100",
+    "D3N": "Gramado - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "237.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4310108",
+    "D3N": "Igrejinha - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "135.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4310801",
+    "D3N": "Ivoti - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "63.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4311627",
+    "D3N": "Lindolfo Collor - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "33.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4312476",
+    "D3N": "Morro Reuter - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "87.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4313201",
+    "D3N": "Nova Petrópolis - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "291.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4314423",
+    "D3N": "Picada Café - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "85.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4315149",
+    "D3N": "Presidente Lucena - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "49.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4315750",
+    "D3N": "Riozinho - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "239.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4316006",
+    "D3N": "Rolante - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "295.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4316956",
+    "D3N": "Santa Maria do Herval - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "139.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4321204",
+    "D3N": "Taquara - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "457.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4321709",
+    "D3N": "Três Coroas - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "185.5"
+  }
+]

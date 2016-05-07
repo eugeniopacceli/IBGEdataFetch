@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2905404",
+    "D3N": "Cairu - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "461.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2905800",
+    "D3N": "Camamu - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "920.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2913457",
+    "D3N": "Igrapiúna - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "527.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2917300",
+    "D3N": "Ituberá - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "417.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2920700",
+    "D3N": "Maraú - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "823.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2922607",
+    "D3N": "Nilo Peçanha - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "399.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2924678",
+    "D3N": "Piraí do Norte - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "187.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2925758",
+    "D3N": "Presidente Tancredo Neves - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "417.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2931202",
+    "D3N": "Taperoá - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "410.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2932903",
+    "D3N": "Valença - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1192.6"
+  }
+]

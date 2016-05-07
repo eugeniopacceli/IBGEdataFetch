@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2400406",
+    "D3N": "Água Nova - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "50.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2402907",
+    "D3N": "Coronel João Pessoa - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "117.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2403202",
+    "D3N": "Doutor Severiano - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "108.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2403301",
+    "D3N": "Encanto - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "125.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2407005",
+    "D3N": "Luís Gomes - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "166.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2407252",
+    "D3N": "Major Sales - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "32.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2410801",
+    "D3N": "Riacho de Santana - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "128.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2412500",
+    "D3N": "São Miguel - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "171.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2414753",
+    "D3N": "Venha-Ver - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "71.6"
+  }
+]

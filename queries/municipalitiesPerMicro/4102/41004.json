@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4100459",
+    "D3N": "Altamira do Paraná - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "386.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4103008",
+    "D3N": "Boa Esperança - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "307.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4103909",
+    "D3N": "Campina da Lagoa - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "796.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4108601",
+    "D3N": "Goioerê - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "564.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4112207",
+    "D3N": "Janiópolis - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "335.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4112959",
+    "D3N": "Juranda - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "349.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4116109",
+    "D3N": "Moreira Sales - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "353.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4116802",
+    "D3N": "Nova Cantu - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "555.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4120655",
+    "D3N": "Quarto Centenário - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "321.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4121356",
+    "D3N": "Rancho Alegre D'Oeste - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "241.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4128005",
+    "D3N": "Ubiratã - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "652.6"
+  }
+]

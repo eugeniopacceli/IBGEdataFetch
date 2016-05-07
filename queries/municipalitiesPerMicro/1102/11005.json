@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100148",
+    "D3N": "Nova Brasilândia D'Oeste - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1155.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100320",
+    "D3N": "São Miguel do Guaporé - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8007.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100346",
+    "D3N": "Alvorada D'Oeste - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3029.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1101500",
+    "D3N": "Seringueiras - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3773.5"
+  }
+]

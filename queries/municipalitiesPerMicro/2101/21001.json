@@ -1,0 +1,156 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2100204",
+    "D3N": "Alcântara - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1486.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2100832",
+    "D3N": "Apicum-Açu - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "353.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2101301",
+    "D3N": "Bacuri - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "787.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2101350",
+    "D3N": "Bacurituba - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "674.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2101905",
+    "D3N": "Bequimão - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "769.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2102408",
+    "D3N": "Cajapió - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "908.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2103109",
+    "D3N": "Cedral - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "289.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2103125",
+    "D3N": "Central do Maranhão - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "319.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2103703",
+    "D3N": "Cururupu - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1223.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2104909",
+    "D3N": "Guimarães - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "595.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2106805",
+    "D3N": "Mirinzal - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "687.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2109056",
+    "D3N": "Porto Rico do Maranhão - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "213.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2111789",
+    "D3N": "Serrano do Maranhão - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1207.1"
+  }
+]

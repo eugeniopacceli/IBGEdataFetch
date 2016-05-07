@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3109402",
+    "D3N": "Buritizeiro - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7218.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3129608",
+    "D3N": "Ibiaí - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "874.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3135605",
+    "D3N": "Jequitaí - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1268.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3137304",
+    "D3N": "Lagoa dos Patos - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "600.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3138104",
+    "D3N": "Lassance - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3204.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3151206",
+    "D3N": "Pirapora - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "549.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3154457",
+    "D3N": "Riachinho - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1780.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3157609",
+    "D3N": "Santa Fé de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2917.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3164209",
+    "D3N": "São Romão - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2434.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3170800",
+    "D3N": "Várzea da Palma - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2220.3"
+  }
+]

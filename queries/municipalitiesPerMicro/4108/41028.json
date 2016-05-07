@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4103040",
+    "D3N": "Boa Ventura de São Roque - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "622.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4113254",
+    "D3N": "Laranjal - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "559.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4115739",
+    "D3N": "Mato Rico - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "394.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4117800",
+    "D3N": "Palmital - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "817.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4119608",
+    "D3N": "Pitanga - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1663.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4123857",
+    "D3N": "Santa Maria do Oeste - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "847.1"
+  }
+]

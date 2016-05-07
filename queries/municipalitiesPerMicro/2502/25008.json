@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2507804",
+    "D3N": "Junco do Seridó - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "170.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2513000",
+    "D3N": "Salgadinho - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "184.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2513406",
+    "D3N": "Santa Luzia - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "455.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2514701",
+    "D3N": "São José do Sabugi - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "206.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2514909",
+    "D3N": "São Mamede - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "530.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2517100",
+    "D3N": "Várzea - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "190.4"
+  }
+]

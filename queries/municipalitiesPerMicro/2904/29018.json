@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2907004",
+    "D3N": "Cardeal da Silva - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "220.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2908606",
+    "D3N": "Conde - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "964.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2910503",
+    "D3N": "Entre Rios - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1215.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2910602",
+    "D3N": "Esplanada - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1320.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2917904",
+    "D3N": "Jandaíra - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "641.2"
+  }
+]

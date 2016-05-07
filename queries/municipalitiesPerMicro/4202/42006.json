@@ -1,0 +1,145 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4202131",
+    "D3N": "Bela Vista do Toldo - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "534.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4203808",
+    "D3N": "Canoinhas - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1144.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4207908",
+    "D3N": "Irineópolis - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "591.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4208104",
+    "D3N": "Itaiópolis - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1295.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4210100",
+    "D3N": "Mafra - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1404.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4210308",
+    "D3N": "Major Vieira - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "526.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4211108",
+    "D3N": "Monte Castelo - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "561.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4212205",
+    "D3N": "Papanduva - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "759.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4213609",
+    "D3N": "Porto União - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "851.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4215679",
+    "D3N": "Santa Terezinha - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "716.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4218251",
+    "D3N": "Timbó Grande - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "596.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4218301",
+    "D3N": "Três Barras - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "438.1"
+  }
+]

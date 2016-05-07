@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5100508",
+    "D3N": "Alto Paraguai - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1846.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5101308",
+    "D3N": "Arenápolis - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "416.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106000",
+    "D3N": "Nortelândia - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1348.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107263",
+    "D3N": "Santo Afonso - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1174.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5108857",
+    "D3N": "Nova Marilândia - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1939.8"
+  }
+]

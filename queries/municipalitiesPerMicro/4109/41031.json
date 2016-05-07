@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4107736",
+    "D3N": "Fernandes Pinheiro - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "406.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4108957",
+    "D3N": "Guamiranga - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "244.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4110102",
+    "D3N": "Imbituva - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "756.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4110508",
+    "D3N": "Ipiranga - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "927.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4111407",
+    "D3N": "Ivaí - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "607.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4120606",
+    "D3N": "Prudentópolis - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2308.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4127007",
+    "D3N": "Teixeira Soares - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "902.8"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3502101",
+    "D3N": "Andradina - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "964.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3511003",
+    "D3N": "Castilho - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1065.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3517802",
+    "D3N": "Guaraçaí - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "569.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3520442",
+    "D3N": "Ilha Solteira - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "656.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3523008",
+    "D3N": "Itapura - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "301.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3530102",
+    "D3N": "Mirandópolis - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "918.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3532108",
+    "D3N": "Murutinga do Sul - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "250.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3533205",
+    "D3N": "Nova Independência - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "265.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3537404",
+    "D3N": "Pereira Barreto - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "978.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3552304",
+    "D3N": "Sud Mennucci - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "591.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3552551",
+    "D3N": "Suzanápolis - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "328.5"
+  }
+]

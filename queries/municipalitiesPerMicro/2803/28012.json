@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2800407",
+    "D3N": "Arauá - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "192.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2800670",
+    "D3N": "Boquim - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "205.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2801702",
+    "D3N": "Cristinápolis - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "236.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2803005",
+    "D3N": "Itabaianinha - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "493.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2805109",
+    "D3N": "Pedrinhas - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "33.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2806206",
+    "D3N": "Salgado - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "247.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2807501",
+    "D3N": "Tomar do Geru - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "304.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2807600",
+    "D3N": "Umbaúba - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "121.1"
+  }
+]

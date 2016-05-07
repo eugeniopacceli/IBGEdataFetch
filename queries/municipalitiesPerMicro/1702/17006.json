@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1701101",
+    "D3N": "Aparecida do Rio Negro - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1160.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1703305",
+    "D3N": "Bom Jesus do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1332.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1709807",
+    "D3N": "Ipueiras - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "815.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1712009",
+    "D3N": "Lajeado - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "322.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1713601",
+    "D3N": "Monte do Carmo - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3616.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1716505",
+    "D3N": "Pedro Afonso - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2010.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1718204",
+    "D3N": "Porto Nacional - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4449.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1718881",
+    "D3N": "Santa Maria do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1410.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1720655",
+    "D3N": "Silvanópolis - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1258.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1721000",
+    "D3N": "Palmas - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2218.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1721109",
+    "D3N": "Tocantínia - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2601.6"
+  }
+]

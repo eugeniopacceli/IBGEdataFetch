@@ -1,0 +1,189 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2700409",
+    "D3N": "Atalaia - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "528.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2701100",
+    "D3N": "Branquinha - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "166.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2701308",
+    "D3N": "Cajueiro - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "124.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2701357",
+    "D3N": "Campestre - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "66.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2701704",
+    "D3N": "Capela - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "242.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2702108",
+    "D3N": "Colônia Leopoldina - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "207.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2702801",
+    "D3N": "Flexeiras - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "333.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2703502",
+    "D3N": "Jacuípe - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "210.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2703809",
+    "D3N": "Joaquim Gomes - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "298.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2703908",
+    "D3N": "Jundiá - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "92.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2705101",
+    "D3N": "Matriz de Camaragibe - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "220.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2705200",
+    "D3N": "Messias - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "113.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2705507",
+    "D3N": "Murici - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "426.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2705606",
+    "D3N": "Novo Lino - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "233.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2707305",
+    "D3N": "Porto Calvo - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "307.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2708501",
+    "D3N": "São Luís do Quitunde - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "397.2"
+  }
+]

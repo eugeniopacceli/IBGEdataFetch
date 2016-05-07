@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5201702",
+    "D3N": "Aragarças - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "662.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5202353",
+    "D3N": "Arenópolis - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1074.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5203104",
+    "D3N": "Baliza - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1782.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5203401",
+    "D3N": "Bom Jardim de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1899.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5207105",
+    "D3N": "Diorama - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "687.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5213707",
+    "D3N": "Montes Claros de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2899.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5217203",
+    "D3N": "Piranhas - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2047.8"
+  }
+]

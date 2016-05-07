@@ -1,0 +1,145 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3101631",
+    "D3N": "Alfredo Vasconcelos - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "130.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3102902",
+    "D3N": "Antônio Carlos - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "529.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3105608",
+    "D3N": "Barbacena - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "759.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3105905",
+    "D3N": "Barroso - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "82.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3112208",
+    "D3N": "Capela Nova - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "111.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3113107",
+    "D3N": "Caranaíba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "160.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3113206",
+    "D3N": "Carandaí - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "485.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3121506",
+    "D3N": "Desterro do Melo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "142.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3129400",
+    "D3N": "Ibertioga - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "346.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3154408",
+    "D3N": "Ressaquinha - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "184.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3157302",
+    "D3N": "Santa Bárbara do Tugúrio - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "194.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3166204",
+    "D3N": "Senhora dos Remédios - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "237.8"
+  }
+]

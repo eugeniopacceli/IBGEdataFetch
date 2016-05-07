@@ -1,0 +1,145 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2500536",
+    "D3N": "Alcantil - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "305.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2501575",
+    "D3N": "Barra de Santana - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "376.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2501708",
+    "D3N": "Barra de São Miguel - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "595.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2502508",
+    "D3N": "Boqueirão - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "372.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2503100",
+    "D3N": "Cabaceiras - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "452.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2504074",
+    "D3N": "Caraúbas - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "497.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2504355",
+    "D3N": "Caturité - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "118.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2506509",
+    "D3N": "Gurjão - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "343.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2512788",
+    "D3N": "Riacho de Santo Antônio - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "91.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2513851",
+    "D3N": "Santo André - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "225.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2513943",
+    "D3N": "São Domingos do Cariri - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "218.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2514008",
+    "D3N": "São João do Cariri - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "653.6"
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3100807",
+    "D3N": "Aguanil - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "232.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3111200",
+    "D3N": "Campo Belo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "528.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3111903",
+    "D3N": "Cana Verde - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "212.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3112000",
+    "D3N": "Candeias - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "720.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3120201",
+    "D3N": "Cristais - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "628.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3149903",
+    "D3N": "Perdões - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "270.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3158805",
+    "D3N": "Santana do Jacaré - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "106.2"
+  }
+]

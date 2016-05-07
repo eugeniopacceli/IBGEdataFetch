@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3104007",
+    "D3N": "Araxá - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1164.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3111507",
+    "D3N": "Campos Altos - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "710.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3129509",
+    "D3N": "Ibiá - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2704.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3145000",
+    "D3N": "Nova Ponte - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1111.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3149200",
+    "D3N": "Pedrinópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "357.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3149804",
+    "D3N": "Perdizes - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2450.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3153004",
+    "D3N": "Pratinha - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "622.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3156908",
+    "D3N": "Sacramento - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3073.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3157708",
+    "D3N": "Santa Juliana - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "723.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3168101",
+    "D3N": "Tapira - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1179.2"
+  }
+]

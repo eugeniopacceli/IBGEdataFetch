@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100189",
+    "D3N": "Pimenta Bueno - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6240.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100304",
+    "D3N": "Vilhena - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "11519.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100924",
+    "D3N": "Chupinguaia - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5126.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1101450",
+    "D3N": "Parecis - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2548.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1101476",
+    "D3N": "Primavera de Rondônia - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "605.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1101484",
+    "D3N": "São Felipe D'Oeste - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "541.6"
+  }
+]

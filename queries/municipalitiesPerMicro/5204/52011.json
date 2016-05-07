@@ -1,0 +1,145 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5200803",
+    "D3N": "Alvorada do Norte - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1259.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5203962",
+    "D3N": "Buritinópolis - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "247.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5206701",
+    "D3N": "Damianópolis - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "415.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5207907",
+    "D3N": "Flores de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3709.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5208301",
+    "D3N": "Divinópolis de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "831.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5209408",
+    "D3N": "Guarani de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1229.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5209903",
+    "D3N": "Iaciara - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1550.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5212709",
+    "D3N": "Mambaí - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "880.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5218300",
+    "D3N": "Posse - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2024.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5219803",
+    "D3N": "São Domingos - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3295.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5220686",
+    "D3N": "Simolândia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "348.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5220702",
+    "D3N": "Sítio d'Abadia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1598.3"
+  }
+]

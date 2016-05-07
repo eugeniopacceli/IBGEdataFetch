@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5103858",
+    "D3N": "Gaúcha do Norte - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "16930.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106208",
+    "D3N": "Nova Brasilândia - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3281.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106307",
+    "D3N": "Paranatinga - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "24166.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106455",
+    "D3N": "Planalto da Serra - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2455.4"
+  }
+]

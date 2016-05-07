@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4105508",
+    "D3N": "Cianorte - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "811.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4105607",
+    "D3N": "Cidade Gaúcha - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "403.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4109104",
+    "D3N": "Guaporema - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "200.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4110409",
+    "D3N": "Indianópolis - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "122.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4112405",
+    "D3N": "Japurá - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "165.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4113007",
+    "D3N": "Jussara - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "210.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4122602",
+    "D3N": "Rondon - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "556.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4125555",
+    "D3N": "São Manoel do Paraná - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "95.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4126108",
+    "D3N": "São Tomé - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "218.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4126801",
+    "D3N": "Tapejara - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "591.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4127908",
+    "D3N": "Tuneiras do Oeste - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "698.9"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3301306",
+    "D3N": "Casimiro de Abreu - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "460.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3304524",
+    "D3N": "Rio das Ostras - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "229.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3305604",
+    "D3N": "Silva Jardim - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "937.5"
+  }
+]

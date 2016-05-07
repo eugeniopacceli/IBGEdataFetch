@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1301001",
+    "D3N": "Carauari - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "25767.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1301407",
+    "D3N": "Eirunepé - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "15011.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1301506",
+    "D3N": "Envira - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7499.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1301654",
+    "D3N": "Guajará - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7579.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1301803",
+    "D3N": "Ipixuna - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "12044.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1301951",
+    "D3N": "Itamarati - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "25276.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1302207",
+    "D3N": "Juruá - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "19400.7"
+  }
+]

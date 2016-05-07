@@ -1,0 +1,211 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3506300",
+    "D3N": "Bernardino de Campos - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "244.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3510153",
+    "D3N": "Canitar - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "57.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3515194",
+    "D3N": "Espírito Santo do Turvo - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "193.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3515400",
+    "D3N": "Fartura - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "429.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3520905",
+    "D3N": "Ipaussu - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "209.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3528601",
+    "D3N": "Manduri - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "229.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3533809",
+    "D3N": "Óleo - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "198.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3534708",
+    "D3N": "Ourinhos - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "296.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3538808",
+    "D3N": "Piraju - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "504.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3543204",
+    "D3N": "Ribeirão do Sul - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "203.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3545407",
+    "D3N": "Salto Grande - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "188.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3546405",
+    "D3N": "Santa Cruz do Rio Pardo - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1113.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3550506",
+    "D3N": "São Pedro do Turvo - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "731.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3551207",
+    "D3N": "Sarutaiá - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "141.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3553005",
+    "D3N": "Taguaí - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "145.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3554201",
+    "D3N": "Tejupá - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "296.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3554607",
+    "D3N": "Timburi - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "196.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3557204",
+    "D3N": "Chavantes - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "188.1"
+  }
+]

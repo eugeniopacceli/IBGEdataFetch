@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3500758",
+    "D3N": "Alambari - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "159.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3502200",
+    "D3N": "Angatuba - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1028.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3509452",
+    "D3N": "Campina do Monte Alegre - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "185.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3518503",
+    "D3N": "Guareí - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "566.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3522307",
+    "D3N": "Itapetininga - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1790.2"
+  }
+]

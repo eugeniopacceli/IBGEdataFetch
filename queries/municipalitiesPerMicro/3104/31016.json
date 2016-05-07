@@ -1,0 +1,123 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3100906",
+    "D3N": "Águas Formosas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "820.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3106606",
+    "D3N": "Bertópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "427.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3113701",
+    "D3N": "Carlos Chagas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3203.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3120151",
+    "D3N": "Crisólita - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "966.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3127057",
+    "D3N": "Fronteira dos Vales - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "320.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3138906",
+    "D3N": "Machacalis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "332.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3144300",
+    "D3N": "Nanuque - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1518.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3157658",
+    "D3N": "Santa Helena de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "276.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3166709",
+    "D3N": "Serra dos Aimorés - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "213.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3170305",
+    "D3N": "Umburatiba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "405.8"
+  }
+]

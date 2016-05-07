@@ -1,0 +1,167 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2100550",
+    "D3N": "Amapá do Maranhão - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "502.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2101970",
+    "D3N": "Boa Vista do Gurupi - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "403.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2102606",
+    "D3N": "Cândido Mendes - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1633.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2102903",
+    "D3N": "Carutapera - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1232.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2103158",
+    "D3N": "Centro do Guilherme - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1074.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2103174",
+    "D3N": "Centro Novo do Maranhão - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8258.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2104305",
+    "D3N": "Godofredo Viana - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "674.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2104677",
+    "D3N": "Governador Nunes Freire - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1037.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2105658",
+    "D3N": "Junco do Maranhão - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "555.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2106201",
+    "D3N": "Luís Domingues - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "464.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2106326",
+    "D3N": "Maracaçumé - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "629.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2106375",
+    "D3N": "Maranhãozinho - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "972.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2112407",
+    "D3N": "Turiaçu - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2578.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2112456",
+    "D3N": "Turilândia - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1511.8"
+  }
+]

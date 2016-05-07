@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2401305",
+    "D3N": "Augusto Severo - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "896.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2405207",
+    "D3N": "Janduís - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "304.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2407609",
+    "D3N": "Messias Targino - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "135.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2408706",
+    "D3N": "Paraú - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "383.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2414456",
+    "D3N": "Triunfo Potiguar - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "268.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2414605",
+    "D3N": "Upanema - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "873.9"
+  }
+]

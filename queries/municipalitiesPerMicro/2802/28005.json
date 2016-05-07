@@ -1,0 +1,46 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2805505",
+    "D3N": "Poço Verde - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "440.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2807105",
+    "D3N": "Simão Dias - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "564.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2807402",
+    "D3N": "Tobias Barreto - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1021.3"
+  }
+]

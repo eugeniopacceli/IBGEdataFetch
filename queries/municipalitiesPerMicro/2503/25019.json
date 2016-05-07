@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2501302",
+    "D3N": "Aroeiras - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "374.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2506251",
+    "D3N": "Gado Bravo - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "192.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2509909",
+    "D3N": "Natuba - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "205.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2513158",
+    "D3N": "Santa Cecília - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "227.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2517001",
+    "D3N": "Umbuzeiro - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "181.3"
+  }
+]

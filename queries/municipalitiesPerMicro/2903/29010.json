@@ -1,0 +1,189 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2905107",
+    "D3N": "Caém - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "548.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2905503",
+    "D3N": "Caldeirão Grande - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "455.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2906873",
+    "D3N": "Capim Grosso - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "336.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2917508",
+    "D3N": "Jacobina - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2360.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2921203",
+    "D3N": "Miguel Calmon - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1568.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2921401",
+    "D3N": "Mirangaba - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1697.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2921708",
+    "D3N": "Morro do Chapéu - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5742.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2923357",
+    "D3N": "Ourolândia - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1487.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2924801",
+    "D3N": "Piritiba - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "975.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2925253",
+    "D3N": "Ponto Novo - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "497.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2925931",
+    "D3N": "Quixabeira - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "387.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2929370",
+    "D3N": "São José do Jacuípe - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "406.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2929800",
+    "D3N": "Saúde - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "504.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2930600",
+    "D3N": "Serrolândia - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "295.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2933109",
+    "D3N": "Várzea do Poço - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "204.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2933158",
+    "D3N": "Várzea Nova - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1192.9"
+  }
+]

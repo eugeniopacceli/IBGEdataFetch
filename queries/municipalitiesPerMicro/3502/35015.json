@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3501004",
+    "D3N": "Altinópolis - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "929.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3505906",
+    "D3N": "Batatais - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "849.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3509403",
+    "D3N": "Cajuru - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "660.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3510906",
+    "D3N": "Cássia dos Coqueiros - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "191.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3546256",
+    "D3N": "Santa Cruz da Esperança - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "148.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3547908",
+    "D3N": "Santo Antônio da Alegria - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "310.3"
+  }
+]

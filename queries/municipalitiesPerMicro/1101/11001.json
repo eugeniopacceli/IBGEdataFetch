@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100205",
+    "D3N": "Porto Velho - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "34096.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100338",
+    "D3N": "Nova Mamoré - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "10071.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100452",
+    "D3N": "Buritis - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3265.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100700",
+    "D3N": "Campo Novo de Rondônia - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3442.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100809",
+    "D3N": "Candeias do Jamari - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6843.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100940",
+    "D3N": "Cujubim - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3863.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1101104",
+    "D3N": "Itapuã do Oeste - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4081.6"
+  }
+]

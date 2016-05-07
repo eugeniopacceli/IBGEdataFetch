@@ -1,0 +1,145 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2300200",
+    "D3N": "Acaraú - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "842.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2302057",
+    "D3N": "Barroquinha - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "383.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2302305",
+    "D3N": "Bela Cruz - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "824.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2302602",
+    "D3N": "Camocim - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1139.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2303907",
+    "D3N": "Chaval - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "238.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2304251",
+    "D3N": "Cruz - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "334.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2304707",
+    "D3N": "Granja - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2698.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2306553",
+    "D3N": "Itarema - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "720.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2307254",
+    "D3N": "Jijoca de Jericoacoara - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "204.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2307809",
+    "D3N": "Marco - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "574.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2307908",
+    "D3N": "Martinópole - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "299.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2308906",
+    "D3N": "Morrinhos - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "415.6"
+  }
+]

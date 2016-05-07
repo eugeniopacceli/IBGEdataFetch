@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2100956",
+    "D3N": "Arame - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3008.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2101608",
+    "D3N": "Barra do Corda - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5202.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2104081",
+    "D3N": "Fernando Falcão - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5086.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2104099",
+    "D3N": "Formosa da Serra Negra - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3950.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2104800",
+    "D3N": "Grajaú - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8830.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2105351",
+    "D3N": "Itaipava do Grajaú - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1238.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2105476",
+    "D3N": "Jenipapo dos Vieiras - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1962.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2105609",
+    "D3N": "Joselândia - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "681.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2109759",
+    "D3N": "Santa Filomena do Maranhão - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "602.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2111805",
+    "D3N": "Sítio Novo - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3114.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2112308",
+    "D3N": "Tuntum - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3390.0"
+  }
+]

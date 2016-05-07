@@ -1,0 +1,189 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3505609",
+    "D3N": "Barrinha - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "145.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3507803",
+    "D3N": "Brodowski - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "279.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3513108",
+    "D3N": "Cravinhos - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "311.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3514601",
+    "D3N": "Dumont - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "111.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3518859",
+    "D3N": "Guatapará - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "413.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3525102",
+    "D3N": "Jardinópolis - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "502.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3527603",
+    "D3N": "Luís Antônio - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "598.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3540200",
+    "D3N": "Pontal - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "356.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3540903",
+    "D3N": "Pradópolis - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "167.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3543402",
+    "D3N": "Ribeirão Preto - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "651.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3547502",
+    "D3N": "Santa Rita do Passa Quatro - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "754.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3547601",
+    "D3N": "Santa Rosa de Viterbo - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "288.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3550902",
+    "D3N": "São Simão - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "617.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3551405",
+    "D3N": "Serra Azul - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "283.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3551504",
+    "D3N": "Serrana - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "125.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3551702",
+    "D3N": "Sertãozinho - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "402.6"
+  }
+]

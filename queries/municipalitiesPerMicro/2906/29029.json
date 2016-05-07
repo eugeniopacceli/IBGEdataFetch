@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2910404",
+    "D3N": "Encruzilhada - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1982.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2915809",
+    "D3N": "Itambé - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1441.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2916401",
+    "D3N": "Itapetinga - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1627.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2916807",
+    "D3N": "Itarantim - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1805.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2917102",
+    "D3N": "Itororó - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "313.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2919702",
+    "D3N": "Macarani - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1287.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2920007",
+    "D3N": "Maiquinique - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "492.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2925402",
+    "D3N": "Potiraguá - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "985.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2926657",
+    "D3N": "Ribeirão do Largo - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1271.3"
+  }
+]

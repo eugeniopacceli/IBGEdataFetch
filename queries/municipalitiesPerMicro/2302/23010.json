@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2306306",
+    "D3N": "Itapagé - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "430.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2313559",
+    "D3N": "Tururu - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "202.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2313757",
+    "D3N": "Umirim - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "316.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2313807",
+    "D3N": "Uruburetama - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "107.6"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5001508",
+    "D3N": "Bandeirantes - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3115.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5002704",
+    "D3N": "Campo Grande - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8093.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5003108",
+    "D3N": "Corguinho - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2639.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5004908",
+    "D3N": "Jaraguari - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2912.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5007307",
+    "D3N": "Rio Negro - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1807.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5007505",
+    "D3N": "Rochedo - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1561.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5007901",
+    "D3N": "Sidrolândia - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5286.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5008008",
+    "D3N": "Terenos - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2844.5"
+  }
+]

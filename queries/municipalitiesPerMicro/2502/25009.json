@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2501534",
+    "D3N": "Baraúna - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "50.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2505006",
+    "D3N": "Cubati - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "137.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2506202",
+    "D3N": "Frei Martinho - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "244.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2507705",
+    "D3N": "Juazeirinho - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "467.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2510303",
+    "D3N": "Nova Palmeira - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "310.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2511103",
+    "D3N": "Pedra Lavrada - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "351.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2511400",
+    "D3N": "Picuí - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "661.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2515401",
+    "D3N": "São Vicente do Seridó - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "276.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2516755",
+    "D3N": "Tenório - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "105.3"
+  }
+]

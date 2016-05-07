@@ -1,0 +1,200 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2500734",
+    "D3N": "Amparo - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "122.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2501351",
+    "D3N": "Assunção - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "126.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2503902",
+    "D3N": "Camalaú - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "543.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2504702",
+    "D3N": "Congo - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "333.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2504850",
+    "D3N": "Coxixola - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "169.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2508505",
+    "D3N": "Livramento - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "260.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2509701",
+    "D3N": "Monteiro - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "986.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2510600",
+    "D3N": "Ouro Velho - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "129.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2510659",
+    "D3N": "Parari - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "128.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2512200",
+    "D3N": "Prata - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "192.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2514107",
+    "D3N": "São João do Tigre - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "816.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2514800",
+    "D3N": "São José dos Cordeiros - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "417.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2515203",
+    "D3N": "São Sebastião do Umbuzeiro - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "460.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2515500",
+    "D3N": "Serra Branca - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "686.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2516300",
+    "D3N": "Sumé - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "838.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2516508",
+    "D3N": "Taperoá - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "662.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2517407",
+    "D3N": "Zabelê - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "109.4"
+  }
+]

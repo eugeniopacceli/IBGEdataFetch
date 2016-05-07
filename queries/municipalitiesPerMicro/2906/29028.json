@@ -1,0 +1,200 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2901205",
+    "D3N": "Anagé - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1947.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2902906",
+    "D3N": "Barra do Choça - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "646.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2903508",
+    "D3N": "Belo Campo - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "629.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2903706",
+    "D3N": "Boa Nova - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "868.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2903953",
+    "D3N": "Bom Jesus da Serra - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "421.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2904803",
+    "D3N": "Caatiba - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "491.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2905156",
+    "D3N": "Caetanos - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "774.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2906709",
+    "D3N": "Cândido Sales - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1617.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2910008",
+    "D3N": "Dário Meira - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "445.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2912301",
+    "D3N": "Ibicuí - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1176.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2913507",
+    "D3N": "Iguaí - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "827.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2920403",
+    "D3N": "Manoel Vitorino - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2254.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2921450",
+    "D3N": "Mirante - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1061.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2922706",
+    "D3N": "Nova Canaã - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "853.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2925006",
+    "D3N": "Planalto - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "961.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2925105",
+    "D3N": "Poções - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "826.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2933307",
+    "D3N": "Vitória da Conquista - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3405.6"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3502507",
+    "D3N": "Aparecida - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "121.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3508603",
+    "D3N": "Cachoeira Paulista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "288.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3509957",
+    "D3N": "Canas - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "53.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3513405",
+    "D3N": "Cruzeiro - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "305.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3518404",
+    "D3N": "Guaratinguetá - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "752.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3526605",
+    "D3N": "Lavrinhas - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "167.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3527207",
+    "D3N": "Lorena - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "414.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3538501",
+    "D3N": "Piquete - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "176.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3540754",
+    "D3N": "Potim - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "44.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3541901",
+    "D3N": "Queluz - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "249.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3544301",
+    "D3N": "Roseira - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "130.7"
+  }
+]

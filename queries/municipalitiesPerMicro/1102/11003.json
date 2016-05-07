@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100023",
+    "D3N": "Ariquemes - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4426.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100130",
+    "D3N": "Machadinho D'Oeste - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8509.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100262",
+    "D3N": "Rio Crespo - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1717.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100403",
+    "D3N": "Alto Paraíso - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2651.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1100601",
+    "D3N": "Cacaulândia - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1961.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1101401",
+    "D3N": "Monte Negro - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1931.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1101757",
+    "D3N": "Vale do Anari - RO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3135.1"
+  }
+]

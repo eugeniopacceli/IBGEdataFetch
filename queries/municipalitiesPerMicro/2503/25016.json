@@ -1,0 +1,167 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2500502",
+    "D3N": "Alagoinha - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "97.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2500809",
+    "D3N": "Araçagi - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "231.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2501906",
+    "D3N": "Belém - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "100.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2503605",
+    "D3N": "Caiçara - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "127.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2505204",
+    "D3N": "Cuitegi - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "39.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2505808",
+    "D3N": "Duas Estradas - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "26.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2506301",
+    "D3N": "Guarabira - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "165.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2508208",
+    "D3N": "Lagoa de Dentro - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "84.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2508554",
+    "D3N": "Logradouro - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "38.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2509800",
+    "D3N": "Mulungu - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "195.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2511707",
+    "D3N": "Pilõezinhos - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "43.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2511806",
+    "D3N": "Pirpirituba - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "79.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2515609",
+    "D3N": "Serra da Raiz - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "29.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2515930",
+    "D3N": "Sertãozinho - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "32.8"
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3300456",
+    "D3N": "Belford Roxo - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "77.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3301702",
+    "D3N": "Duque de Caxias - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "467.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3301850",
+    "D3N": "Guapimirim - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "360.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3301900",
+    "D3N": "Itaboraí - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "430.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3302270",
+    "D3N": "Japeri - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "81.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3302502",
+    "D3N": "Magé - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "388.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3302700",
+    "D3N": "Maricá - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "362.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3302858",
+    "D3N": "Mesquita - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "39.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3303203",
+    "D3N": "Nilópolis - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "19.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3303302",
+    "D3N": "Niterói - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "133.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3303500",
+    "D3N": "Nova Iguaçu - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "521.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3304144",
+    "D3N": "Queimados - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "75.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3304557",
+    "D3N": "Rio de Janeiro - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1200.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3304904",
+    "D3N": "São Gonçalo - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "247.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3305109",
+    "D3N": "São João de Meriti - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "35.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3305752",
+    "D3N": "Tanguá - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "145.5"
+  }
+]

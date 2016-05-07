@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5101209",
+    "D3N": "Araguainha - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "688.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5103908",
+    "D3N": "General Carneiro - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3794.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5104203",
+    "D3N": "Guiratinga - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5061.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106653",
+    "D3N": "Pontal do Araguaia - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2738.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106703",
+    "D3N": "Ponte Branca - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "686.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107008",
+    "D3N": "Poxoréo - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6910.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107198",
+    "D3N": "Ribeirãozinho - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "625.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5108105",
+    "D3N": "Tesouro - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4169.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5108204",
+    "D3N": "Torixoréu - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2399.5"
+  }
+]

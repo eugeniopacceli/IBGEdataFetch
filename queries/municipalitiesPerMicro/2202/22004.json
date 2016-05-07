@@ -1,0 +1,222 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2200301",
+    "D3N": "Alto Longá - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1737.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2201051",
+    "D3N": "Assunção do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1690.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2201945",
+    "D3N": "Boqueirão do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "278.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2202026",
+    "D3N": "Buriti dos Montes - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2652.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2202208",
+    "D3N": "Campo Maior - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1675.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2202406",
+    "D3N": "Capitão de Campos - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "592.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2202604",
+    "D3N": "Castelo do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2035.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2202711",
+    "D3N": "Cocal de Telha - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "282.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2203420",
+    "D3N": "Domingos Mourão - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "846.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2205276",
+    "D3N": "Jatobá do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "653.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2205516",
+    "D3N": "Juazeiro do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "827.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2205573",
+    "D3N": "Lagoa de São Francisco - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "155.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2206357",
+    "D3N": "Milton Brandão - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1371.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2206753",
+    "D3N": "Nossa Senhora de Nazaré - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "356.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2206951",
+    "D3N": "Novo Santo Antônio - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "481.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2207900",
+    "D3N": "Pedro II - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1518.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2209906",
+    "D3N": "São João da Serra - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1006.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2210409",
+    "D3N": "São Miguel do Tapuio - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5207.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2210656",
+    "D3N": "Sigefredo Pacheco - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "967.0"
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2900108",
+    "D3N": "Abaíra - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "530.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2901304",
+    "D3N": "Andaraí - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1861.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2902807",
+    "D3N": "Barra da Estiva - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1346.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2904001",
+    "D3N": "Boninal - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "934.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2904050",
+    "D3N": "Bonito - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "726.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2908804",
+    "D3N": "Contendas do Sincorá - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1044.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2912202",
+    "D3N": "Ibicoara - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "849.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2915007",
+    "D3N": "Itaeté - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1208.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2918605",
+    "D3N": "Jussiape - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "585.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2919306",
+    "D3N": "Lençóis - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1277.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2921906",
+    "D3N": "Mucugê - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2455.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2922854",
+    "D3N": "Nova Redenção - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "431.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2923506",
+    "D3N": "Palmeiras - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "657.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2924306",
+    "D3N": "Piatã - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1713.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2926707",
+    "D3N": "Rio de Contas - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1063.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2929909",
+    "D3N": "Seabra - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2517.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2932804",
+    "D3N": "Utinga - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "638.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2933406",
+    "D3N": "Wagner - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "421.0"
+  }
+]

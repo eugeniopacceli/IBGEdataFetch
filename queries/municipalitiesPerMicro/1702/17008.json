@@ -1,0 +1,233 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1700400",
+    "D3N": "Almas - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4013.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1702406",
+    "D3N": "Arraias - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5786.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1702703",
+    "D3N": "Aurora do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "752.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1705102",
+    "D3N": "Chapada da Natividade - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1646.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1705557",
+    "D3N": "Combinado - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "209.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1705607",
+    "D3N": "Conceição do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2500.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1707009",
+    "D3N": "Dianópolis - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3217.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1712157",
+    "D3N": "Lavandeira - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "519.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1714203",
+    "D3N": "Natividade - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3240.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1715150",
+    "D3N": "Novo Alegre - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "200.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1715259",
+    "D3N": "Novo Jardim - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1309.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1716208",
+    "D3N": "Paranã - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "11260.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1717008",
+    "D3N": "Pindorama do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1559.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1717800",
+    "D3N": "Ponte Alta do Bom Jesus - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1806.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1718006",
+    "D3N": "Porto Alegre do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "502.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1718659",
+    "D3N": "Rio da Conceição - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "787.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1718907",
+    "D3N": "Santa Rosa do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1796.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1720499",
+    "D3N": "São Valério - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2519.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1720903",
+    "D3N": "Taguatinga - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2437.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1720937",
+    "D3N": "Taipas do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1116.2"
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3500550",
+    "D3N": "Águas de Santa Bárbara - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "408.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3503109",
+    "D3N": "Arandu - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "285.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3504503",
+    "D3N": "Avaré - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1213.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3511409",
+    "D3N": "Cerqueira César - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "508.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3519253",
+    "D3N": "Iaras - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "401.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3521804",
+    "D3N": "Itaí - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1111.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3523503",
+    "D3N": "Itatinga - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "979.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3535804",
+    "D3N": "Paranapanema - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1018.7"
+  }
+]

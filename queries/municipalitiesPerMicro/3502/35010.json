@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3517406",
+    "D3N": "Guaíra - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1258.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3521309",
+    "D3N": "Ipuã - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "465.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3524204",
+    "D3N": "Jaborandi - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "273.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3529708",
+    "D3N": "Miguelópolis - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "822.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3531902",
+    "D3N": "Morro Agudo - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1388.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3533601",
+    "D3N": "Nuporanga - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "348.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3534302",
+    "D3N": "Orlândia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "291.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3544905",
+    "D3N": "Sales Oliveira - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "305.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3549409",
+    "D3N": "São Joaquim da Barra - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "410.6"
+  }
+]

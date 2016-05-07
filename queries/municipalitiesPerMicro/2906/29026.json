@@ -1,0 +1,211 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2905008",
+    "D3N": "Caculé - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "668.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2905206",
+    "D3N": "Caetité - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2442.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2906600",
+    "D3N": "Candiba - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "418.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2911709",
+    "D3N": "Guanambi - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1296.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2912004",
+    "D3N": "Ibiassucê - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "426.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2913408",
+    "D3N": "Igaporã - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "832.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2917334",
+    "D3N": "Iuiú - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1485.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2917409",
+    "D3N": "Jacaraci - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1235.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2918753",
+    "D3N": "Lagoa Real - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "877.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2919405",
+    "D3N": "Licínio de Almeida - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "843.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2920205",
+    "D3N": "Malhada - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2008.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2921054",
+    "D3N": "Matina - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "775.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2921807",
+    "D3N": "Mortugaba - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "612.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2923407",
+    "D3N": "Palmas de Monte Alto - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2524.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2924504",
+    "D3N": "Pindaí - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "614.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2926400",
+    "D3N": "Riacho de Santana - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2582.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2930006",
+    "D3N": "Sebastião Laranjeiras - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1948.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2932606",
+    "D3N": "Urandi - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "969.4"
+  }
+]

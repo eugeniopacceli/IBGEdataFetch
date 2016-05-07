@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1300060",
+    "D3N": "Amaturá - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4758.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1300201",
+    "D3N": "Atalaia do Norte - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "76351.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1300607",
+    "D3N": "Benjamin Constant - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8793.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1301605",
+    "D3N": "Fonte Boa - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "12110.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1302306",
+    "D3N": "Jutaí - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "69551.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1303700",
+    "D3N": "Santo Antônio do Içá - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "12307.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1303908",
+    "D3N": "São Paulo de Olivença - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "19745.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1304062",
+    "D3N": "Tabatinga - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3224.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1304237",
+    "D3N": "Tonantins - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6432.7"
+  }
+]

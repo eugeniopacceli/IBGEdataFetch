@@ -1,0 +1,167 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2902005",
+    "D3N": "Aracatu - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1489.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2904605",
+    "D3N": "Brumado - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2226.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2906899",
+    "D3N": "Caraíbas - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "805.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2908705",
+    "D3N": "Condeúba - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1285.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2909000",
+    "D3N": "Cordeiros - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "535.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2911659",
+    "D3N": "Guajeru - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "936.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2917201",
+    "D3N": "Ituaçu - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1216.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2919959",
+    "D3N": "Maetinga - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "681.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2920304",
+    "D3N": "Malhada de Pedras - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "529.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2924702",
+    "D3N": "Piripá - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "439.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2925709",
+    "D3N": "Presidente Jânio Quadros - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1185.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2926806",
+    "D3N": "Rio do Antônio - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "814.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2931004",
+    "D3N": "Tanhaçu - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1234.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2931806",
+    "D3N": "Tremedal - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1679.6"
+  }
+]

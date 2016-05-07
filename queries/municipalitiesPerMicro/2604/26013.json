@@ -1,0 +1,200 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2600708",
+    "D3N": "Aliança - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "272.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2602704",
+    "D3N": "Buenos Aires - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "93.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2603603",
+    "D3N": "Camutanga - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "37.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2604007",
+    "D3N": "Carpina - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "144.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2604601",
+    "D3N": "Condado - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "89.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2605509",
+    "D3N": "Ferreiros - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "89.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2606200",
+    "D3N": "Goiana - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "501.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2607653",
+    "D3N": "Itambé - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "304.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2607802",
+    "D3N": "Itaquitinga - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "103.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2608453",
+    "D3N": "Lagoa do Carro - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "69.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2608503",
+    "D3N": "Lagoa de Itaenga - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "57.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2609006",
+    "D3N": "Macaparana - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "108.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2609501",
+    "D3N": "Nazaré da Mata - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "150.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2610608",
+    "D3N": "Paudalho - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "277.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2615300",
+    "D3N": "Timbaúba - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "292.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2615508",
+    "D3N": "Tracunhaém - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "118.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2616308",
+    "D3N": "Vicência - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "228.0"
+  }
+]

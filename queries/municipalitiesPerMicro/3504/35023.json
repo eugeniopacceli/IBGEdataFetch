@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3502309",
+    "D3N": "Anhembi - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "736.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3506904",
+    "D3N": "Bofete - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "653.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3507506",
+    "D3N": "Botucatu - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1482.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3512308",
+    "D3N": "Conchas - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "466.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3536109",
+    "D3N": "Pardinho - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "209.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3541059",
+    "D3N": "Pratânia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "175.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3550100",
+    "D3N": "São Manuel - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "650.8"
+  }
+]

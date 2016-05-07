@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1501907",
+    "D3N": "Bujaru - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1005.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1502400",
+    "D3N": "Castanhal - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1028.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1503408",
+    "D3N": "Inhangapi - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "471.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1506500",
+    "D3N": "Santa Isabel do Pará - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "717.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1507003",
+    "D3N": "Santo Antônio do Tauá - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "537.6"
+  }
+]

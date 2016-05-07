@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2201150",
+    "D3N": "Baixa Grande do Ribeiro - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7808.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2208908",
+    "D3N": "Ribeiro Gonçalves - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3978.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2209203",
+    "D3N": "Santa Filomena - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5285.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2211209",
+    "D3N": "Uruçuí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8411.9"
+  }
+]

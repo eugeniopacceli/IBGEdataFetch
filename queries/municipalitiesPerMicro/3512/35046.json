@@ -1,0 +1,178 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3501152",
+    "D3N": "Alumínio - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "83.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3502754",
+    "D3N": "Araçariguama - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "146.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3502903",
+    "D3N": "Araçoiaba da Serra - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "255.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3508405",
+    "D3N": "Cabreúva - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "260.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3510302",
+    "D3N": "Capela do Alto - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "169.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3521002",
+    "D3N": "Iperó - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "170.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3523909",
+    "D3N": "Itu - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "640.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3528403",
+    "D3N": "Mairinque - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "209.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3540606",
+    "D3N": "Porto Feliz - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "557.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3545209",
+    "D3N": "Salto - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "133.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3545308",
+    "D3N": "Salto de Pirapora - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "280.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3550605",
+    "D3N": "São Roque - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "306.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3551108",
+    "D3N": "Sarapuí - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "352.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3552205",
+    "D3N": "Sorocaba - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "449.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3557006",
+    "D3N": "Votorantim - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "183.7"
+  }
+]

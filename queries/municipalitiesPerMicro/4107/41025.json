@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4101002",
+    "D3N": "Ampére - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "298.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4102752",
+    "D3N": "Bela Vista da Caroba - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "148.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4104501",
+    "D3N": "Capanema - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "418.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4119004",
+    "D3N": "Pérola d'Oeste - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "206.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4119806",
+    "D3N": "Planalto - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "345.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4120358",
+    "D3N": "Pranchita - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "225.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4121406",
+    "D3N": "Realeza - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "353.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4123808",
+    "D3N": "Santa Izabel do Oeste - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "321.2"
+  }
+]

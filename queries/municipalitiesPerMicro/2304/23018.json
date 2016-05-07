@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2301257",
+    "D3N": "Ararendá - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "344.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2304103",
+    "D3N": "Crateús - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2988.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2305605",
+    "D3N": "Independência - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3218.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2305654",
+    "D3N": "Ipaporanga - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "702.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2308609",
+    "D3N": "Monsenhor Tabosa - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "893.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2309300",
+    "D3N": "Nova Russas - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "742.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2309409",
+    "D3N": "Novo Oriente - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "946.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2311264",
+    "D3N": "Quiterianópolis - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1041.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2313203",
+    "D3N": "Tamboril - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2000.8"
+  }
+]

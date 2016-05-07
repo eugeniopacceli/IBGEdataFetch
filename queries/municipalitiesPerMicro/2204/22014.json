@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2200251",
+    "D3N": "Alagoinha do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "533.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2200277",
+    "D3N": "Alegrete do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "282.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2204204",
+    "D3N": "Francisco Santos - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "491.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2206506",
+    "D3N": "Monsenhor Hipólito - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "401.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2208205",
+    "D3N": "Pio IX - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1947.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2209401",
+    "D3N": "Santo Antônio de Lisboa - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "387.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2210300",
+    "D3N": "São Julião - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "257.2"
+  }
+]

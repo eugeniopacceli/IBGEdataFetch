@@ -1,0 +1,145 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3505203",
+    "D3N": "Bariri - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "444.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3505302",
+    "D3N": "Barra Bonita - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "149.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3506805",
+    "D3N": "Bocaina - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "363.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3507308",
+    "D3N": "Boracéia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "122.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3514106",
+    "D3N": "Dois Córregos - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "633.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3520004",
+    "D3N": "Igaraçu do Tietê - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "97.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3522000",
+    "D3N": "Itaju - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "229.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3522901",
+    "D3N": "Itapuí - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "140.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3525300",
+    "D3N": "Jaú - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "685.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3528007",
+    "D3N": "Macatuba - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "225.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3529807",
+    "D3N": "Mineiros do Tietê - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "213.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3536703",
+    "D3N": "Pederneiras - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "729.0"
+  }
+]

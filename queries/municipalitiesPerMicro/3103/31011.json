@@ -1,0 +1,167 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3102852",
+    "D3N": "Angelândia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "185.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3104452",
+    "D3N": "Aricanduva - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "243.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3106507",
+    "D3N": "Berilo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "587.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3112307",
+    "D3N": "Capelinha - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "965.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3113503",
+    "D3N": "Carbonita - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1456.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3116100",
+    "D3N": "Chapada do Norte - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "831.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3126505",
+    "D3N": "Francisco Badaró - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "461.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3132503",
+    "D3N": "Itamarandiba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2735.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3135456",
+    "D3N": "Jenipapo de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "284.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3136520",
+    "D3N": "José Gonçalves de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "381.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3138351",
+    "D3N": "Leme do Prado - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "280.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3141801",
+    "D3N": "Minas Novas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1812.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3169703",
+    "D3N": "Turmalina - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1153.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3171071",
+    "D3N": "Veredinha - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "631.7"
+  }
+]

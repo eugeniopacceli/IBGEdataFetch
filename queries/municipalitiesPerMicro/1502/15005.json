@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1500305",
+    "D3N": "Afuá - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8372.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1500701",
+    "D3N": "Anajás - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6921.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1501808",
+    "D3N": "Breves - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9550.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1502806",
+    "D3N": "Curralinho - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3617.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1507706",
+    "D3N": "São Sebastião da Boa Vista - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1632.2"
+  }
+]

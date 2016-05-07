@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5201207",
+    "D3N": "Anhanguera - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "57.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5204805",
+    "D3N": "Campo Alegre de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2463.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5205109",
+    "D3N": "Catalão - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3821.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5205901",
+    "D3N": "Corumbaíba - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1883.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5206602",
+    "D3N": "Cumari - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "570.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5206909",
+    "D3N": "Davinópolis - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "481.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5208509",
+    "D3N": "Goiandira - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "564.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5210109",
+    "D3N": "Ipameri - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4369.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5214804",
+    "D3N": "Nova Aurora - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "302.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5215504",
+    "D3N": "Ouvidor - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "413.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5221304",
+    "D3N": "Três Ranchos - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "282.1"
+  }
+]

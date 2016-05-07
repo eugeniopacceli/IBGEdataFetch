@@ -1,0 +1,233 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2101202",
+    "D3N": "Bacabal - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1683.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2101939",
+    "D3N": "Bernardo do Mearim - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "261.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2102077",
+    "D3N": "Bom Lugar - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "446.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2104008",
+    "D3N": "Esperantinópolis - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "480.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2105203",
+    "D3N": "Igarapé Grande - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "374.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2105807",
+    "D3N": "Lago do Junco - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "309.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2105906",
+    "D3N": "Lago Verde - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "623.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2105948",
+    "D3N": "Lago dos Rodrigues - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "180.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2106003",
+    "D3N": "Lima Campos - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "321.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2107407",
+    "D3N": "Olho d'Água das Cunhãs - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "695.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2108207",
+    "D3N": "Pedreiras - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "288.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2108702",
+    "D3N": "Pio XII - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "545.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2108900",
+    "D3N": "Poção de Pedras - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "979.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2110302",
+    "D3N": "Santo Antônio dos Lopes - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "770.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2111409",
+    "D3N": "São Luís Gonzaga do Maranhão - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "968.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2111508",
+    "D3N": "São Mateus do Maranhão - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "783.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2111631",
+    "D3N": "São Raimundo do Doca Bezerra - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "419.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2111672",
+    "D3N": "São Roberto - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "227.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2111722",
+    "D3N": "Satubinha - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "441.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2112233",
+    "D3N": "Trizidela do Vale - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "222.9"
+  }
+]

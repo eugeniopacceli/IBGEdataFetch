@@ -1,0 +1,101 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3513801",
+    "D3N": "Diadema - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "30.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3529401",
+    "D3N": "Mauá - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "61.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3543303",
+    "D3N": "Ribeirão Pires - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "98.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3544103",
+    "D3N": "Rio Grande da Serra - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "36.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3547809",
+    "D3N": "Santo André - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "174.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3548708",
+    "D3N": "São Bernardo do Campo - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "408.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3548807",
+    "D3N": "São Caetano do Sul - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "15.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3550308",
+    "D3N": "São Paulo - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1523.3"
+  }
+]

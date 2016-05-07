@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2107506",
+    "D3N": "Paço do Lumiar - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "124.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2109452",
+    "D3N": "Raposa - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "64.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2111201",
+    "D3N": "São José de Ribamar - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "388.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2111300",
+    "D3N": "São Luís - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "834.8"
+  }
+]

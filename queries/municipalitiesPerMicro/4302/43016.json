@@ -1,0 +1,211 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4300802",
+    "D3N": "Antônio Prado - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "347.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4302105",
+    "D3N": "Bento Gonçalves - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "382.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4302253",
+    "D3N": "Boa Vista do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "94.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4304804",
+    "D3N": "Carlos Barbosa - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "228.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4305108",
+    "D3N": "Caxias do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1644.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4305934",
+    "D3N": "Coronel Pilar - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "105.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4305959",
+    "D3N": "Cotiporã - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "172.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4307864",
+    "D3N": "Fagundes Varela - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "134.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4307906",
+    "D3N": "Farroupilha - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "360.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4308201",
+    "D3N": "Flores da Cunha - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "273.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4308607",
+    "D3N": "Garibaldi - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "169.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4312385",
+    "D3N": "Monte Belo do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "68.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4313086",
+    "D3N": "Nova Pádua - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "103.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4313359",
+    "D3N": "Nova Roma do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "149.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4317251",
+    "D3N": "Santa Tereza - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "72.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4319000",
+    "D3N": "São Marcos - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "256.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4322806",
+    "D3N": "Veranópolis - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "289.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4323309",
+    "D3N": "Vila Flores - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "107.9"
+  }
+]

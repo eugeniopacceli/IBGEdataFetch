@@ -1,0 +1,156 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3101102",
+    "D3N": "Aimorés - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1348.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3102209",
+    "D3N": "Alvarenga - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "278.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3117405",
+    "D3N": "Conceição de Ipanema - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "253.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3118403",
+    "D3N": "Conselheiro Pena - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1483.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3120839",
+    "D3N": "Cuparaque - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "226.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3127370",
+    "D3N": "Goiabeira - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "112.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3131208",
+    "D3N": "Ipanema - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "456.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3134103",
+    "D3N": "Itueta - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "452.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3144003",
+    "D3N": "Mutum - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1250.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3151909",
+    "D3N": "Pocrane - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "691.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3154309",
+    "D3N": "Resplendor - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1081.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3159506",
+    "D3N": "Santa Rita do Itueto - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "485.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3168051",
+    "D3N": "Taparuba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "193.1"
+  }
+]

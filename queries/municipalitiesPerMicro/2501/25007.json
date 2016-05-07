@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2500106",
+    "D3N": "Água Branca - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "236.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2503555",
+    "D3N": "Cacimbas - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "126.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2505402",
+    "D3N": "Desterro - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "179.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2506707",
+    "D3N": "Imaculada - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "317.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2508000",
+    "D3N": "Juru - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "403.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2509008",
+    "D3N": "Manaíra - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "352.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2509396",
+    "D3N": "Maturéia - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "83.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2512309",
+    "D3N": "Princesa Isabel - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "368.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2514552",
+    "D3N": "São José de Princesa - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "158.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2516607",
+    "D3N": "Tavares - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "237.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2516706",
+    "D3N": "Teixeira - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "160.9"
+  }
+]

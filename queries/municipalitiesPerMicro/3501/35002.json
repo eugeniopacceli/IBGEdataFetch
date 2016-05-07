@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3515202",
+    "D3N": "Estrela d'Oeste - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "296.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3515509",
+    "D3N": "Fernandópolis - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "550.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3518008",
+    "D3N": "Guarani d'Oeste - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "85.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3520707",
+    "D3N": "Indiaporã - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "279.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3528205",
+    "D3N": "Macedônia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "327.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3529609",
+    "D3N": "Meridiano - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "229.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3530003",
+    "D3N": "Mira Estrela - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "216.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3534757",
+    "D3N": "Ouroeste - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "288.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3536901",
+    "D3N": "Pedranópolis - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "260.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3549201",
+    "D3N": "São João das Duas Pontes - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "129.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3555307",
+    "D3N": "Turmalina - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "147.9"
+  }
+]

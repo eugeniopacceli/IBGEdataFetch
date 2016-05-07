@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2601052",
+    "D3N": "Araçoiaba - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "92.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2606804",
+    "D3N": "Igarassu - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "305.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2607604",
+    "D3N": "Ilha de Itamaracá - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "66.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2607752",
+    "D3N": "Itapissuma - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "74.2"
+  }
+]

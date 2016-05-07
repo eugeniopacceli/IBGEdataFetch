@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3108008",
+    "D3N": "Bom Sucesso - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "705.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3114006",
+    "D3N": "Carmo da Mata - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "357.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3114501",
+    "D3N": "Carmópolis de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "400.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3130002",
+    "D3N": "Ibituruna - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "153.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3145604",
+    "D3N": "Oliveira - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "897.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3147709",
+    "D3N": "Passa Tempo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "429.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3150604",
+    "D3N": "Piracema - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "280.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3159902",
+    "D3N": "Santo Antônio do Amparo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "488.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3161205",
+    "D3N": "São Francisco de Paula - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "316.8"
+  }
+]

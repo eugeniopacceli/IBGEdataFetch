@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5104526",
+    "D3N": "Ipiranga do Norte - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3467.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5104542",
+    "D3N": "Itanhangá - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2898.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5105259",
+    "D3N": "Lucas do Rio Verde - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3664.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5105903",
+    "D3N": "Nobres - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3892.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106224",
+    "D3N": "Nova Mutum - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9556.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5106240",
+    "D3N": "Nova Ubiratã - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "12706.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107768",
+    "D3N": "Santa Rita do Trivelato - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4728.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5107925",
+    "D3N": "Sorriso - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "9329.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5108006",
+    "D3N": "Tapurah - MT",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4510.6"
+  }
+]

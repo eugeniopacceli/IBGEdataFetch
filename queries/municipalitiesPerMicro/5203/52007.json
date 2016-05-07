@@ -1,0 +1,233 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5201108",
+    "D3N": "Anápolis - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "933.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5201603",
+    "D3N": "Araçu - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "148.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5203609",
+    "D3N": "Brazabrantes - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "123.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5204854",
+    "D3N": "Campo Limpo de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "159.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5205208",
+    "D3N": "Caturaí - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "207.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5206800",
+    "D3N": "Damolândia - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "84.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5209606",
+    "D3N": "Heitoraí - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "229.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5210000",
+    "D3N": "Inhumas - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "613.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5210406",
+    "D3N": "Itaberaí - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1457.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5210562",
+    "D3N": "Itaguari - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "146.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5210604",
+    "D3N": "Itaguaru - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "239.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5211404",
+    "D3N": "Itauçu - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "383.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5211800",
+    "D3N": "Jaraguá - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1849.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5212055",
+    "D3N": "Jesúpolis - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "122.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5215009",
+    "D3N": "Nova Veneza - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "123.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5215405",
+    "D3N": "Ouro Verde de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "208.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5216809",
+    "D3N": "Petrolina de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "531.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5219506",
+    "D3N": "Santa Rosa de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "164.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5219902",
+    "D3N": "São Francisco de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "415.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5221007",
+    "D3N": "Taquaral de Goiás - GO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "204.2"
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2601003",
+    "D3N": "Angelim - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "118.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2602100",
+    "D3N": "Bom Conselho - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "792.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2602407",
+    "D3N": "Brejão - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "159.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2603207",
+    "D3N": "Caetés - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "329.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2603306",
+    "D3N": "Calçado - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "121.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2603702",
+    "D3N": "Canhotinho - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "423.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2604700",
+    "D3N": "Correntes - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "328.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2606002",
+    "D3N": "Garanhuns - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "458.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2606507",
+    "D3N": "Iati - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "635.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2608255",
+    "D3N": "Jucati - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "120.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2608305",
+    "D3N": "Jupi - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "105.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2608404",
+    "D3N": "Jurema - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "148.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2608602",
+    "D3N": "Lagoa do Ouro - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "198.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2608800",
+    "D3N": "Lajedo - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "189.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2610103",
+    "D3N": "Palmeirina - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "158.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2610301",
+    "D3N": "Paranatama - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "230.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2612307",
+    "D3N": "Saloá - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "252.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2613206",
+    "D3N": "São João - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "258.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2615102",
+    "D3N": "Terezinha - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "151.4"
+  }
+]

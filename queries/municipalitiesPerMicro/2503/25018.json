@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2503803",
+    "D3N": "Caldas Brandão - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "55.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2506400",
+    "D3N": "Gurinhém - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "346.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2506806",
+    "D3N": "Ingá - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "288.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2506905",
+    "D3N": "Itabaiana - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "218.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2507200",
+    "D3N": "Itatuba - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "244.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2507606",
+    "D3N": "Juarez Távora - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "70.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2509404",
+    "D3N": "Mogeiro - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "193.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2512754",
+    "D3N": "Riachão do Bacamarte - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "38.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2513109",
+    "D3N": "Salgado de São Félix - PB",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "201.9"
+  }
+]

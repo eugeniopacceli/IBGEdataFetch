@@ -1,0 +1,233 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3103207",
+    "D3N": "Araçaí - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "186.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3105004",
+    "D3N": "Baldim - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "556.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3109600",
+    "D3N": "Cachoeira da Prata - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "61.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3109907",
+    "D3N": "Caetanópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "156.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3112505",
+    "D3N": "Capim Branco - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "95.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3118908",
+    "D3N": "Cordisburgo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "823.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3126406",
+    "D3N": "Fortuna de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "198.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3127206",
+    "D3N": "Funilândia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "199.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3131000",
+    "D3N": "Inhaúma - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "245.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3134608",
+    "D3N": "Jaboticatubas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1114.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3135704",
+    "D3N": "Jequitibá - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "445.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3139706",
+    "D3N": "Maravilhas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "261.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3141108",
+    "D3N": "Matozinhos - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "252.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3146909",
+    "D3N": "Papagaios - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "553.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3147402",
+    "D3N": "Paraopeba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "625.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3149606",
+    "D3N": "Pequi - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "204.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3153608",
+    "D3N": "Prudente de Morais - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "124.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3158508",
+    "D3N": "Santana de Pirapama - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1255.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3159001",
+    "D3N": "Santana do Riacho - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "677.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3167202",
+    "D3N": "Sete Lagoas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "537.6"
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4103958",
+    "D3N": "Campina do Simão - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "448.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4104428",
+    "D3N": "Candói - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1512.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4104451",
+    "D3N": "Cantagalo - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "583.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4107546",
+    "D3N": "Espigão Alto do Iguaçu - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "326.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4108452",
+    "D3N": "Foz do Jordão - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "235.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4108650",
+    "D3N": "Goioxim - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "702.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4109401",
+    "D3N": "Guarapuava - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3116.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4110201",
+    "D3N": "Inácio Martins - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "936.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4113304",
+    "D3N": "Laranjeiras do Sul - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "672.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4115457",
+    "D3N": "Marquinho - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "511.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4117057",
+    "D3N": "Nova Laranjeiras - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1145.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4119301",
+    "D3N": "Pinhão - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2001.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4120150",
+    "D3N": "Porto Barreiro - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "361.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4120903",
+    "D3N": "Quedas do Iguaçu - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "821.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4121752",
+    "D3N": "Reserva do Iguaçu - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "834.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4122156",
+    "D3N": "Rio Bonito do Iguaçu - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "746.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4127965",
+    "D3N": "Turvo - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "916.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4128658",
+    "D3N": "Virmond - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "243.2"
+  }
+]

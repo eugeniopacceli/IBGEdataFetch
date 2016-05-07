@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3100609",
+    "D3N": "Água Boa - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1320.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3112059",
+    "D3N": "Cantagalo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "141.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3126950",
+    "D3N": "Frei Lagonegro - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "167.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3136553",
+    "D3N": "José Raydan - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "180.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3148608",
+    "D3N": "Peçanha - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "996.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3158201",
+    "D3N": "Santa Maria do Suaçuí - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "624.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3163508",
+    "D3N": "São José do Jacuri - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "345.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3164100",
+    "D3N": "São Pedro do Suaçuí - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "308.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3164506",
+    "D3N": "São Sebastião do Maranhão - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "517.8"
+  }
+]

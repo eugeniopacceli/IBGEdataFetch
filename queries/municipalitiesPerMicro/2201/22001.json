@@ -1,0 +1,211 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2201200",
+    "D3N": "Barras - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1719.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2201507",
+    "D3N": "Batalha - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1588.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2201770",
+    "D3N": "Boa Hora - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "337.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2201960",
+    "D3N": "Brasileira - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "880.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2202059",
+    "D3N": "Cabeceiras do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "608.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2202174",
+    "D3N": "Campo Largo do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "477.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2203701",
+    "D3N": "Esperantina - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "911.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2205409",
+    "D3N": "Joaquim Pires - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "739.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2205458",
+    "D3N": "Joca Marques - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "166.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2205805",
+    "D3N": "Luzilândia - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "704.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2205854",
+    "D3N": "Madeiro - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "177.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2206100",
+    "D3N": "Matias Olímpio - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "226.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2206209",
+    "D3N": "Miguel Alves - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1393.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2206670",
+    "D3N": "Morro do Chapéu do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "328.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2206803",
+    "D3N": "Nossa Senhora dos Remédios - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "358.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2208403",
+    "D3N": "Piripiri - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1408.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2208502",
+    "D3N": "Porto - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "252.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2209971",
+    "D3N": "São João do Arraial - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "213.4"
+  }
+]

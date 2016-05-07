@@ -1,0 +1,145 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2202251",
+    "D3N": "Canavieira - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2162.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2203800",
+    "D3N": "Flores do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "946.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2203909",
+    "D3N": "Floriano - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3409.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2204501",
+    "D3N": "Guadalupe - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1023.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2205102",
+    "D3N": "Itaueira - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2554.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2205300",
+    "D3N": "Jerumenha - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1867.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2206704",
+    "D3N": "Nazaré do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1315.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2207850",
+    "D3N": "Pavussu - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1090.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2209005",
+    "D3N": "Rio Grande do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "635.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2209708",
+    "D3N": "São Francisco do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1340.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2210102",
+    "D3N": "São José do Peixe - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1287.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2210391",
+    "D3N": "São Miguel do Fidalgo - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "813.4"
+  }
+]

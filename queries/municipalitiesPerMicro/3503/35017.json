@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3502804",
+    "D3N": "Araçatuba - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1167.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3506201",
+    "D3N": "Bento de Abreu - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "301.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3518206",
+    "D3N": "Guararapes - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "956.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3526506",
+    "D3N": "Lavínia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "537.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3544400",
+    "D3N": "Rubiácea - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "236.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3548054",
+    "D3N": "Santo Antônio do Aracanguá - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1308.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3556305",
+    "D3N": "Valparaíso - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "857.5"
+  }
+]

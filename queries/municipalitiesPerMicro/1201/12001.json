@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1200203",
+    "D3N": "Cruzeiro do Sul - AC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8779.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1200336",
+    "D3N": "Mâncio Lima - AC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5453.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1200351",
+    "D3N": "Marechal Thaumaturgo - AC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8191.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1200393",
+    "D3N": "Porto Walter - AC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "6443.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1200427",
+    "D3N": "Rodrigues Alves - AC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3077.0"
+  }
+]

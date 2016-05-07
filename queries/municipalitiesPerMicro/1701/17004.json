@@ -1,0 +1,156 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1702000",
+    "D3N": "Araguaçu - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5167.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1704600",
+    "D3N": "Chapada de Areia - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "659.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1706100",
+    "D3N": "Cristalândia - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1848.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1707306",
+    "D3N": "Dueré - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3424.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1707553",
+    "D3N": "Fátima - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "382.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1708205",
+    "D3N": "Formoso do Araguaia - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "13423.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1711902",
+    "D3N": "Lagoa da Confusão - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "10564.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1715002",
+    "D3N": "Nova Rosalândia - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "516.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1715507",
+    "D3N": "Oliveira de Fátima - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "205.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1716109",
+    "D3N": "Paraíso do Tocantins - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1268.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1717503",
+    "D3N": "Pium - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "10013.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1718451",
+    "D3N": "Pugmil - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "401.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1718840",
+    "D3N": "Sandolândia - TO",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3528.6"
+  }
+]

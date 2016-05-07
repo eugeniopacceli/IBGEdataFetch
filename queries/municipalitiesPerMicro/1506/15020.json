@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1501758",
+    "D3N": "Brejo Grande do Araguaia - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1288.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1504208",
+    "D3N": "Marabá - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "15128.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1505494",
+    "D3N": "Palestina do Pará - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "984.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1507151",
+    "D3N": "São Domingos do Araguaia - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1392.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1507508",
+    "D3N": "São João do Araguaia - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1279.9"
+  }
+]

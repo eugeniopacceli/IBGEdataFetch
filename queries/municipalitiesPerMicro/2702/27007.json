@@ -1,0 +1,46 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2705903",
+    "D3N": "Olho d'Água Grande - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "118.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2708204",
+    "D3N": "São Brás - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "139.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2709202",
+    "D3N": "Traipu - AL",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "698.0"
+  }
+]

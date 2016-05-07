@@ -1,0 +1,156 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3100500",
+    "D3N": "Açucena - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "815.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3103009",
+    "D3N": "Antônio Dias - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "787.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3106309",
+    "D3N": "Belo Oriente - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "334.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3119401",
+    "D3N": "Coronel Fabriciano - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "221.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3131307",
+    "D3N": "Ipatinga - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "164.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3135001",
+    "D3N": "Jaguaraçu - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "163.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3136108",
+    "D3N": "Joanésia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "233.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3140308",
+    "D3N": "Marliéria - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "545.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3141702",
+    "D3N": "Mesquita - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "274.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3144359",
+    "D3N": "Naque - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "127.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3149952",
+    "D3N": "Periquito - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "228.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3158953",
+    "D3N": "Santana do Paraíso - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "276.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3168705",
+    "D3N": "Timóteo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "144.4"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2906808",
+    "D3N": "Cansanção - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1344.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2906824",
+    "D3N": "Canudos - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3219.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2910701",
+    "D3N": "Euclides da Cunha - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2235.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2921500",
+    "D3N": "Monte Santo - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3186.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2922656",
+    "D3N": "Nordestina - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "461.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2925808",
+    "D3N": "Queimadas - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2024.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2925907",
+    "D3N": "Quijingue - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1342.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2931905",
+    "D3N": "Tucano - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2799.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2932002",
+    "D3N": "Uauá - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3035.2"
+  }
+]

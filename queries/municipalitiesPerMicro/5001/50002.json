@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5000708",
+    "D3N": "Anastácio - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2949.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5001102",
+    "D3N": "Aquidauana - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "16957.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5003488",
+    "D3N": "Dois Irmãos do Buriti - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2344.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5005608",
+    "D3N": "Miranda - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5478.8"
+  }
+]

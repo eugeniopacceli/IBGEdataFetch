@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3301108",
+    "D3N": "Cantagalo - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "749.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3301207",
+    "D3N": "Carmo - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "322.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3301504",
+    "D3N": "Cordeiro - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "116.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3302452",
+    "D3N": "Macuco - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "77.7"
+  }
+]

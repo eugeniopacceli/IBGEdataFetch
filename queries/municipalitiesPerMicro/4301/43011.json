@@ -1,0 +1,167 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4300554",
+    "D3N": "Alto Alegre - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "114.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4302220",
+    "D3N": "Boa Vista do Cadeado - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "701.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4302238",
+    "D3N": "Boa Vista do Incra - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "503.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4304101",
+    "D3N": "Campos Borges - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "226.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4306106",
+    "D3N": "Cruz Alta - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1360.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4307500",
+    "D3N": "Espumoso - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "783.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4308458",
+    "D3N": "Fortaleza dos Valos - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "650.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4310009",
+    "D3N": "Ibirubá - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "607.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4310876",
+    "D3N": "Jacuizinho - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "338.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4311155",
+    "D3N": "Jóia - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1235.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4315354",
+    "D3N": "Quinze de Novembro - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "223.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4316436",
+    "D3N": "Saldanha Marinho - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "221.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4316451",
+    "D3N": "Salto do Jacuí - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "507.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4316709",
+    "D3N": "Santa Bárbara do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "975.5"
+  }
+]

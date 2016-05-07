@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4201307",
+    "D3N": "Araquari - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "386.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4202057",
+    "D3N": "Balneário Barra do Sul - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "110.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4204509",
+    "D3N": "Corupá - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "405.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4205803",
+    "D3N": "Garuva - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "501.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4206504",
+    "D3N": "Guaramirim - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "268.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4208450",
+    "D3N": "Itapoá - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "255.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4208906",
+    "D3N": "Jaraguá do Sul - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "532.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4209102",
+    "D3N": "Joinville - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1146.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4210605",
+    "D3N": "Massaranduba - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "373.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4216206",
+    "D3N": "São Francisco do Sul - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "493.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4217402",
+    "D3N": "Schroeder - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "143.6"
+  }
+]

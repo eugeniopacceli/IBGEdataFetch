@@ -1,0 +1,200 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3506102",
+    "D3N": "Bebedouro - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "683.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3510104",
+    "D3N": "Cândido Rodrigues - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "70.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3515608",
+    "D3N": "Fernando Prestes - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "170.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3518602",
+    "D3N": "Guariba - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "270.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3524303",
+    "D3N": "Jaboticabal - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "706.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3531308",
+    "D3N": "Monte Alto - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "346.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3531506",
+    "D3N": "Monte Azul Paulista - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "263.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3539004",
+    "D3N": "Pirangi - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "215.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3539509",
+    "D3N": "Pitangueiras - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "430.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3546504",
+    "D3N": "Santa Ernestina - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "134.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3553104",
+    "D3N": "Taiaçu - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "106.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3553203",
+    "D3N": "Taiúva - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "132.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3553658",
+    "D3N": "Taquaral - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "53.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3553708",
+    "D3N": "Taquaritinga - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "593.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3554409",
+    "D3N": "Terra Roxa - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "221.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3556800",
+    "D3N": "Viradouro - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "217.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3556909",
+    "D3N": "Vista Alegre do Alto - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "95.0"
+  }
+]

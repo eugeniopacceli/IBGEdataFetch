@@ -1,0 +1,189 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3501608",
+    "D3N": "Americana - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "133.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3509502",
+    "D3N": "Campinas - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "795.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3512803",
+    "D3N": "Cosmópolis - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "154.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3514908",
+    "D3N": "Elias Fausto - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "202.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3519055",
+    "D3N": "Holambra - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "65.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3519071",
+    "D3N": "Hortolândia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "62.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3520509",
+    "D3N": "Indaiatuba - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "311.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3524709",
+    "D3N": "Jaguariúna - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "141.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3531803",
+    "D3N": "Monte Mor - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "240.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3533403",
+    "D3N": "Nova Odessa - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "73.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3536505",
+    "D3N": "Paulínia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "138.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3537107",
+    "D3N": "Pedreira - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "109.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3545803",
+    "D3N": "Santa Bárbara d'Oeste - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "271.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3552403",
+    "D3N": "Sumaré - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "153.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3556206",
+    "D3N": "Valinhos - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "148.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3556701",
+    "D3N": "Vinhedo - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "81.6"
+  }
+]

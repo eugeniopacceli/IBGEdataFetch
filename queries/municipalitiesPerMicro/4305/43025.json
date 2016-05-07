@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4301107",
+    "D3N": "Arroio dos Ratos - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "425.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4301750",
+    "D3N": "Barão do Triunfo - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "436.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4302709",
+    "D3N": "Butiá - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "752.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4305355",
+    "D3N": "Charqueadas - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "216.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4308805",
+    "D3N": "General Câmara - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "510.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4312252",
+    "D3N": "Minas do Leão - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "424.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4318408",
+    "D3N": "São Jerônimo - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "936.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4322004",
+    "D3N": "Triunfo - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "818.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4322525",
+    "D3N": "Vale Verde - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "329.7"
+  }
+]

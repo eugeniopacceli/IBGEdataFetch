@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2301000",
+    "D3N": "Aquiraz - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "482.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2303709",
+    "D3N": "Caucaia - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1223.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2304285",
+    "D3N": "Eusébio - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "79.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2304400",
+    "D3N": "Fortaleza - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "314.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2304954",
+    "D3N": "Guaiúba - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "254.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2306256",
+    "D3N": "Itaitinga - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "151.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2307650",
+    "D3N": "Maracanaú - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "111.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2307700",
+    "D3N": "Maranguape - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "590.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2309706",
+    "D3N": "Pacatuba - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "145.1"
+  }
+]

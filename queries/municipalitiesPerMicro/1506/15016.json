@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1501782",
+    "D3N": "Breu Branco - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3941.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1503705",
+    "D3N": "Itupiranga - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "7880.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1503804",
+    "D3N": "Jacundá - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2008.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1504976",
+    "D3N": "Nova Ipixuna - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1564.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1505064",
+    "D3N": "Novo Repartimento - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "15398.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1508100",
+    "D3N": "Tucuruí - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2086.2"
+  }
+]

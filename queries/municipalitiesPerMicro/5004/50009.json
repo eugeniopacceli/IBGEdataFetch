@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5002100",
+    "D3N": "Bela Vista - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4892.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5002159",
+    "D3N": "Bodoquena - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2507.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5002209",
+    "D3N": "Bonito - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4934.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5002803",
+    "D3N": "Caracol - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2940.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5004106",
+    "D3N": "Guia Lopes da Laguna - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1210.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5005004",
+    "D3N": "Jardim - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2201.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "5005806",
+    "D3N": "Nioaque - MS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3923.8"
+  }
+]

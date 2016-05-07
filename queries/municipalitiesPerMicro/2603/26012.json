@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2600302",
+    "D3N": "Agrestina - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "201.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2600807",
+    "D3N": "Altinho - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "454.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2601300",
+    "D3N": "Barra de Guabiraba - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "114.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2602308",
+    "D3N": "Bonito - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "395.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2603504",
+    "D3N": "Camocim de São Félix - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "72.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2605004",
+    "D3N": "Cupira - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "105.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2606705",
+    "D3N": "Ibirajuba - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "189.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2608701",
+    "D3N": "Lagoa dos Gatos - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "222.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2610202",
+    "D3N": "Panelas - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "370.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2612000",
+    "D3N": "Sairé - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "191.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2613305",
+    "D3N": "São Joaquim do Monte - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "231.8"
+  }
+]

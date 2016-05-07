@@ -1,0 +1,233 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4301859",
+    "D3N": "Barra do Guarita - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "64.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4302204",
+    "D3N": "Boa Vista do Buricá - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "108.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4302378",
+    "D3N": "Bom Progresso - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "88.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4302600",
+    "D3N": "Braga - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "129.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4304002",
+    "D3N": "Campo Novo - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "222.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4306007",
+    "D3N": "Crissiumal - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "362.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4306320",
+    "D3N": "Derrubadas - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "361.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4306734",
+    "D3N": "Doutor Maurício Cardoso - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "252.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4307450",
+    "D3N": "Esperança do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "148.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4309605",
+    "D3N": "Horizontina - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "232.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4309704",
+    "D3N": "Humaitá - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "134.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4312302",
+    "D3N": "Miraguaí - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "130.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4313011",
+    "D3N": "Nova Candelária - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "97.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4315404",
+    "D3N": "Redentora - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "302.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4319109",
+    "D3N": "São Martinho - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "171.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4320230",
+    "D3N": "Sede Nova - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "119.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4321402",
+    "D3N": "Tenente Portela - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "338.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4321477",
+    "D3N": "Tiradentes do Sul - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "234.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4321907",
+    "D3N": "Três Passos - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "268.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4323705",
+    "D3N": "Vista Gaúcha - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "88.7"
+  }
+]

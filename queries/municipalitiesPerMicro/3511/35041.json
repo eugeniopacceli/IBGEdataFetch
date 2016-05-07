@@ -1,0 +1,145 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3505005",
+    "D3N": "Barão de Antonina - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "153.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3507159",
+    "D3N": "Bom Sucesso de Itararé - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "133.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3508009",
+    "D3N": "Buri - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1195.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3512605",
+    "D3N": "Coronel Macedo - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "303.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3521705",
+    "D3N": "Itaberá - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1082.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3522406",
+    "D3N": "Itapeva - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1826.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3522802",
+    "D3N": "Itaporanga - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "507.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3523206",
+    "D3N": "Itararé - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1003.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3532827",
+    "D3N": "Nova Campina - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "385.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3543501",
+    "D3N": "Riversul - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "386.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3553807",
+    "D3N": "Taquarituba - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "448.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3553856",
+    "D3N": "Taquarivaí - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "231.8"
+  }
+]

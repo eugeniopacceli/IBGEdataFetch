@@ -1,0 +1,222 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4100400",
+    "D3N": "Almirante Tamandaré - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "194.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4101804",
+    "D3N": "Araucária - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "469.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4102307",
+    "D3N": "Balsa Nova - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "349.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4103107",
+    "D3N": "Bocaiúva do Sul - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "826.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4104006",
+    "D3N": "Campina Grande do Sul - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "539.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4104204",
+    "D3N": "Campo Largo - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1249.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4104253",
+    "D3N": "Campo Magro - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "275.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4105805",
+    "D3N": "Colombo - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "197.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4106209",
+    "D3N": "Contenda - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "299.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4106902",
+    "D3N": "Curitiba - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "435.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4107652",
+    "D3N": "Fazenda Rio Grande - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "116.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4111258",
+    "D3N": "Itaperuçu - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "314.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4114302",
+    "D3N": "Mandirituba - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "379.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4119152",
+    "D3N": "Pinhais - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "60.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4119509",
+    "D3N": "Piraquara - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "227.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4120804",
+    "D3N": "Quatro Barras - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "181.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4122206",
+    "D3N": "Rio Branco do Sul - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "812.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4125506",
+    "D3N": "São José dos Pinhais - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "946.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4127882",
+    "D3N": "Tunas do Paraná - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "668.5"
+  }
+]

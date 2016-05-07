@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2103802",
+    "D3N": "Dom Pedro - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "358.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2104206",
+    "D3N": "Fortuna - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "695.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2104404",
+    "D3N": "Gonçalves Dias - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "878.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2104503",
+    "D3N": "Governador Archer - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "450.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2104602",
+    "D3N": "Governador Eugênio Barros - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "817.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2104628",
+    "D3N": "Governador Luiz Rocha - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "373.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2104701",
+    "D3N": "Graça Aranha - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "271.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2109106",
+    "D3N": "Presidente Dutra - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "771.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2110708",
+    "D3N": "São Domingos do Maranhão - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1152.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2111250",
+    "D3N": "São José dos Basílios - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "362.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2111748",
+    "D3N": "Senador Alexandre Costa - MA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "426.4"
+  }
+]

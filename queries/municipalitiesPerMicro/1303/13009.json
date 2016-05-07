@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1301902",
+    "D3N": "Itacoatiara - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "8892.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1302009",
+    "D3N": "Itapiranga - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4231.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1303106",
+    "D3N": "Nova Olinda do Norte - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "5608.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1304005",
+    "D3N": "Silves - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "3748.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1304401",
+    "D3N": "Urucurituba - AM",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2906.7"
+  }
+]

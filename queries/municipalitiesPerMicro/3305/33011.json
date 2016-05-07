@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3300407",
+    "D3N": "Barra Mansa - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "547.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3302254",
+    "D3N": "Itatiaia - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "245.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3303955",
+    "D3N": "Pinheiral - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "76.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3304003",
+    "D3N": "Piraí - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "505.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3304110",
+    "D3N": "Porto Real - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "50.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3304128",
+    "D3N": "Quatis - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "286.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3304201",
+    "D3N": "Resende - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1095.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3304409",
+    "D3N": "Rio Claro - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "840.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3306305",
+    "D3N": "Volta Redonda - RJ",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "182.5"
+  }
+]

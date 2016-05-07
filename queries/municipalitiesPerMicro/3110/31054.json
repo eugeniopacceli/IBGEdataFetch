@@ -1,0 +1,189 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3101300",
+    "D3N": "Alagoa - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "161.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3104908",
+    "D3N": "Baependi - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "750.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3110707",
+    "D3N": "Cambuquira - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "246.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3114105",
+    "D3N": "Carmo de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "322.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3115508",
+    "D3N": "Caxambu - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "100.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3117702",
+    "D3N": "Conceição do Rio Verde - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "369.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3133006",
+    "D3N": "Itamonte - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "431.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3133105",
+    "D3N": "Itanhandu - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "143.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3135902",
+    "D3N": "Jesuânia - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "153.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3137809",
+    "D3N": "Lambari - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "213.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3145505",
+    "D3N": "Olímpio Noronha - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "54.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3147600",
+    "D3N": "Passa Quatro - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "277.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3152600",
+    "D3N": "Pouso Alto - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "261.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3163706",
+    "D3N": "São Lourenço - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "58.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3164902",
+    "D3N": "São Sebastião do Rio Verde - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "92.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3167806",
+    "D3N": "Soledade de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "196.9"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2300150",
+    "D3N": "Acarape - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "160.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2301208",
+    "D3N": "Aracoiaba - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "656.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2301406",
+    "D3N": "Aratuba - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "114.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2302107",
+    "D3N": "Baturité - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "308.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2302909",
+    "D3N": "Capistrano - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "222.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2305100",
+    "D3N": "Guaramiranga - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "100.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2306504",
+    "D3N": "Itapiúna - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "588.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2309102",
+    "D3N": "Mulungu - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "95.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2309805",
+    "D3N": "Pacoti - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "109.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2310100",
+    "D3N": "Palmácia - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "117.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2311603",
+    "D3N": "Redenção - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "225.6"
+  }
+]

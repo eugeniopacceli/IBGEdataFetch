@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2604155",
+    "D3N": "Casinhas - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "115.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2605806",
+    "D3N": "Frei Miguelinho - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "212.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2612505",
+    "D3N": "Santa Cruz do Capibaribe - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "335.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2612703",
+    "D3N": "Santa Maria do Cambucá - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "92.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2614501",
+    "D3N": "Surubim - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "252.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2615003",
+    "D3N": "Taquaritinga do Norte - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "475.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2615409",
+    "D3N": "Toritama - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "25.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2616183",
+    "D3N": "Vertente do Lério - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "73.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2616209",
+    "D3N": "Vertentes - PE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "196.3"
+  }
+]

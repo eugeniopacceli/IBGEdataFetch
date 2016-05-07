@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2909208",
+    "D3N": "Coronel João Sá - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "883.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2918100",
+    "D3N": "Jeremoabo - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "4656.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2924207",
+    "D3N": "Pedro Alexandre - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "896.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2927606",
+    "D3N": "Santa Brígida - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "882.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2930766",
+    "D3N": "Sítio do Quinto - BA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "702.1"
+  }
+]

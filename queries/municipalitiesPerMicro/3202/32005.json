@@ -1,0 +1,57 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3201605",
+    "D3N": "Conceição da Barra - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1187.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3203056",
+    "D3N": "Jaguaré - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "656.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3204054",
+    "D3N": "Pedro Canário - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "434.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3204906",
+    "D3N": "São Mateus - ES",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2343.2"
+  }
+]

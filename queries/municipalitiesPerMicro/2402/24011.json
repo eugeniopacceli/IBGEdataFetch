@@ -1,0 +1,90 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2402006",
+    "D3N": "Caicó - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1228.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2404804",
+    "D3N": "Ipueira - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "127.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2405603",
+    "D3N": "Jardim de Piranhas - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "330.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2411809",
+    "D3N": "São Fernando - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "404.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2412104",
+    "D3N": "São João do Sabugi - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "277.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2413409",
+    "D3N": "Serra Negra do Norte - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "562.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2414308",
+    "D3N": "Timbaúba dos Batistas - RN",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "135.5"
+  }
+]

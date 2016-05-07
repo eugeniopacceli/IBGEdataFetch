@@ -1,0 +1,145 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4200051",
+    "D3N": "Abdon Batista - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "235.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4202875",
+    "D3N": "Brunópolis - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "335.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4203600",
+    "D3N": "Campos Novos - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1719.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4204806",
+    "D3N": "Curitibanos - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "952.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4205555",
+    "D3N": "Frei Rogério - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "157.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4211058",
+    "D3N": "Monte Carlo - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "193.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4213302",
+    "D3N": "Ponte Alta - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "566.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4213351",
+    "D3N": "Ponte Alta do Norte - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "401.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4215505",
+    "D3N": "Santa Cecília - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1145.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4216057",
+    "D3N": "São Cristovão do Sul - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "349.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4219150",
+    "D3N": "Vargem - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "350.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4219853",
+    "D3N": "Zortéa - SC",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "190.1"
+  }
+]

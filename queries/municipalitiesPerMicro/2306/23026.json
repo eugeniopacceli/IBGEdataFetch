@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2303808",
+    "D3N": "Cedro - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "725.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2305407",
+    "D3N": "Icó - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1872.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2305506",
+    "D3N": "Iguatu - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1017.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2309508",
+    "D3N": "Orós - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "576.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2311355",
+    "D3N": "Quixelô - CE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "583.2"
+  }
+]

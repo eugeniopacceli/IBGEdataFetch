@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4105300",
+    "D3N": "Céu Azul - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1179.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4108304",
+    "D3N": "Foz do Iguaçu - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "617.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4110953",
+    "D3N": "Itaipulândia - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "331.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4115606",
+    "D3N": "Matelândia - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "639.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4115804",
+    "D3N": "Medianeira - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "328.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4116059",
+    "D3N": "Missal - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "324.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4121257",
+    "D3N": "Ramilândia - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "237.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4124053",
+    "D3N": "Santa Terezinha de Itaipu - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "259.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4125704",
+    "D3N": "São Miguel do Iguaçu - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "851.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4126355",
+    "D3N": "Serranópolis do Iguaçu - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "483.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4128559",
+    "D3N": "Vera Cruz do Oeste - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "327.1"
+  }
+]

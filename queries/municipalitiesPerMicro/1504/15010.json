@@ -1,0 +1,156 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1500909",
+    "D3N": "Augusto Corrêa - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1091.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1501600",
+    "D3N": "Bonito - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "586.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1501709",
+    "D3N": "Bragança - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "2091.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1502202",
+    "D3N": "Capanema - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "613.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1503200",
+    "D3N": "Igarapé-Açu - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "786.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1505007",
+    "D3N": "Nova Timboteua - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "489.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1505601",
+    "D3N": "Peixe-Boi - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "451.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1506104",
+    "D3N": "Primavera - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "258.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1506112",
+    "D3N": "Quatipuru - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "324.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1506609",
+    "D3N": "Santa Maria do Pará - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "457.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1506906",
+    "D3N": "Santarém Novo - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "229.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1507409",
+    "D3N": "São Francisco do Pará - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "479.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1508035",
+    "D3N": "Tracuateua - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "936.1"
+  }
+]

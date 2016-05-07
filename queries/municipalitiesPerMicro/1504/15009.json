@@ -1,0 +1,134 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1502608",
+    "D3N": "Colares - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "609.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1502905",
+    "D3N": "Curuçá - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "672.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1504109",
+    "D3N": "Magalhães Barata - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "323.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1504307",
+    "D3N": "Maracanã - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "857.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1504406",
+    "D3N": "Marapanim - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "796.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1506203",
+    "D3N": "Salinópolis - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "237.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1507102",
+    "D3N": "São Caetano de Odivelas - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "743.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1507466",
+    "D3N": "São João da Ponta - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "195.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1507474",
+    "D3N": "São João de Pirabas - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "705.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1507961",
+    "D3N": "Terra Alta - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "206.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "1508209",
+    "D3N": "Vigia - PA",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "539.1"
+  }
+]

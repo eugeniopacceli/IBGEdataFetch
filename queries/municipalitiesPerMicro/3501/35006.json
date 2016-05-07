@@ -1,0 +1,112 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3504206",
+    "D3N": "Auriflama - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "434.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3515905",
+    "D3N": "Floreal - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "204.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3516804",
+    "D3N": "Gastão Vidigal - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "180.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3516903",
+    "D3N": "General Salgado - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "493.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3518909",
+    "D3N": "Guzolândia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "252.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3528304",
+    "D3N": "Magda - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "311.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3532868",
+    "D3N": "Nova Castilho - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "183.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3533304",
+    "D3N": "Nova Luzitânia - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "74.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3549250",
+    "D3N": "São João de Iracema - SP",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "178.6"
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2200400",
+    "D3N": "Altos - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "957.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2201606",
+    "D3N": "Beneditinos - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "788.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2202737",
+    "D3N": "Coivaras - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "485.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2203255",
+    "D3N": "Curralinhos - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "345.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2203305",
+    "D3N": "Demerval Lobão - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "216.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2205508",
+    "D3N": "José de Freitas - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1538.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2205557",
+    "D3N": "Lagoa Alegre - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "394.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2205581",
+    "D3N": "Lagoa do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "426.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2206308",
+    "D3N": "Miguel Leão - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "93.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2206407",
+    "D3N": "Monsenhor Gil - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "568.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2206720",
+    "D3N": "Nazária - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "363.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2207793",
+    "D3N": "Pau D'Arco do Piauí - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "430.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2211001",
+    "D3N": "Teresina - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1392.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2211100",
+    "D3N": "União - PI",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1173.4"
+  }
+]

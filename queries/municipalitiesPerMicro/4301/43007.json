@@ -1,0 +1,189 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4302501",
+    "D3N": "Bossoroca - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1610.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4305009",
+    "D3N": "Catuípe - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "583.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4306353",
+    "D3N": "Dezesseis de Novembro - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "216.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4306932",
+    "D3N": "Entre-Ijuís - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "552.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4307831",
+    "D3N": "Eugênio de Castro - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "419.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4309001",
+    "D3N": "Giruá - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "855.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4314555",
+    "D3N": "Pirapó - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "291.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4315958",
+    "D3N": "Rolador - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "295.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4317509",
+    "D3N": "Santo Ângelo - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "680.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4317707",
+    "D3N": "Santo Antônio das Missões - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1710.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4318903",
+    "D3N": "São Luiz Gonzaga - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1295.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4319158",
+    "D3N": "São Miguel das Missões - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1229.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4319208",
+    "D3N": "São Nicolau - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "485.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4320321",
+    "D3N": "Senador Salgado Filho - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "147.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4322343",
+    "D3N": "Ubiretama - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "126.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4323754",
+    "D3N": "Vitória das Missões - RS",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "259.6"
+  }
+]

@@ -1,0 +1,211 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3102308",
+    "D3N": "Alvinópolis - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "599.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3105400",
+    "D3N": "Barão de Cocais - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "340.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3106002",
+    "D3N": "Bela Vista de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "109.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3107703",
+    "D3N": "Bom Jesus do Amparo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "195.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3115359",
+    "D3N": "Catas Altas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "240.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3121803",
+    "D3N": "Dionísio - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "344.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3125903",
+    "D3N": "Ferros - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1088.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3131703",
+    "D3N": "Itabira - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1253.7"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3136207",
+    "D3N": "João Monlevade - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "99.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3136603",
+    "D3N": "Nova União - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "172.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3144706",
+    "D3N": "Nova Era - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "361.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3155702",
+    "D3N": "Rio Piracicaba - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "373.0"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3157203",
+    "D3N": "Santa Bárbara - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "684.1"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3158003",
+    "D3N": "Santa Maria de Itabira - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "597.4"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3161007",
+    "D3N": "São Domingos do Prata - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "743.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3161908",
+    "D3N": "São Gonçalo do Rio Abaixo - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "363.8"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3163409",
+    "D3N": "São José do Goiabal - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "184.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "3168309",
+    "D3N": "Taquaraçu de Minas - MG",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "329.2"
+  }
+]

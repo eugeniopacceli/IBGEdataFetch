@@ -1,0 +1,79 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2800209",
+    "D3N": "Aquidabã - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "359.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2801900",
+    "D3N": "Cumbe - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "128.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2803807",
+    "D3N": "Malhada dos Bois - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "63.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2804300",
+    "D3N": "Muribeca - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "75.9"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2804607",
+    "D3N": "Nossa Senhora das Dores - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "483.3"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "2807006",
+    "D3N": "São Miguel do Aleixo - SE",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "144.1"
+  }
+]

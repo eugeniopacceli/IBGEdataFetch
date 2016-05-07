@@ -1,0 +1,68 @@
+[
+  {
+    "D1C": "Ano (Código)",
+    "D1N": "Ano",
+    "D2C": "Variável (Código)",
+    "D2N": "Variável",
+    "D3C": "Município (Código)",
+    "D3N": "Município",
+    "MC": "Unidade de Medida (Código)",
+    "MN": "Unidade de Medida",
+    "V": "Valor"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4105706",
+    "D3N": "Clevelândia - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "704.6"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4106456",
+    "D3N": "Coronel Domingos Soares - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1576.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4109658",
+    "D3N": "Honório Serpa - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "502.2"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4114401",
+    "D3N": "Mangueirinha - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1055.5"
+  },
+  {
+    "D1C": "2010",
+    "D1N": "2010",
+    "D2C": "615",
+    "D2N": "Área total das unidades territoriais",
+    "D3C": "4117602",
+    "D3N": "Palmas - PR",
+    "MC": "26",
+    "MN": "Quilômetros quadrados",
+    "V": "1567.4"
+  }
+]
