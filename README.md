@@ -23,6 +23,7 @@ This example implements the following capabilities:
 * Does not request same data twice;
 * Populates Java entities with data from those JSON files;
 * Populates a MySQL data base with said entities. (TODO)
+* Logs everything, step by step.
 
 #Dependencies
 
