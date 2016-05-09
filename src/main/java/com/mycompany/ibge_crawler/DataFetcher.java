@@ -34,7 +34,7 @@ public class DataFetcher implements Initializable {
     private String xlsFile;
 
     // Reads a Excel input file and populates the Meso regions represented by Java objects.
-    // http://www.sidra.ibge.gov.br/bda/territorio/download/meso.xls
+    // http://www.sidra.ibge.gov.br/bda/territorio/download/meso.xls modified, UF to their equivalent Numeric code.
     private ArrayList<Meso> readMesoSheet(Workbook wb) {
         ArrayList<Meso> mesos = new ArrayList<>();
         Sheet sheet = wb.getSheetAt(0);
@@ -42,14 +42,13 @@ public class DataFetcher implements Initializable {
 
         do {
             Meso meso = new Meso();
-            meso.setUF(sheet.getRow(row).getCell(0).getStringCellValue());
+            meso.setUF(Integer.toString((int) sheet.getRow(row).getCell(0).getNumericCellValue()));
             meso.setCode(Integer.toString((int) sheet.getRow(row).getCell(1).getNumericCellValue()));
             meso.setName(sheet.getRow(row).getCell(2).getStringCellValue());
             mesos.add(meso);
             writeToOutput(meso.getUF() + "\t" + meso.getCode() + "\t" + meso.getName() + "\n");
             row++;
-        } while (sheet.getRow(row) != null
-                && !sheet.getRow(row).getCell(0).getStringCellValue().isEmpty());
+        } while (sheet.getRow(row) != null);
         writeToOutput("\n<-> End of spreadsheet <->\n\n");
         return mesos;
     }
@@ -139,6 +138,38 @@ public class DataFetcher implements Initializable {
         }
         writeToOutput(mapString + "\n<-> End of linking macro regions with their micro regions. <->\n\n");
     }
+    
+    private void writeToFile(ArrayList<Meso> mesos) throws IOException{
+        StringBuilder resultString = new StringBuilder();
+        for(Meso m : mesos){
+           resultString.append(m.getCode()).append("\t")
+                                           .append(m.getName().toUpperCase())
+                                           .append("\t")
+                                           .append(m.getUF())
+                                           .append("\t\t\t\t\n");
+        }
+        for(Meso m : mesos){
+            for(Micro mi : m.getMicroRegions()){
+                resultString.append(mi.getCode()).append("\t")
+                                                 .append(mi.getName().substring(0, mi.getName().length() - 4).toUpperCase())
+                                                 .append("\t")
+                                                 .append(mi.getMeso())
+                                                 .append("\t\t\t\t\n");
+            }
+        }
+        for(Meso m : mesos){
+            for(Micro mi : m.getMicroRegions()){
+                for(Municipality mu : mi.getMunicipalities()){
+                    resultString.append(mu.getCode()).append("\t")
+                                                     .append(mu.getName().substring(0, mu.getName().length() - 4).toUpperCase())
+                                                     .append("\t")
+                                                     .append(mu.getMicro())
+                                                     .append("\t\t\t\t\n");
+                }
+            }
+        }
+        FileUtils.writeStringToFile(new File("queries/MesoMicroMunicipalities.txt"), resultString.toString(), "UTF-8");
+    }
 
     // MAIN LOGIC FLOW
     // Fetches data to files, then populates the actual objects with data from the files.
@@ -157,7 +188,10 @@ public class DataFetcher implements Initializable {
                 fetchAllMunicipalitiesFromAllMicrosToFiles(mesos);
                 populateMicrosWithMunicipalitiesFromFiles(mesos);
                 
+                writeToFile(mesos);
+                writeToOutput("<-> Results written to queries/MesoMicroMunicipalities.txt. <->\n\n");
                 writeToOutput("<-> End of computation. <->");
+                
             } else {
                 writeToOutput("No spreadsheet as source specified.");
             }
